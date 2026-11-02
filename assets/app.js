@@ -141,6 +141,9 @@
     });
   }
 
+  /** In-page yes/no confirmation (native confirm() is blocked in some embedded viewers). */
+  const ask = (msg, okLabel = 'OK') => formModal(msg, [], okLabel).then((v) => !!v);
+
   /* ---------- Gamification shared logic ---------- */
   const levelFor = (xp) => Math.floor(Math.sqrt(xp / 50)) + 1;          // L2 @50xp, L3 @200xp, L4 @450xp…
   const xpForLevel = (lvl) => 50 * (lvl - 1) ** 2;
@@ -212,7 +215,7 @@
 
   window.LifeOS = {
     get state() { return state; }, set state(v) { state = v; },
-    save, uid, esc, $, $$, toast, formModal, iso, todayISO, addDays,
+    save, uid, esc, $, $$, toast, formModal, ask, iso, todayISO, addDays,
     levelFor, xpForLevel, titleFor, occurrencesOn, mountChrome, exportData, importData, resetData,
   };
 })();

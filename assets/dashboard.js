@@ -347,11 +347,11 @@
     const d = t.dataset;
     if (d.edit) editAuto(+d.edit);
     else if (d.eval) { evalIdx = +d.eval; renderEval(); $('#evalPick').scrollIntoView({ behavior: 'smooth', block: 'center' }); }
-    else if (d.del) { if (confirm('Delete this automation?')) { S().automations.splice(+d.del, 1); evalIdx = 0; L.save(); renderAll(); } }
+    else if (d.del) { if (await L.ask('Delete this automation?', 'Delete')) { S().automations.splice(+d.del, 1); evalIdx = 0; L.save(); renderAll(); } }
     else if (d.tab) { tab = d.tab; renderEval(); }
     else if (d.dec) { S().experiments[+d.dec].decision = d.v; L.save(); renderAll(); toast('Decision saved: ' + d.v); }
     else if (d.xedit) editExp(+d.xedit);
-    else if (d.xdel) { if (confirm('Delete this entry?')) { S().experiments.splice(+d.xdel, 1); L.save(); renderAll(); } }
+    else if (d.xdel) { if (await L.ask('Delete this entry?', 'Delete')) { S().experiments.splice(+d.xdel, 1); L.save(); renderAll(); } }
   });
   $('#addAuto').onclick = () => editAuto(null);
   $('#addExp').onclick = () => editExp(null);
@@ -360,7 +360,7 @@
   $('#evalPick').onchange = (e) => { evalIdx = +e.target.value; renderEval(); };
   $('#exportBtn').onclick = L.exportData;
   $('#importInput').onchange = (e) => e.target.files[0] && L.importData(e.target.files[0], renderAll);
-  $('#resetBtn').onclick = () => { if (confirm('Replace all your data with the example data?')) { L.resetData(); evalIdx = 0; renderAll(); } };
+  $('#resetBtn').onclick = async () => { if (await L.ask('Replace all your data with the example data?', 'Replace')) { L.resetData(); evalIdx = 0; renderAll(); } };
   $('#notifyBtn').onclick = async () => {
     if (!('Notification' in window)) return toast('This browser does not support notifications');
     const p = await Notification.requestPermission();

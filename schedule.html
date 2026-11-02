@@ -6,21 +6,21 @@
   <title>LifeOS Schedule</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@600;700;800&family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap">
   <link rel="stylesheet" href="assets/style.css">
   <style>
-    .week { display: grid; grid-template-columns: 52px repeat(7, minmax(0, 1fr)); border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); overflow: hidden; }
-    .week .dh { padding: 8px 6px; text-align: center; font-weight: 600; font-size: .85rem; border-bottom: 1px solid var(--border); border-left: 1px solid var(--border); }
-    .week .dh.today { background: var(--accent-soft); color: var(--accent); }
+    .week { display: grid; grid-template-columns: 56px repeat(7, minmax(0, 1fr)); border: 2px solid var(--line); border-radius: var(--radius); background: var(--surface); overflow: hidden; }
+    .week .dh { padding: 10px 6px; text-align: center; font: 600 .72rem/1 var(--f-mono); letter-spacing: .1em; text-transform: uppercase; border-bottom: 2px solid var(--line); border-left: 1px solid var(--border); }
+    .week .dh.today { background: var(--signal); color: var(--signal-ink); }
     .week .hours { position: relative; }
-    .week .hours div { height: 40px; font-size: .72rem; color: var(--muted); text-align: right; padding-right: 6px; transform: translateY(-7px); }
+    .week .hours div { height: 40px; font: .68rem var(--f-mono); color: var(--muted); text-align: right; padding-right: 6px; transform: translateY(-7px); }
     .week .col { position: relative; border-left: 1px solid var(--border); background-image: repeating-linear-gradient(to bottom, transparent 0 39px, var(--border) 39px 40px); }
     .week .col.today { background-color: color-mix(in srgb, var(--accent-soft) 35%, transparent); }
-    .blk { position: absolute; left: 3px; right: 3px; border-radius: 6px; padding: 3px 6px; font-size: .74rem; line-height: 1.25; overflow: hidden; cursor: pointer; color: #fff; }
+    .blk { position: absolute; left: 3px; right: 3px; border-radius: 3px; border: 1.5px solid var(--line); padding: 3px 6px; font-size: .74rem; line-height: 1.25; overflow: hidden; cursor: pointer; color: #fff; }
     .blk b { display: block; font-weight: 600; }
-    .nowline { position: absolute; left: 0; right: 0; height: 2px; background: var(--bad); z-index: 2; }
-    .cat-work { background: #4f46e5; } .cat-content { background: #c2410c; } .cat-review { background: #0e7490; }
-    .cat-health { background: #15803d; } .cat-learning { background: #7c3aed; } .cat-personal { background: #be185d; } .cat-event { background: #b45309; }
+    .nowline { position: absolute; left: 0; right: 0; height: 3px; background: var(--signal); z-index: 2; }
+    .cat-work { background: var(--accent); } .cat-content { background: var(--signal); color: var(--signal-ink) !important; } .cat-review { background: #0b7285; }
+    .cat-health { background: #0f7a4f; } .cat-learning { background: #6741d9; } .cat-personal { background: #c2255c; } .cat-event { background: var(--ink); color: var(--bg) !important; }
     .dot { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 4px; vertical-align: middle; }
     @media (max-width: 760px) { .week { display: none; } #agenda { display: block !important; } }
   </style>

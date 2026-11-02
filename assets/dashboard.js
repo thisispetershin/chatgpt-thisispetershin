@@ -57,21 +57,29 @@
   function renderKpis() {
     const s = S();
     const now = new Date();
+    const hhmm = now.toTimeString().slice(0, 5);
     const today = L.occurrencesOn(now);
     const running = s.automations.filter((a) => a.status === 'running').length;
     const avg = s.automations.length ? Math.round(s.automations.reduce((t, a) => t + (+a.progress || 0), 0) / s.automations.length) : 0;
     const open = s.quests.filter((q) => q.status !== 'done');
     const overdue = open.filter((q) => q.deadline && q.deadline < L.todayISO()).length;
-    const lvl = L.levelFor(s.player.xp);
-    $('#kpis').innerHTML = [
-      ['Today', today.length, 'scheduled blocks'],
-      ['Automations', `${running}/${s.automations.length}`, 'running'],
-      ['Avg progress', avg + '%', 'across automations'],
-      ['Quest level', 'Lv ' + lvl, `${open.length} open · ${overdue} overdue`],
-    ].map(([l, v, sub]) => `<div class="card stat"><div class="label">${l}</div><div class="value">${v}</div><div class="sub">${sub}</div></div>`).join('');
+    const xp = s.player.xp, lvl = L.levelFor(xp), cur = L.xpForLevel(lvl), nxt = L.xpForLevel(lvl + 1);
     const h = now.getHours();
-    $('#greet').textContent = h < 12 ? 'Good morning' : h < 18 ? 'Good afternoon' : 'Good evening';
-    $('#today').textContent = now.toLocaleDateString(undefined, { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+    $('#greet').textContent = h < 12 ? 'Good morning.' : h < 18 ? 'Good afternoon.' : 'Good evening.';
+    $('#today').textContent = now.toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
+    const nowItem = today.find((o) => o.start <= hhmm && o.end && o.end > hhmm);
+    const nextItem = today.find((o) => o.start > hhmm);
+    const nextQuest = open.filter((q) => q.deadline).sort((a, b) => a.deadline.localeCompare(b.deadline))[0];
+    $('#nownext').innerHTML = `
+      <dt>Now</dt><dd>${nowItem ? esc(nowItem.title) + ` <span class="num" style="opacity:.7">→ ${esc(nowItem.end)}</span>` : 'Free block'}</dd>
+      <dt>Next</dt><dd>${nextItem ? `<span class="num">${esc(nextItem.start)}</span> ${esc(nextItem.title)}` : 'Nothing else today'}</dd>
+      <dt>Quest</dt><dd>${nextQuest ? `${esc(nextQuest.title)} <span class="num" style="opacity:.7">· ${esc(nextQuest.deadline)}</span>` : 'No open quests'}</dd>`;
+    $('#questTile').innerHTML = `<div class="label-mono">Player level</div>
+      <div class="big">Lv ${lvl}</div><div style="font-weight:700;margin-top:4px">${L.titleFor(lvl)}</div>
+      <div class="xp"><span style="width:${((xp - cur) / (nxt - cur)) * 100}%"></span></div>
+      <div class="row num small" style="margin-top:8px"><span>${xp - cur}/${nxt - cur} XP</span><span class="spacer"></span><span>${open.length} open${overdue ? ` · ${overdue} late` : ''}</span></div>`;
+    $('#st1').innerHTML = `<div class="label-mono">Automations live</div><div class="big">${running}<span class="muted" style="font-size:1.1rem">/${s.automations.length}</span></div><div class="bar"><span style="width:${s.automations.length ? running / s.automations.length * 100 : 0}%"></span></div>`;
+    $('#st2').innerHTML = `<div class="label-mono">Avg progress</div><div class="big">${avg}<span class="muted" style="font-size:1.1rem">%</span></div><div class="bar"><span style="width:${avg}%"></span></div>`;
   }
 
   /* ---------- Today + notices ---------- */
@@ -108,7 +116,7 @@
       <div class="card lift">
         <div class="card-head"><h3 style="margin:0">${esc(a.name)}</h3><span class="pill ${statusPill(a.status)}">${esc(a.status)}</span></div>
         <div class="row small muted" style="margin-bottom:6px"><span>${esc(a.type)}</span><span>·</span><span>${esc(a.owner || '')}</span></div>
-        <div class="row small"><span>Progress</span><span class="spacer"></span><b class="num">${+a.progress || 0}%</b></div>
+        <div class="row small"><span>Progress</span><span class="spacer"></span><b class="num" style="font-size:1.1rem">${+a.progress || 0}%</b></div>
         <div class="bar ${a.progress >= 80 ? 'good' : ''}"><span style="width:${+a.progress || 0}%"></span></div>
         <dl class="kv" style="margin:12px 0 8px"><dt>Last run</dt><dd>${esc(a.lastRun || '—')}</dd><dt>Next run</dt><dd>${esc(a.nextRun || '—')}</dd></dl>
         <p class="small muted">${esc(a.tasks || '')}</p>

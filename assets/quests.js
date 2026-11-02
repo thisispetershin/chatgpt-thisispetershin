@@ -122,23 +122,23 @@
     const y = (xx) => H / 2 + Math.sin(xx / 70) * 30;
     let path = ''; for (let xx = pad; xx <= W - pad; xx += 6) path += `${xx === pad ? 'M' : 'L'}${xx},${y(xx).toFixed(1)} `;
     const qs = s.quests.filter((q) => q.deadline && q.status !== 'done').sort((a, b) => a.deadline.localeCompare(b.deadline));
-    const col = { daily: '#94a3b8', week: '#22c55e', month: '#3b82f6', year: '#a855f7' };
+    const col = { daily: 'var(--muted)', week: 'var(--good)', month: 'var(--accent)', year: 'var(--signal)' };
     const used = {};
     const nodes = qs.map((q) => {
       const cx = x(q.deadline); const over = q.deadline < L.todayISO();
       const k = Math.round(cx); used[k] = (used[k] || 0) + 1;
       const cy = y(cx) - (used[k] - 1) * 18;
-      return `<g><title>${esc(q.title)} — ${q.deadline}</title><circle cx="${cx}" cy="${cy}" r="8" fill="${over ? '#ef4444' : col[q.horizon] || '#94a3b8'}" stroke="var(--surface)" stroke-width="2"/>
+      return `<g><title>${esc(q.title)} — ${q.deadline}</title><circle cx="${cx}" cy="${cy}" r="8" fill="${over ? 'var(--bad)' : col[q.horizon] || 'var(--muted)'}" stroke="var(--line)" stroke-width="2"/>
         ${used[k] === 1 ? `<text x="${cx}" y="${y(cx) + 26}" font-size="10" text-anchor="middle" fill="var(--muted)">${esc(q.title.slice(0, 16))}${q.title.length > 16 ? '…' : ''}</text>` : ''}</g>`;
     }).join('');
-    const ticks = [0, 7, 14, 21, 30, 45].map((d) => { const xx = pad + d / DAYS * (W - 2 * pad); return `<text x="${xx}" y="${H - 4}" font-size="10" text-anchor="middle" fill="var(--muted)">${d === 0 ? 'Today' : '+' + d + 'd'}</text>`; }).join('');
+    const ticks = [0, 7, 14, 21, 30, 45].map((d) => { const xx = pad + d / DAYS * (W - 2 * pad); return `<text x="${xx}" y="${H - 4}" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="var(--muted)">${d === 0 ? 'Today' : '+' + d + 'd'}</text>`; }).join('');
     $('#map').innerHTML = `<svg viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="Upcoming quest deadlines">
-      <path d="${path}" fill="none" stroke="var(--border)" stroke-width="10" stroke-linecap="round"/>
-      <path d="${path}" fill="none" stroke="var(--surface)" stroke-width="2" stroke-dasharray="6 8"/>
+      <path d="${path}" fill="none" stroke="var(--surface-2)" stroke-width="14" stroke-linecap="round"/>
+      <path d="${path}" fill="none" stroke="var(--line)" stroke-width="2" stroke-dasharray="2 8" stroke-linecap="round"/>
       <text x="${pad}" y="${y(pad) - 16}" font-size="18" text-anchor="middle">🧙</text>
       <text x="${W - pad}" y="${y(W - pad) - 14}" font-size="18" text-anchor="middle">🏰</text>
       ${nodes}${ticks}</svg>
-      <div class="row small muted">${[['#22c55e', 'week'], ['#3b82f6', 'month'], ['#a855f7', 'year'], ['#ef4444', 'overdue']].map(([c, l]) => `<span><span style="color:${c}">●</span> ${l}</span>`).join('')}</div>`;
+      <div class="row small muted">${[['var(--good)', 'week'], ['var(--accent)', 'month'], ['var(--signal)', 'year'], ['var(--bad)', 'overdue']].map(([c, l]) => `<span><span style="color:${c}">●</span> ${l}</span>`).join('')}</div>`;
   }
 
   /* ---------- Board ---------- */
@@ -167,7 +167,7 @@
     const f = $('#filter').value;
     const qs = S().quests.filter((q) => !f || q.horizon === f);
     const byDl = (a, b) => (a.deadline || '9999').localeCompare(b.deadline || '9999');
-    const cols = [['todo', '📜 Available'], ['doing', '⚔ In progress'], ['done', '🏆 Completed']];
+    const cols = [['todo', 'Available'], ['doing', 'In progress'], ['done', 'Completed']];
     $('#board').innerHTML = cols.map(([st, lab]) => {
       const list = qs.filter((q) => q.status === st).sort(st === 'done' ? (a, b) => (b.doneAt || '').localeCompare(a.doneAt || '') : byDl);
       return `<div><div class="col-h"><span>${lab}</span><span class="pill">${list.length}</span></div>${list.slice(0, st === 'done' ? 8 : 99).map(qCard).join('') || '<p class="empty">—</p>'}</div>`;

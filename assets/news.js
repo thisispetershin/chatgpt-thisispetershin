@@ -27,9 +27,9 @@
       <div class="row"><button class="btn-sm" id="tPrev">←</button><span class="small muted num">${ti + 1}/${window.GLOSSARY.length}</span><button class="btn-sm" id="tNext">→</button></div></div>
       <p class="term-lead">${esc(g.what)}</p>
       <div class="grid g3">
-        <div><h3>⚙ How it works</h3><p class="small">${esc(g.how)}</p></div>
-        <div><h3>💡 Why it matters</h3><p class="small">${esc(g.why)}</p></div>
-        <div><h3>⚠ Risks</h3><p class="small">${esc(g.risks)}</p></div>
+        <div><h3>How it works</h3><p class="small">${esc(g.how)}</p></div>
+        <div><h3>Why it matters</h3><p class="small">${esc(g.why)}</p></div>
+        <div><h3>Risks</h3><p class="small">${esc(g.risks)}</p></div>
       </div>
       <p class="small muted" style="margin:6px 0 0">Content idea: turn today's term into a 60-second explainer for your channel.</p>`;
     $('#tPrev').onclick = () => { ti = (ti - 1 + window.GLOSSARY.length) % window.GLOSSARY.length; renderTerm(); };

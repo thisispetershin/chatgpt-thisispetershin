@@ -187,6 +187,8 @@
       `<a href="${h}" class="${h === active ? 'active' : ''}">${l}</a>`).join('')}</nav>
       <button class="btn-ghost btn-sm" id="themeBtn" title="Toggle theme">◐ Theme</button></div>`;
     document.body.prepend(header);
+    const act = header.querySelector('.nav a.active');
+    if (act) header.querySelector('.nav').scrollLeft = act.offsetLeft - 24;
     try { const t = localStorage.getItem('lifeos.theme'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
     $('#themeBtn').onclick = () => {
       const cur = document.documentElement.dataset.theme

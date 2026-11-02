@@ -6,25 +6,27 @@
   <title>LifeOS Dashboard</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@600;700;800&family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 <main>
-  <div class="page-head">
-    <div>
-      <p class="eyebrow">LifeOS · Command center</p>
-      <h1 id="greet">Dashboard</h1>
-      <p class="muted" id="today"></p>
+  <section class="bento" id="bento">
+    <div class="tile tile-hero">
+      <div style="position:relative;z-index:1">
+        <p class="eyebrow" id="today"></p>
+        <h1 id="greet">Command center</h1>
+      </div>
+      <dl class="nownext" id="nownext"></dl>
+      <div class="row" style="position:relative;z-index:1">
+        <a class="btn btn-primary" href="quests.html">Open quest board →</a>
+        <a class="btn" href="news.html">Today's briefing</a>
+      </div>
     </div>
-    <div class="row">
-      <a class="btn" href="news.html">📰 Today's AI & Web3 news</a>
-      <a class="btn btn-primary" href="quests.html">⚔ Quest board</a>
-    </div>
-  </div>
-
-  <!-- KPIs -->
-  <section class="grid g4" id="kpis"></section>
+    <a class="tile tile-quest" href="quests.html" id="questTile"></a>
+    <div class="tile tile-stat" id="st1"></div>
+    <div class="tile tile-stat" id="st2"></div>
+  </section>
 
   <!-- Today + notices -->
   <section class="grid g2">
@@ -33,7 +35,7 @@
       <ul class="list" id="todayList"></ul>
     </div>
     <div class="card">
-      <div class="card-head"><h2>Notices</h2><span class="pill accent" id="noticeCount"></span></div>
+      <div class="card-head"><h2>Notices</h2><span class="pill bad" id="noticeCount"></span></div>
       <ul class="list" id="notices"></ul>
     </div>
   </section>

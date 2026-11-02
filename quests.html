@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LifeOS Quest Board</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap">
+  <link rel="stylesheet" href="assets/style.css">
+  <style>
+    .hero { display: grid; grid-template-columns: auto 1fr; gap: 18px; align-items: center; }
+    .avatar { width: 84px; height: 84px; border-radius: 20px; display: grid; place-items: center; font-size: 2.4rem;
+      background: linear-gradient(135deg, var(--accent), #c084fc); color: #fff; position: relative; }
+    .avatar .lv { position: absolute; bottom: -8px; right: -8px; background: var(--gold); color: #1b1400; font-weight: 800; font-size: .8rem; padding: 2px 8px; border-radius: 999px; }
+    .boss { position: relative; overflow: hidden; }
+    .boss .icon { font-size: 1.8rem; }
+    .boss .hp { height: 14px; border-radius: 999px; background: var(--surface-2); overflow: hidden; margin-top: 8px; }
+    .boss .hp span { display: block; height: 100%; background: linear-gradient(90deg, #ef4444, #f97316); transition: width .5s ease; }
+    .boss.slain { border-color: var(--good); }
+    .boss.slain::after { content: 'DEFEATED'; position: absolute; top: 12px; right: -30px; transform: rotate(35deg); background: var(--good); color: #fff; font-size: .7rem; font-weight: 800; padding: 2px 34px; }
+    .board { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+    @media (max-width: 860px) { .board { grid-template-columns: 1fr; } }
+    .col-h { display: flex; justify-content: space-between; align-items: center; font-weight: 700; margin-bottom: 8px; }
+    .qcard { background: var(--surface); border: 1px solid var(--border); border-left: 4px solid var(--muted); border-radius: 12px; padding: 10px 12px; margin-bottom: 10px; box-shadow: var(--shadow); }
+    .qcard.r-daily { border-left-color: #94a3b8; } .qcard.r-week { border-left-color: #22c55e; }
+    .qcard.r-month { border-left-color: #3b82f6; } .qcard.r-year { border-left-color: #a855f7; }
+    .qcard.overdue { background: var(--bad-soft); }
+    .qcard.done { opacity: .7; }
+    .qcard.done .qt { text-decoration: line-through; }
+    .qt { font-weight: 600; }
+    .map { overflow-x: auto; padding: 8px 0 4px; }
+    .map svg { display: block; min-width: 640px; }
+    .badge { display: inline-flex; flex-direction: column; align-items: center; width: 92px; text-align: center; font-size: .72rem; color: var(--muted); }
+    .badge .b { width: 52px; height: 52px; border-radius: 50%; display: grid; place-items: center; font-size: 1.5rem; background: var(--surface-2); filter: grayscale(1); opacity: .45; margin-bottom: 4px; }
+    .badge.on .b { filter: none; opacity: 1; background: var(--warn-soft); box-shadow: 0 0 0 2px var(--gold); }
+    .badge.on { color: var(--text); }
+    .q-step { display: none; } .q-step.active { display: block; }
+    .burst { position: fixed; pointer-events: none; font-size: 1.4rem; z-index: 60; animation: fly 1s ease-out forwards; }
+    @keyframes fly { to { transform: translate(var(--dx), var(--dy)) rotate(240deg); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .burst { display: none; } }
+  </style>
+</head>
+<body>
+<main>
+  <!-- Player -->
+  <section class="card hero" id="player"></section>
+
+  <!-- Goal setup -->
+  <section class="card" id="goalCard">
+    <div class="card-head"><h2>🧭 The Quest Giver — define what a valuable year looks like</h2><button class="btn-sm" id="toggleQ">Show / hide</button></div>
+    <div id="questionnaire"></div>
+  </section>
+
+  <!-- Bosses -->
+  <section>
+    <div class="section-title"><div><h2>Bosses</h2><p class="muted small">Each goal is a boss. Finishing quests linked to it drains its HP.</p></div></div>
+    <div class="grid g3" id="bosses"></div>
+  </section>
+
+  <!-- Map -->
+  <section class="card">
+    <div class="card-head"><h2>🗺 Quest map — deadlines ahead</h2><span class="small muted">Next 45 days</span></div>
+    <div class="map" id="map"></div>
+  </section>
+
+  <!-- Board -->
+  <section>
+    <div class="section-title">
+      <div><h2>Quest board</h2><p class="muted small">Small quests, clear deadlines. Overdue? Reschedule with one tap — no penalty.</p></div>
+      <div class="row"><select id="filter" style="width:auto"><option value="">All horizons</option><option value="daily">Daily</option><option value="week">Week</option><option value="month">Month</option><option value="year">Year</option></select>
+      <button class="btn-primary" id="addQuest">+ New quest</button></div>
+    </div>
+    <div class="board" id="board"></div>
+  </section>
+
+  <section class="card">
+    <div class="card-head"><h2>🏅 Achievements</h2></div>
+    <div class="row" id="badges" style="gap:6px"></div>
+  </section>
+</main>
+<script src="assets/app.js"></script>
+<script src="assets/quests.js"></script>
+</body>
+</html>

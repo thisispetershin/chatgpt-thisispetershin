@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LifeOS News & Learn</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<main>
+  <div class="page-head">
+    <div><p class="eyebrow">Daily briefing</p><h1>News & Learn</h1><p class="muted" id="updated"></p></div>
+    <div class="row"><input id="search" placeholder="Search headlines…" style="width:220px"></div>
+  </div>
+
+  <!-- Term of the day -->
+  <section class="card term" id="term"></section>
+
+  <section>
+    <div class="tabs" id="tabs"></div>
+    <div class="grid g3" id="news"></div>
+  </section>
+
+  <section class="card">
+    <div class="card-head"><h2>Go-to sources</h2></div>
+    <div class="grid g3" id="sources"></div>
+  </section>
+</main>
+<script src="assets/app.js"></script>
+<script src="assets/glossary.js"></script>
+<script src="assets/news.js"></script>
+</body>
+</html>

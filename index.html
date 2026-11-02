@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LifeOS Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<main>
+  <div class="page-head">
+    <div>
+      <p class="eyebrow">LifeOS · Command center</p>
+      <h1 id="greet">Dashboard</h1>
+      <p class="muted" id="today"></p>
+    </div>
+    <div class="row">
+      <a class="btn" href="news.html">📰 Today's AI & Web3 news</a>
+      <a class="btn btn-primary" href="quests.html">⚔ Quest board</a>
+    </div>
+  </div>
+
+  <!-- KPIs -->
+  <section class="grid g4" id="kpis"></section>
+
+  <!-- Today + notices -->
+  <section class="grid g2">
+    <div class="card">
+      <div class="card-head"><h2>Today's schedule</h2><a class="btn btn-sm" href="schedule.html">Full week →</a></div>
+      <ul class="list" id="todayList"></ul>
+    </div>
+    <div class="card">
+      <div class="card-head"><h2>Notices</h2><span class="pill accent" id="noticeCount"></span></div>
+      <ul class="list" id="notices"></ul>
+    </div>
+  </section>
+
+  <!-- Automations -->
+  <section>
+    <div class="section-title">
+      <div><h2>Automated work</h2><p class="muted small">What is running, how far along it is, and when it runs next.</p></div>
+      <button class="btn-primary" id="addAuto">+ Add automation</button>
+    </div>
+    <div class="grid g3" id="autos"></div>
+  </section>
+
+  <!-- Evaluation -->
+  <section>
+    <div class="section-title">
+      <div><h2>Evaluation & feedback</h2><p class="muted small">Pick an automation to see where the funnel leaks and what to do next.</p></div>
+      <div class="row" style="min-width:0;max-width:100%"><select id="evalPick" style="width:auto;max-width:100%;min-width:0;flex:1"></select><button id="editFunnel">Update numbers</button></div>
+    </div>
+    <div class="grid g2">
+      <div class="card">
+        <div class="card-head"><h2>Funnel: 노출 → 인지 → 고려 → 방문 → 구매결정</h2></div>
+        <div class="funnel" id="funnel"></div>
+        <p class="muted small" style="margin-top:10px">Right column = conversion from the previous stage. Red = largest gap against the rule-of-thumb benchmark.</p>
+      </div>
+      <div class="card">
+        <div class="card-head"><h2>What to fix first</h2></div>
+        <div id="diagnosis"></div>
+      </div>
+      <div class="card">
+        <div class="card-head"><h2>4Ps scorecard</h2><button class="btn-sm" id="edit4p">Rate</button></div>
+        <div id="fourP"></div>
+      </div>
+      <div class="card">
+        <div class="card-head"><h2>Unit economics</h2></div>
+        <div id="econ"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Growth playbook -->
+  <section>
+    <div class="section-title"><div><h2>Growth playbook</h2><p class="muted small">How to grow the offer, the audience, and the content engine — tailored to the selected automation.</p></div></div>
+    <div class="tabs" id="pbTabs"></div>
+    <div class="card" id="playbook"></div>
+  </section>
+
+  <!-- Improvement log -->
+  <section>
+    <div class="section-title">
+      <div><h2>Last session's improvements → results</h2><p class="muted small">Each change, what it did to the metric, and whether to keep it or try another method.</p></div>
+      <button class="btn-primary" id="addExp">+ Log a change</button>
+    </div>
+    <div class="grid" id="exps"></div>
+  </section>
+
+  <section class="card">
+    <div class="card-head"><h2>Your data</h2></div>
+    <p class="muted small">Everything is stored in this browser only. Export a backup to move it to another device.</p>
+    <div class="row">
+      <button id="exportBtn">⬇ Export backup</button>
+      <label class="btn" style="margin:0">⬆ Import<input type="file" accept="application/json" id="importInput" hidden></label>
+      <button id="notifyBtn">🔔 Enable reminders</button>
+      <span class="spacer"></span>
+      <button class="btn-ghost" id="resetBtn">Reset to examples</button>
+    </div>
+  </section>
+</main>
+<footer class="foot">LifeOS · data stays in your browser</footer>
+<script src="assets/app.js"></script>
+<script src="assets/dashboard.js"></script>
+</body>
+</html>

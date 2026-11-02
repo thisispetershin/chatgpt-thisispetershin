@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LifeOS Schedule</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap">
+  <link rel="stylesheet" href="assets/style.css">
+  <style>
+    .week { display: grid; grid-template-columns: 52px repeat(7, minmax(0, 1fr)); border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); overflow: hidden; }
+    .week .dh { padding: 8px 6px; text-align: center; font-weight: 600; font-size: .85rem; border-bottom: 1px solid var(--border); border-left: 1px solid var(--border); }
+    .week .dh.today { background: var(--accent-soft); color: var(--accent); }
+    .week .hours { position: relative; }
+    .week .hours div { height: 40px; font-size: .72rem; color: var(--muted); text-align: right; padding-right: 6px; transform: translateY(-7px); }
+    .week .col { position: relative; border-left: 1px solid var(--border); background-image: repeating-linear-gradient(to bottom, transparent 0 39px, var(--border) 39px 40px); }
+    .week .col.today { background-color: color-mix(in srgb, var(--accent-soft) 35%, transparent); }
+    .blk { position: absolute; left: 3px; right: 3px; border-radius: 6px; padding: 3px 6px; font-size: .74rem; line-height: 1.25; overflow: hidden; cursor: pointer; color: #fff; }
+    .blk b { display: block; font-weight: 600; }
+    .nowline { position: absolute; left: 0; right: 0; height: 2px; background: var(--bad); z-index: 2; }
+    .cat-work { background: #4f46e5; } .cat-content { background: #c2410c; } .cat-review { background: #0e7490; }
+    .cat-health { background: #15803d; } .cat-learning { background: #7c3aed; } .cat-personal { background: #be185d; } .cat-event { background: #b45309; }
+    .dot { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 4px; vertical-align: middle; }
+    @media (max-width: 760px) { .week { display: none; } #agenda { display: block !important; } }
+  </style>
+</head>
+<body>
+<main>
+  <div class="page-head">
+    <div><p class="eyebrow">Plan</p><h1>Schedule</h1><p class="muted">Weekly routines + one-off events. Flag items with 🔔 to get reminders.</p></div>
+    <div class="row">
+      <button id="addRoutine" class="btn-primary">+ Routine</button>
+      <button id="addEvent">+ Event</button>
+      <button id="icsBtn" title="Import into Google/Apple Calendar for phone reminders">⬇ Calendar (.ics)</button>
+    </div>
+  </div>
+
+  <section>
+    <div class="row" style="margin-bottom:10px"><button id="prevW">←</button><b id="weekLabel"></b><button id="nextW">→</button><button class="btn-sm" id="thisW">This week</button><span class="spacer"></span><span class="small" id="legend"></span></div>
+    <div class="week" id="week"></div>
+    <div id="agenda" style="display:none"></div>
+  </section>
+
+  <section class="grid g2">
+    <div class="card">
+      <div class="card-head"><h2>Upcoming notices (7 days)</h2></div>
+      <ul class="list" id="upcoming"></ul>
+    </div>
+    <div class="card">
+      <div class="card-head"><h2>Routines & events</h2></div>
+      <ul class="list" id="allItems"></ul>
+    </div>
+  </section>
+  <div class="callout small">🔔 Browser reminders fire 10 minutes before flagged items while a LifeOS tab is open (enable on the Dashboard). For reminders on your phone even when the browser is closed, use <b>⬇ Calendar (.ics)</b> and import it into Google or Apple Calendar.</div>
+</main>
+<script src="assets/app.js"></script>
+<script src="assets/schedule.js"></script>
+</body>
+</html>

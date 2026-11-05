@@ -53,7 +53,7 @@
         <h3>${esc(x.title)}</h3>
         ${x.summary ? `<p class="small muted">${esc(x.summary)}</p>` : ''}
         <div class="small muted">${esc(x.source || '')}</div>
-      </a>`).join('') || `<div class="card span2"><p class="empty">${items.length ? 'No headlines match.' : 'No headlines yet. The “Daily news refresh” GitHub Action fills this page every morning — run it once from the Actions tab to populate it now.'}</p></div>`;
+      </a>`).join('') || `<div class="card span2"><p class="empty">${items.length ? 'No headlines match.' : 'No headlines yet. The “News refresh” GitHub Action fills this page every 3 hours. Run it once from the Actions tab to populate it now.'}</p></div>`;
   }
   fetch('data/news.json', { cache: 'no-store' }).then((r) => r.json()).then((d) => {
     items = (d.items || []).sort((a, b) => (b.published || '').localeCompare(a.published || ''));

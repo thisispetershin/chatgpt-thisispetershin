@@ -13,7 +13,10 @@ A static, no-build personal command center. Open `index.html` locally or host it
 Everything you enter is saved in your browser's localStorage. Use **Export backup / Import** on the Dashboard to move it between devices. The starter entries are examples. Edit or delete them.
 
 ## News automation
-`.github/workflows/news.yml` runs `scripts/fetch_news.py` every day at 06:17 KST. The script needs only the Python standard library. It writes `data/news.json` and commits the file. To run it now, open the **Actions** tab, choose **Daily news refresh**, and click **Run workflow**. Edit the `FEEDS` list in the script to change sources.
+`.github/workflows/news.yml` runs `scripts/fetch_news.py` every 3 hours (at :17 past 00, 03, 06 … UTC). The script needs only the Python standard library. It writes `data/news.json` and commits the file. To run it now, open the **Actions** tab, choose **News refresh (every 3 hours)**, and click **Run workflow**. Edit the `FEEDS` list in the script to change sources.
 
 ## Hosting (GitHub Pages)
 Go to Settings → Pages, set Source to "Deploy from a branch", and pick your branch with the `/ (root)` folder. The news page has to be served over http(s), so opening the file directly won't load headlines.
+
+## Preview link
+`scripts/build_artifact.py <out_dir>` builds a copy of the site in the layout the claude.ai preview link expects, with the main page's `<head>`/`<body>` wrapper removed. A scheduled Claude task runs it every 3 hours after the news Action and republishes the preview.

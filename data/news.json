@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-06T04:13:05.630122+00:00",
+ "updated": "2026-11-06T07:35:51.210196+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "Chainalysis says breach exposed password hashes and live tokens",
+   "link": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed.",
+   "published": "2026-11-06T06:54:34+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Here’s what happened in crypto today",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "published": "2026-11-06T06:04:41+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+   "link": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+   "source": "CoinDesk",
+   "summary": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners.",
+   "published": "2026-11-06T05:14:48+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+   "link": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Coinbase says it keeps more than 99% of customer assets offline, while Gate reports 88.26% of its total assets are kept in cold storage.",
+   "published": "2026-11-06T05:07:00+00:00"
+  },
   {
    "category": "web3",
    "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
@@ -18,6 +50,14 @@
    "published": "2026-11-06T01:30:00+00:00"
   },
   {
+   "category": "ai_creative",
+   "title": "Nile Rodgers Fires Back at AI Music Video Critics: “Hypocritical”",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmh4UjFPYWRQdHd2Zkl1TFVYNnNpNnBZVGd4TDUxU0VpWFdrZ1daS2Q0OG1oekN1T3ZtRmRlanNkUXhmTWlfTnIzT2RMa0ZmbFp4ZTJWUzZOQjJTdkRrUHZJU2NQNVlTZGxHeUtaNmktNFNBbnJ6ODljaDNpWTAxVzRnaG5aSWl2dGhfSk84NlRtbFMycG9GNlR2V0M1SGkyYnE5S9IBpAFBVV95cUxNZmh4UjFPYWRQdHd2Zkl1TFVYNnNpNnBZVGd4TDUxU0VpWFdrZ1daS2Q0OG1oekN1T3ZtRmRlanNkUXhmTWlfTnIzT2RMa0ZmbFp4ZTJWUzZOQjJTdkRrUHZJU2NQNVlTZGxHeUtaNmktNFNBbnJ6ODljaDNpWTAxVzRnaG5aSWl2dGhfSk84NlRtbFMycG9GNlR2V0M1SGkyYnE5Sw?oc=5",
+   "source": "That Grape Juice.net",
+   "summary": "",
+   "published": "2026-11-06T00:41:12+00:00"
+  },
+  {
    "category": "web3",
    "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
    "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -32,14 +72,6 @@
    "source": "Decrypt",
    "summary": "Anthropic's Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it.",
    "published": "2026-11-05T23:06:02+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Here’s what happened in crypto today",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "published": "2026-11-05T23:03:41+00:00"
   },
   {
    "category": "web3",
@@ -80,14 +112,6 @@
    "source": "Decrypt",
    "summary": "OpenAI wants to ease the backlash against AI campuses with promises on electricity, water and secrecy. Its new compact raises a tougher question: Who would make the company comply?",
    "published": "2026-11-05T21:36:03+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "Chic Legend Nile Rodgers Challenges Fans Criticizing His AI Music Video",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWlHQmZ1Q3N2bF84ekdHT1lDSTdwanBNVkxzd0F6bC1Yc1FIam90aG1TRU00dXRVV010N3lTdWppc1Z1UW92S2JjYWoxaGd0Qkd3YzhsYXZ6Xy1kbFJqTGE0d0xJY1ZHNy1YZmltdnhSVFN2Z0t3R00tRFM3VFh5WTBmNkpzeF9LSl9EajBITmlQZm1tSXVEd0hSSFdOVmJPTngzUm5sUWZ6QTRvYkdVOW1n?oc=5",
-   "source": "Yahoo",
-   "summary": "",
-   "published": "2026-11-05T20:48:58+00:00"
   },
   {
    "category": "web3",
@@ -363,22 +387,6 @@
   },
   {
    "category": "web3",
-   "title": "Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says",
-   "link": "https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Sunny Lu said AI agents would need identity and reputation systems, making the case while promoting agent-building platform VeWorld.ai.",
-   "published": "2026-11-05T13:34:57+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Can decentralized phone networks power the AI revolution?",
-   "link": "https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Decentralized AI networks want to turn everyday phones into an alternative to centralized computing infrastructure — but skeptics have their doubts.",
-   "published": "2026-11-05T13:30:00+00:00"
-  },
-  {
-   "category": "web3",
    "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
    "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
    "source": "CoinDesk",
@@ -392,14 +400,6 @@
    "source": "CoinDesk",
    "summary": "The exchange says its systems are unaffected but has removed trading connections to the third-party platform as a precaution.",
    "published": "2026-11-05T12:55:03+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
-   "link": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
-   "source": "CoinDesk",
-   "summary": "Ukraine’s central bank won’t back a crypto legalization bill in its current form and wants lawmakers to revise it before a final vote.",
-   "published": "2026-11-05T12:50:57+00:00"
   },
   {
    "category": "ai_general",
@@ -490,14 +490,6 @@
    "published": "2026-11-04T20:23:30+00:00"
   },
   {
-   "category": "web3",
-   "title": "Yellow Card Expands Stablecoin Payments to Brazil With GoMoney Acquisition",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUzdXNkFPeVVSNUctSWtOLW5veThGWUN1SVZ2ai1QMUdpaXdQTW5FR2I3b0EwZV81SVU0aUNwOERWNG1mNHpJb09KR2dHTnBHM0dfNzlkejNXWGtnRENSRzVUMjZHaGtUd25uNktZMkprWkZHVmMwVHYtS1Bsc2FsdnZuRVFYRjNqcjJLMHdjTGcwZ2tHdnZGeTVBdnRIYmtISHJpZVFnZVNFTU80ZTZndWhmamJkaTR6QXc?oc=5",
-   "source": "PYMNTS.com",
-   "summary": "",
-   "published": "2026-11-04T18:55:26+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "AI agents run this automated biology lab that sequences DNA and more",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kdTc3UWI4ODM5b09JU3ZMSnIyS3lkR2UxaXBEaE4xX3FrQVhxWGZrMG00cTNiV2gwLXpuNjFKOENkRTNic01WNjRfVnlXWWt3SUh2YnBYckhGbm94Qi1R?oc=5",
@@ -568,14 +560,6 @@
    "source": "HackerNoon",
    "summary": "",
    "published": "2026-11-04T07:35:06+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "How to Automate Business Processes: 6-Step Guide (2026)",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiaUpnckNHaVhiMjV4UUF0ZGJlQy12ZFRiVWNJMGxYaWJNUzNRS1VCX2QxZU0wajZHa2g2cG5FcE9vQXlfSUFsVlhtdHpqbW9NalF2VWVBdHpFM3RoYk8xYk12UW9DZ9IBdkFVX3lxTFB0Tjd0a2ZtOWZScEFVbHpIWWMwTkNQTTVSbjhpTnNSRzVVM2kxYklLMVI1R3FLaFJmTEE0cWVaNmxRWTRObG4xMURCWERCWVgwUGJiLUg1S2w1SWJObVRfQ3F3el9taFNWeVJHLVI3RjctTGVPM1E?oc=5",
-   "source": "G2 Learn Hub",
-   "summary": "",
-   "published": "2026-11-04T05:35:52+00:00"
   },
   {
    "category": "ai_workflow",
@@ -700,10 +684,10 @@
   {
    "category": "ai_general",
    "title": "Opinion | The Great AI Rift: Why Meta, Palantir Are Fighting Against OpenAI, Anthropic, Google",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSnE3UUpXZFRMaVc3c1BpZ2FoZk93T2dQck55LXlfMDFmbFR3TXFBQ3lkVG51Zk81VjVlRXRiU240bklIUEdZN1NLV2JobmszSEdETFFIX2JLLURkRmF5TWRzYWVsSy1lZ3l6LUJWMldDV29kS0JDeUFRdEZpY21rR29EYkYyS3FDa0xSUk1jNGlVQkxwd0xuUmVaNXJqOXliYTkxQ0p1M3pNbFBWSktYZnVzOVdXNWR3T0RaeGV5cFZlUU1QT3JnQ0lWZmpvT1l1WjlmVnJrcC0yaVY5?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWUVQZXpyeVVSYW54dGdFNm4tbXpqUF9SVXp0YWphSVRCR0pGRUpzTkRLRWlxSlFISWd1NHc4dHAtM2lDQ01QYzlXWXJULXNId05TVUJUbHFvZGlHRDRlTXkzQWw4RUxXZVU0RmpSbUt6Qk9PdmQ4ZGd0LUFlTjBHd1h5VTd1SFRaU0tYeGczcVdoYkRfV1ZJVDNFVndSVkZneVZuQXliUHRPM2wxb2ZkS2ozbjZtQnMxVE9tMzZHUnZtQURpemNHNXVzOFF5NGtUWWJHSF9RNHFJLTFhbkRuYmdlRQ?oc=5",
    "source": "NDTV",
    "summary": "",
-   "published": "2026-11-03T06:45:22+00:00"
+   "published": "2026-11-03T06:45:23+00:00"
   },
   {
    "category": "ai_workflow",
@@ -735,7 +719,7 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5",
    "source": "Anthropic",
    "summary": "",
-   "published": "2026-11-03T04:26:36+00:00"
+   "published": "2026-11-03T04:43:45+00:00"
   },
   {
    "category": "web3",
@@ -840,6 +824,22 @@
    "source": "Frontiers",
    "summary": "",
    "published": "2026-11-02T08:00:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "HSBC sees rapid take-up for RedCoin stablecoin, unveils global AI institute",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb1Z0bl9QcGNDY1dBZXlhR20xaGRlcGhFOE14N1JLTkZBNGlQV2lWMjlMTGFReV9iT3A5Y2JyWjlIcUstM0NWcm41eFJXMXhSVFZQcEM1U3VTal9ySkQya3NBTnpNOEpIYnhUOFgzWW5sV1NuVmxoMU1YRDNuXzR2NldSSld2T0xETWVCMU1mRkdRSG5vY3NzeTRxRC02YVF5WDI2VWtWZUFGTm0zN0ZqeTktRWpFVU00RklIOVcwQjJpaEVXa1BmNFVfdGRYWWV2cXJrQm53S2IxcHNU?oc=5",
+   "source": "South China Morning Post",
+   "summary": "",
+   "published": "2026-11-02T07:59:30+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "10 Best AI Agent Platforms for Business Teams in 2027",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZNVdLR0I2LXlUZFVLN3RxdlFUWGNTUkprNERxcHUycG1TQ1pGZUZSeFVrMUJDU0haOWdLdWp6TTN0NEJPc0xGMHFFQzBSUmpmM0NBa3BlcUwtNnl4by1wcmh5cGJBbG5uYW5sWkdyWDlnX0pGRVNZRFNFX2g?oc=5",
+   "source": "remio",
+   "summary": "",
+   "published": "2026-11-02T06:19:25+00:00"
   },
   {
    "category": "ai_workflow",

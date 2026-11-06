@@ -1,6 +1,102 @@
 {
- "updated": "2026-11-06T13:27:27.329855+00:00",
+ "updated": "2026-11-06T16:04:24.153394+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+   "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+   "source": "CoinDesk",
+   "summary": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles.",
+   "published": "2026-11-06T15:26:38+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+   "link": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+   "source": "CoinDesk",
+   "summary": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025.",
+   "published": "2026-11-06T14:33:49+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
+   "link": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede.",
+   "published": "2026-11-06T14:30:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+   "link": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+   "source": "Decrypt",
+   "summary": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
+   "published": "2026-11-06T14:04:18+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+   "link": "https://huggingface.co/blog/allenai/toyblocks",
+   "source": "Hugging Face",
+   "summary": "",
+   "published": "2026-11-06T14:00:48+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+   "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.",
+   "published": "2026-11-06T13:57:14+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
+   "link": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
+   "source": "Decrypt",
+   "summary": "The Tesla CEO said the Texas plant will make room for the Cybercab, as sales of the stainless-steel pickup run far below capacity.",
+   "published": "2026-11-06T13:53:04+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Here’s what happened in crypto today",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "published": "2026-11-06T13:33:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+   "link": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+   "source": "CoinDesk",
+   "summary": "The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important.",
+   "published": "2026-11-06T13:31:54+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
+   "link": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
+   "source": "Decrypt",
+   "summary": "Thursday marked a massive reversal and historic selloff for AI stocks, and crypto was not immune. What held up the strongest?",
+   "published": "2026-11-06T13:29:20+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
+   "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Ethereum developers are investigating concerns tied to eight smart contract invariants tied to Glamsterdam’s EIP-8037 and EIP-8038.",
+   "published": "2026-11-06T13:23:08+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Current price of Ethereum for Nov. 6, 2026",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95bnNSaXR4MS1NOVUzVldOYmoxTFhZSndHUVgzSmNxV3UyQzIwZmhuallkZHdFVU1CcVAwcy1rN2FLbjlFN3VYNjRvN0RNY0VpT1p1MXU5RXRldmNnNmo1cTlzLU41WU90?oc=5",
+   "source": "Fortune",
+   "summary": "",
+   "published": "2026-11-06T12:45:00+00:00"
+  },
   {
    "category": "web3",
    "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
@@ -19,10 +115,18 @@
   },
   {
    "category": "web3",
-   "title": "Live updates: Bitcoin holding $76,000, Nasdaq bounces ahead of U.S. jobs data",
+   "title": "Why gold prices are surprisingly low : Planet Money",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbUkwN09ZMnFIYkdla1U3Uk52WnhBYW9yQ0EzV2dpVkkxRmxsMEFVNUNWQXB1RVNfaUJ0SG80Y2ptdExSdVpXbzNjVlE0b2dCbENHRG9WLV84MlJINkVjU0tzM2lCb1UtWVFVWWJvUmxuTGVkU29NS3U4TVZ5RjZCdlhSN0F6TnFEa0Z6TndpNklYODJvT0NwZFI2OUxxU2JXS0NmT0F3?oc=5",
+   "source": "NPR",
+   "summary": "",
+   "published": "2026-11-06T12:00:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
    "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
    "source": "CoinDesk",
-   "summary": "Nasdaq 100 futures were higher by 1.5% following Thursday's 5.5% rout. Japan's Nikkei and Korea's Kospi each slumped 6% overnight.",
+   "summary": "Chip stocks were leading a rebound in the broader market on Friday following yesterday's washout.",
    "published": "2026-11-06T11:58:40+00:00"
   },
   {
@@ -56,6 +160,14 @@
    "source": "Cointelegraph",
    "summary": "Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros.",
    "published": "2026-11-06T11:05:36+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Cryptocurrency lawsuit: Ethereum Foundation required suicide pledge",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2dvSTJleHFjZ21zb01tM3d1WHY5cFZBNUlFc3YxclJadjJqSzMxM1Y3Sl85X2E3ekxTc2dBOFdYbGxMLVBqU2lyalRJSktiR2ZaRUZlSmtnWkxtYXBtMDE4S19hNVZqTkVxUlJqR3NVLUdaRkE4Y3poM1oyVDJGcGN2RHdfbE5TTjFBVC1EdmdENWs2Wm4yWg?oc=5",
+   "source": "The Denver Post",
+   "summary": "",
+   "published": "2026-11-06T11:00:22+00:00"
   },
   {
    "category": "web3",
@@ -131,14 +243,6 @@
   },
   {
    "category": "web3",
-   "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
-   "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.",
-   "published": "2026-11-06T08:19:18+00:00"
-  },
-  {
-   "category": "web3",
    "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
    "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
    "source": "CoinDesk",
@@ -147,35 +251,11 @@
   },
   {
    "category": "web3",
-   "title": "Chainalysis says breach exposed password hashes and live tokens",
-   "link": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed.",
-   "published": "2026-11-06T06:54:34+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Here’s what happened in crypto today",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "published": "2026-11-06T06:04:41+00:00"
-  },
-  {
-   "category": "web3",
    "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
    "link": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
    "source": "CoinDesk",
    "summary": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners.",
    "published": "2026-11-06T05:14:48+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Crypto exchanges tout cold storage ratios after Binance attack",
-   "link": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Coinbase says it keeps more than 99% of customer assets offline, while Gate reports 88.26% of its total assets are kept in cold storage.",
-   "published": "2026-11-06T05:07:00+00:00"
   },
   {
    "category": "web3",
@@ -208,6 +288,14 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-06T00:00:00+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "CRIMSON MIRROR | Gothic Cinematic AI Music Video | Mashumero",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43YlVzcktmTzJxNVhJelE1MXZwVzZ2cUptVE5zRE9JTU9mS0IxM0MtT09XZFhWSVFXWnRSdTVZeTEtQk1QeXVCZ0QxRDUxSFA2bXZsM3plclB4UUVs?oc=5",
+   "source": "YouTube",
+   "summary": "",
+   "published": "2026-11-05T23:50:14+00:00"
   },
   {
    "category": "web3",
@@ -274,28 +362,12 @@
    "published": "2026-11-05T19:16:03+00:00"
   },
   {
-   "category": "web3",
-   "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
-   "link": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
-   "source": "CoinDesk",
-   "summary": "The new DOJ task force will aid the recently designated U.S. \"SI Force\" by warding off bad actors backed by other nations, criminal groups or corporate fraud.",
-   "published": "2026-11-05T18:59:45+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "What Is the Best AI Music Video Generator in 2026? Comparing Quality, Consistency, and Cost",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbW5LRHZHMUlUT29hWGtBSnB3X3pCU2NMUUpWdnNaaGx3WmpuRFdMNDFfMDI3OTRNOFRIRzZXbTR0enJFYjV6SmowSnpKRExlQ0ZicVV6UlJ5SjdRVnc1NTVTakxiV0hiZ1B6QkNmcGRRaHdDTEVqdUdDNTBIUmd1QUkwSC1kRG9pbTU1VWhMd3c5R2RwWUYwM0E5M0VCa1UtbENvQmpjXzBXVWhKQWx6TEhn?oc=5",
    "source": "Popdust",
    "summary": "",
    "published": "2026-11-05T18:48:46+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
-   "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
-   "source": "CoinDesk",
-   "summary": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
-   "published": "2026-11-05T18:48:40+00:00"
   },
   {
    "category": "ai_workflow",
@@ -306,36 +378,12 @@
    "published": "2026-11-05T18:30:09+00:00"
   },
   {
-   "category": "web3",
-   "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
-   "link": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
-   "source": "Decrypt",
-   "summary": "The Hut 8-backed miner reversed a second-quarter loss, driven largely by a $197 million gain on its Bitcoin holdings.",
-   "published": "2026-11-05T18:25:31+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "S&P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs",
-   "link": "https://decrypt.co/382637/sp-500-plunges-wall-street-circuit-breaker-trump-record-highs",
-   "source": "Decrypt",
-   "summary": "A day after Trump celebrated stock market records, the S&P 500 sank 3.8%, putting emergency trading halts in focus as AI stocks dragged Wall Street sharply lower during Thursday trading.",
-   "published": "2026-11-05T18:05:21+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Quoting Paul Ford",
    "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
    "source": "Simon Willison",
    "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . — Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford ,…",
    "published": "2026-11-05T17:34:03+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report",
-   "link": "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
-   "source": "Decrypt",
-   "summary": "Employees are being told not to bet on casting news, release dates or earnings, though experts say the rules will be hard to enforce.",
-   "published": "2026-11-05T17:31:10+00:00"
   },
   {
    "category": "ai_general",
@@ -368,14 +416,6 @@
    "source": "The Register",
    "summary": "",
    "published": "2026-11-05T17:00:00+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
-   "link": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
-   "source": "CoinDesk",
-   "summary": "The hacking group has been behind some of the crypto industry's most recent high-profile thefts.",
-   "published": "2026-11-05T16:58:21+00:00"
   },
   {
    "category": "ai_workflow",
@@ -436,10 +476,10 @@
   {
    "category": "ai_creative",
    "title": "SelfyzAI Brings AI Music Video Creation to ChatGPT via MCP",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnRPQjhMaGJuMGZYTDVyY3BVb2otSkNSYjJoOXV4SUh1NDRaZ2tiQTM1YXJFZlRMa09PQ0VYdWVSaUhsZHd0ZjFCVnY3aWl1QVBsd2ptNmE2UEtFdXp2eG9DVDhXOGh1b2hmUlk5REZkZ2xvV01xYTN3Tk1ZNGtvcmlEaUJiQnprNXI5NUxwSEt4WGp4Y3haaVRWZ29CSE0zUlJCVnVfWlJFWXBSZkQ0S0ZR?oc=5",
-   "source": "Pueblo Chieftain",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX1RZTzNnQkVsVWxyQVlwVnlCX1FzcmhyOWRBREJ3NWhfQzVUdTA3RU9OLVNYRWhZRkF1ZGkwWkI1a0VudVpxeUpaLW5RWk5qaTdfdm9rOFhxUUhLeTFZeTNnOE5FYmZoY2N5TGprcC1nVS1ydE1DeENNRU9uZ3I0M2N1Y1R1OUtzdnpkaUpWTmhtMzBMeHQ0NEdHMGd4d3NLUkhZNmM5R0xyeDRxRnRPQlUtYkM?oc=5",
+   "source": "The Detroit News",
    "summary": "",
-   "published": "2026-11-05T09:51:37+00:00"
+   "published": "2026-11-05T09:42:59+00:00"
   },
   {
    "category": "ai_creative",
@@ -461,7 +501,7 @@
    "category": "ai_workflow",
    "title": "CrowdStrike Secures AI Agents Inside Claude Cowork",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1ExUDIzSUp3UklJUlM5VnFLYVotRUc5Y0hSS21PcUw3Y21XVzJ1a25QcWZ1LXhNZjFQVVBiWUpVNmo3NUJnblNDTjF3c0JQd25iMTFqWEx0cVBGUVZxRlBDR0duTkF4NnRnUUxpY1U5Ny0za3dQa0gtdERKYThuRk5JSlpXbjQxdEVGZFdiWS1nTjBo?oc=5",
-   "source": "CrowdStrike",
+   "source": "CrowdStrike.com",
    "summary": "",
    "published": "2026-11-05T07:51:53+00:00"
   },
@@ -472,14 +512,6 @@
    "source": "The Sheboygan Press",
    "summary": "",
    "published": "2026-11-05T06:55:03+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Best AI Agents in 2026: 30 Tools Tested and Compared",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJWEF6NXdfZVZqYkVIdlF4cTBKdThTUFdvS3RHc0o1cnlRcEJ4MVFyem5jeXQ2bi13aWVDM0FyX05HaXl6UklNOVVqZw?oc=5",
-   "source": "Fello AI",
-   "summary": "",
-   "published": "2026-11-05T04:40:40+00:00"
   },
   {
    "category": "ai_workflow",
@@ -570,28 +602,20 @@
    "published": "2026-11-04T10:37:24+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "Pika H3 Flex Brings More Control to AI Video Generation",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEdZcWtDdDRiSExjTG5abVE4c1h3Z1A0TWp5Wm52eU9FMF9pSEtUV1AzRlhCMTh1VUZxUWdTLVRvSlVxZTAzMUdaaXBwemVSOWtoa3ZXOF9fTXB4ZUFMbEJrTEdGUlp2YldneWxiUUt1dlBCdXBsUnk3b0hFMnVOTVU1TnI?oc=5",
-   "source": "HackerNoon",
+   "category": "ai_workflow",
+   "title": "Best AI Agents in 2026: 30 Tools Tested and Compared",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJWEF6NXdfZVZqYkVIdlF4cTBKdThTUFdvS3RHc0o1cnlRcEJ4MVFyem5jeXQ2bi13aWVDM0FyX05HaXl6UklNOVVqZw?oc=5",
+   "source": "Fello AI",
    "summary": "",
-   "published": "2026-11-04T07:35:06+00:00"
+   "published": "2026-11-04T08:00:00+00:00"
   },
   {
    "category": "ai_workflow",
-   "title": "How to Automate Business Processes: 6-Step Guide (2026)",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiaUpnckNHaVhiMjV4UUF0ZGJlQy12ZFRiVWNJMGxYaWJNUzNRS1VCX2QxZU0wajZHa2g2cG5FcE9vQXlfSUFsVlhtdHpqbW9NalF2VWVBdHpFM3RoYk8xYk12UW9DZ9IBdkFVX3lxTFB0Tjd0a2ZtOWZScEFVbHpIWWMwTkNQTTVSbjhpTnNSRzVVM2kxYklLMVI1R3FLaFJmTEE0cWVaNmxRWTRObG4xMURCWERCWVgwUGJiLUg1S2w1SWJObVRfQ3F3el9taFNWeVJHLVI3RjctTGVPM1E?oc=5",
+   "title": "How to Automate Keyword Research in 6 Steps in 2026",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQamZoaDVSZWFSRnJNRmR1aXd1X0dKSU00aUJtNWpxY1pEVzBBeWZtdC1TWUNwMFNuMllvbmFhaGdkNmp2U3RTd0VrOEN2X2hDdXdUMTFxNXIyYV9UQXZrMHJJY9IBc0FVX3lxTFBzczFROXluWF9oeExTai1JQzlpU3p3aGkweXRtaTgxNTRLczNneEU5N3BlajVPUDVXRE5TbTR1UzBDZHRmNkx1aExLTUV4Mk1LQnFoX1ZPVEdNQkJaSE1FNGhoejFpN241MjhINFhSUFZ3ZEE?oc=5",
    "source": "G2 Learn Hub",
    "summary": "",
-   "published": "2026-11-04T05:35:52+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Why Bitmine Immersion Technologies Stock Is In Focus After Its Ethereum Buying Spree",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSlh2TXQteC1kdS1DdFFGbldOSGxDQV9BZzlLMzZOeUhtbjdtV1I2bndPX1FpdVhaX2FDU3VZUEd1Y2YybXBTbkdzMDN2VVB6VUwzVHJ1TnFhajEtU0lkdS1Oa1VLWUtIczBwR09lenFZdi1PTk9HcmU2c1JyNlhrUm1zUndLWHk4aEpJRG8xZXNBQ0ZkVnYzYUhNZTdqVDJnME1rdTExTFI?oc=5",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "published": "2026-11-04T04:55:41+00:00"
+   "published": "2026-11-04T01:36:09+00:00"
   },
   {
    "category": "ai_creative",
@@ -642,14 +666,6 @@
    "published": "2026-11-03T21:41:42+00:00"
   },
   {
-   "category": "web3",
-   "title": "ETHGas brings compliance controls to public Ethereum, but missed trade penalties sit at zero",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFVGem1udEs1SHh0SnFQQ1ZOZS1yLU42eXhtWUc1amtEdUg0YTBsOFN6eUtHV1pzM1ItQnZ6MlVjeW1tNG1heDY2a25faE9oVi1PQ29feGhLZVJCeTZlSUtIc2hmVHQ2U3owRjZyS1gwLUNPWkFURjJ0TnJBWGlwSk1HVTVSU0s4eHVCNUYyaC1JN0tTQVhCRHRtaXRQaEFERG5PbjJIMWM1bl93V1VDV0Z4azJnb1V3ekQ5QjNsdUFpNnYwZlZxb3VDT0lhZHljeURmNg?oc=5",
-   "source": "CoinDesk",
-   "summary": "",
-   "published": "2026-11-03T20:29:50+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVJIWkp5OFN3T2lxV05NUmlFaUt4UzFTQlo4dGZnOEJ3SDJiS1lSX1hqSkY4a3BUenltR1Jpc0JXdU02VEkwaGhQLWdKdm9fSHZwV2NnMHFCdE94b0dSY0dJdm9JMHlvYzNKNW52RmkyYkpTNTdkVDc0RW82SG5XQV9tM0szTDVuMlRDWFdRc1hEaGRPTXdlbGF4Yzl4ZWJGSFRua19td9IBrAFBVV95cUxQRGNRVF9HVC11VTEwM2phOGtXbEZoVzhRekRQNW5VX0o0VGNtbEp0RGk0cjFNcW5YQjNEclQ3a3pONmh1LUE2SkhMdVhhcWN2VDVWR19yU0pxNFhBWGxLY05GRjJWVEpNdGNYaGlyeTRnTkowVjJWaXZ4VTBOZ1pWSndqaGM4RnM2V1kxcEtuaWhFX3h1Y2ZPSDFCMXpObzloblpGYU1fcVgwOV93?oc=5",
@@ -672,14 +688,6 @@
    "source": "Forbes",
    "summary": "",
    "published": "2026-11-03T17:47:14+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "StateBench: Testing how language models track state changes over long documents",
-   "link": "https://huggingface.co/blog/allenai/statebench",
-   "source": "Hugging Face",
-   "summary": "",
-   "published": "2026-11-03T17:15:21+00:00"
   },
   {
    "category": "ai_workflow",
@@ -728,14 +736,6 @@
    "source": "Breaking Defense",
    "summary": "",
    "published": "2026-11-03T07:30:22+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Opinion | The Great AI Rift: Why Meta, Palantir Are Fighting Against OpenAI, Anthropic, Google",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWUVQZXpyeVVSYW54dGdFNm4tbXpqUF9SVXp0YWphSVRCR0pGRUpzTkRLRWlxSlFISWd1NHc4dHAtM2lDQ01QYzlXWXJULXNId05TVUJUbHFvZGlHRDRlTXkzQWw4RUxXZVU0RmpSbUt6Qk9PdmQ4ZGd0LUFlTjBHd1h5VTd1SFRaU0tYeGczcVdoYkRfV1ZJVDNFVndSVkZneVZuQXliUHRPM2wxb2ZkS2ozbjZtQnMxVE9tMzZHUnZtQURpemNHNXVzOFF5NGtUWWJHSF9RNHFJLTFhbkRuYmdlRQ?oc=5",
-   "source": "NDTV",
-   "summary": "",
-   "published": "2026-11-03T06:45:23+00:00"
   },
   {
    "category": "ai_workflow",
@@ -854,6 +854,14 @@
    "title": "Anthropic vs OpenAI: Who’s Winning the AI Race in 2026?",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wY1dnSDBYRURoU2FJUnhFUHlCZGRzcXNTa3JkYk9HRUFYbEd1MUxkSkZ1TXlRUG56bDI0eDducEZOWkpXbEhQRWphMUZXbmxMWXc?oc=5",
    "source": "Fello AI",
+   "summary": "",
+   "published": "2026-11-02T08:00:00+00:00"
+  },
+  {
+   "category": "ai_general",
+   "title": "OpenAI’s Math Drop Hits GitHub, Count Stands at 721 [2026]",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XcS1vR3dCTC1DcVFuZ1E1M2ZneWlGTUlqbHVBLU5qZGRwODNzUkMxTTVsUm9INVJRX2c4d3R1YTdkLXZGSXpzYkxsUUhjNmZLZktKclJvTDlXZzFxQmJGX3hsM0xsLXJId2Fqei1qS09idw?oc=5",
+   "source": "shattered.io",
    "summary": "",
    "published": "2026-11-02T08:00:00+00:00"
   },
@@ -1016,14 +1024,6 @@
    "source": "Financial Times",
    "summary": "",
    "published": "2026-10-30T16:58:45+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Current price of Ethereum for October 30, 2026",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mTDNVY2Y3bUlWQnAtb21veWlzYlpDZ0NWV3pjWm9tbVRyTnM5RWlpenRnSU0tbElRS1dSZGh1cWFUQi1scVZJcUtKWWgyT2h5S1k2Z0RSVGVTdk5GTzNPUVhRUkhEUm13?oc=5",
-   "source": "Fortune",
-   "summary": "",
-   "published": "2026-10-30T13:30:00+00:00"
   },
   {
    "category": "ai_workflow",

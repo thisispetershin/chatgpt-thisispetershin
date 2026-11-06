@@ -1,6 +1,70 @@
 {
- "updated": "2026-11-06T07:35:51.210196+00:00",
+ "updated": "2026-11-06T10:20:07.335690+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
+   "link": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
+   "source": "Decrypt",
+   "summary": "The Network Sustainability Mechanism will reissue removed ZEC from 2031 within the 21 million cap, as the community debates its dev fund.",
+   "published": "2026-11-06T10:13:27+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+   "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+   "source": "CoinDesk",
+   "summary": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout.",
+   "published": "2026-11-06T09:53:27+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+   "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access.",
+   "published": "2026-11-06T09:00:36+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+   "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+   "source": "CoinDesk",
+   "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
+   "published": "2026-11-06T08:47:42+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Hyperliquid Strategies seeks futures registration for perps",
+   "link": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "The HYPE treasury company spent $785 million on tokens during the quarter and wants to bring Hyperliquid-based perpetual futures to the US.",
+   "published": "2026-11-06T08:42:54+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "‘Kamen Rider’ Studio Toei Frames Generative AI Rules, Sets First Video Games for 2027",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0lkZHhSUUtKNkU3Rlp6bk9BemdIcTFhZWNqeDFOR1RYbnRETjJEc0ZVaUZUcUliN3NrOWV6RzBLWVJwWEJXQ0xtVS1RTFI0VmJzdElCNXk4Y2ZVd2YzUTZ1QUtodFRwRDJLemkzdWc4ZXhjY201cE85aVlIN1NUUkdGSXpNWnA3NC1UV3V2SHRGMDNfVi1kaGk1ZnpWVlpiNk4xSWJoT2I2Ul9kaWtRWWUxTVV3bW1G?oc=5",
+   "source": "Variety",
+   "summary": "",
+   "published": "2026-11-06T08:21:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+   "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.",
+   "published": "2026-11-06T08:19:18+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+   "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+   "source": "CoinDesk",
+   "summary": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance.",
+   "published": "2026-11-06T08:04:52+00:00"
+  },
   {
    "category": "web3",
    "title": "Chainalysis says breach exposed password hashes and live tokens",
@@ -50,20 +114,20 @@
    "published": "2026-11-06T01:30:00+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "Nile Rodgers Fires Back at AI Music Video Critics: “Hypocritical”",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmh4UjFPYWRQdHd2Zkl1TFVYNnNpNnBZVGd4TDUxU0VpWFdrZ1daS2Q0OG1oekN1T3ZtRmRlanNkUXhmTWlfTnIzT2RMa0ZmbFp4ZTJWUzZOQjJTdkRrUHZJU2NQNVlTZGxHeUtaNmktNFNBbnJ6ODljaDNpWTAxVzRnaG5aSWl2dGhfSk84NlRtbFMycG9GNlR2V0M1SGkyYnE5S9IBpAFBVV95cUxNZmh4UjFPYWRQdHd2Zkl1TFVYNnNpNnBZVGd4TDUxU0VpWFdrZ1daS2Q0OG1oekN1T3ZtRmRlanNkUXhmTWlfTnIzT2RMa0ZmbFp4ZTJWUzZOQjJTdkRrUHZJU2NQNVlTZGxHeUtaNmktNFNBbnJ6ODljaDNpWTAxVzRnaG5aSWl2dGhfSk84NlRtbFMycG9GNlR2V0M1SGkyYnE5Sw?oc=5",
-   "source": "That Grape Juice.net",
-   "summary": "",
-   "published": "2026-11-06T00:41:12+00:00"
-  },
-  {
    "category": "web3",
    "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
    "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
    "summary": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.",
    "published": "2026-11-06T00:19:49+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+   "source": "Hugging Face",
+   "summary": "",
+   "published": "2026-11-06T00:00:00+00:00"
   },
   {
    "category": "web3",
@@ -112,6 +176,14 @@
    "source": "Decrypt",
    "summary": "OpenAI wants to ease the backlash against AI campuses with promises on electricity, water and secrecy. Its new compact raises a tougher question: Who would make the company comply?",
    "published": "2026-11-05T21:36:03+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Chic Legend Nile Rodgers Challenges Fans Criticizing His AI Music Video",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWtvMFVFSFdzMncyUjdvZTZ4MjRYbFB0TTF1UVhHMDMybkx6ZkpQNTZSUk5kZDE3dHQxUnFCU3lDU3dLRGk4U2FTVmhBSUk0WFcweC1DS2lfd3VaelR4YWhZcEVvWWpDWTl6czk2RnBNYUoxazZ2S3kxeW1Gc0ZJRGFrWG8zWUZHUGxmY3VreDlCU0s4UHdOOFB3aHhRTVR2VTN4VThveDdCOGNSb1BJNmRB?oc=5",
+   "source": "Yahoo",
+   "summary": "",
+   "published": "2026-11-05T20:49:08+00:00"
   },
   {
    "category": "web3",
@@ -203,27 +275,11 @@
   },
   {
    "category": "web3",
-   "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
-   "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets.",
-   "published": "2026-11-05T18:09:38+00:00"
-  },
-  {
-   "category": "web3",
    "title": "S&P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs",
    "link": "https://decrypt.co/382637/sp-500-plunges-wall-street-circuit-breaker-trump-record-highs",
    "source": "Decrypt",
    "summary": "A day after Trump celebrated stock market records, the S&P 500 sank 3.8%, putting emergency trading halts in focus as AI stocks dragged Wall Street sharply lower during Thursday trading.",
    "published": "2026-11-05T18:05:21+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Paraguay president resigns after collapse of Ueno digital bank",
-   "link": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Santiago Peña stepped down amid mounting scrutiny over his former ties to Ueno Bank’s parent company, as the lender’s collapse left millions of customers unable to access their funds.",
-   "published": "2026-11-05T17:40:25+00:00"
   },
   {
    "category": "ai_workflow",
@@ -299,22 +355,6 @@
   },
   {
    "category": "web3",
-   "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
-   "link": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains.",
-   "published": "2026-11-05T16:48:41+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
-   "link": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report",
-   "source": "Decrypt",
-   "summary": "Analysts said that the Clarity Act's path has become tougher, while advocacy group Stand With Crypto has endorsed 27 winning candidates so far.",
-   "published": "2026-11-05T16:37:20+00:00"
-  },
-  {
-   "category": "web3",
    "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
    "link": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
    "source": "CoinDesk",
@@ -336,6 +376,14 @@
    "source": "The Verge",
    "summary": "",
    "published": "2026-11-05T15:00:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitmine Resumes Stock Buybacks As Ethereum Purchases Slow",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkNHT3RLSmhZTGM4UDBIallEVWNQdWhST0dLS1FWT3JXMWJxdWI5a1Q5cGlwb3I0MEI2V214UGVBeElCLXhZb25yV1NBSDBlZ2hEanVwRTJCd1VWS2RxS0JUNjNvOVVjQzlvNjhQSTJENThTcmp1cEwyeWwwdUR3cmNWNjJUek1iMnNQeVpGMDJ2UE01eG5YcElyMUlkaUtZME5ORDBRdw?oc=5",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "published": "2026-11-05T14:49:00+00:00"
   },
   {
    "category": "web3",
@@ -376,30 +424,6 @@
    "source": "University Business",
    "summary": "",
    "published": "2026-11-05T14:00:45+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
-   "link": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
-   "source": "CoinDesk",
-   "summary": "The investment follows talks first reported by CoinDesk in June that included a proposed equity stake in Aave Group.",
-   "published": "2026-11-05T14:00:00+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-   "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
-   "source": "CoinDesk",
-   "summary": "A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent.",
-   "published": "2026-11-05T13:29:40+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
-   "link": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
-   "source": "CoinDesk",
-   "summary": "The exchange says its systems are unaffected but has removed trading connections to the third-party platform as a precaution.",
-   "published": "2026-11-05T12:55:03+00:00"
   },
   {
    "category": "ai_general",
@@ -444,10 +468,10 @@
   {
    "category": "ai_creative",
    "title": "Enkio MCP Brings AI Music Video Creation to ChatGPT and Codex",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdF9rZTZYSXhUa3l1eVJMcElPUUg1NGdjRmxyWk5zdWhqa1otb3RQN2pmcHFEVHpnVlB1TlVWRkNBcUdHSlZFZElzbHM0T3RrTG5jMUxsZkZhN2xNR20wZ19MWFh3dnhvU3NNTDdIVEd6T3NSaEV2YmtGdzUybWdwZTVsLXVtc05lUllsWlFBckx3RGk4NlUwcWlGRlNudHd6Ty1yM2JEcWhNUTRj?oc=5",
-   "source": "EIN Presswire",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObUdqTmxuYWQ0MzhiNnhwNmNNMGNWREdFWkNNX3RRaUlyWXNPRXR6NjduTkQ1OER0c2JJdklXdTJCX1NlbUNnZ3hsYkRIZkp1Q055UmFvU3p0d3RTQXFUSldWdHV5emtwaDZySU1lV0dxUlBranVCWW1DM1M2MndTc0NPQTZ3WXNJb183Y3pVRlJSVkE2VWZfOWN4U1BheTFQZ1dYNXZHX2lPTDVRQThOcHk3NXk0eURxY2IxRA?oc=5",
+   "source": "The Sheboygan Press",
    "summary": "",
-   "published": "2026-11-05T05:59:00+00:00"
+   "published": "2026-11-05T06:55:03+00:00"
   },
   {
    "category": "ai_workflow",
@@ -456,14 +480,6 @@
    "source": "Fello AI",
    "summary": "",
    "published": "2026-11-05T04:40:40+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Circle Reports 17% Revenue Growth as Stablecoin Payments Network Expands",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMXhVOGt5STVZV0NGc0VFbi1qVWJDeHh6YTdaSkNSZzZFSmZHNUVnMGNRd1NQUTRuWXN4VkxPZjI1Z01CdEg4cVZMbXhkSE9tT2drSTcwWWcwYzNqeDZWa0I4ajVLaVNSN3gwY2hMUmR2RzlkdjFzZjlXSFJWb0VIdlFoSTZzbC04SDNkYnpVdUJhdFVaWEw3WQ?oc=5",
-   "source": "Finovate",
-   "summary": "",
-   "published": "2026-11-05T00:22:22+00:00"
   },
   {
    "category": "ai_workflow",
@@ -563,6 +579,14 @@
   },
   {
    "category": "ai_workflow",
+   "title": "How to Automate Business Processes: 6-Step Guide (2026)",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiaUpnckNHaVhiMjV4UUF0ZGJlQy12ZFRiVWNJMGxYaWJNUzNRS1VCX2QxZU0wajZHa2g2cG5FcE9vQXlfSUFsVlhtdHpqbW9NalF2VWVBdHpFM3RoYk8xYk12UW9DZ9IBdkFVX3lxTFB0Tjd0a2ZtOWZScEFVbHpIWWMwTkNQTTVSbjhpTnNSRzVVM2kxYklLMVI1R3FLaFJmTEE0cWVaNmxRWTRObG4xMURCWERCWVgwUGJiLUg1S2w1SWJObVRfQ3F3el9taFNWeVJHLVI3RjctTGVPM1E?oc=5",
+   "source": "G2 Learn Hub",
+   "summary": "",
+   "published": "2026-11-04T05:35:52+00:00"
+  },
+  {
+   "category": "ai_workflow",
    "title": "datasette-apps 0.3a0",
    "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
    "source": "Simon Willison",
@@ -576,6 +600,14 @@
    "source": "Simon Willison",
    "summary": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a…",
    "published": "2026-11-03T23:13:45+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "No-code automation with AI agents, what you can really get done",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tam1pWEVUX3Z1TktpbUwyWjVKdHRMRlhDLW1ZZlNXc2Z4ZTNQeVNTeWhFSFdCdWFyVzkteUVzX0l1ZDh6MkZuRFhFMXlyeDdVdzFPYlU1WS1VVGEtVm1mQzRkY05nNTB0ZHV1akpoS29kOU1YNEs4?oc=5",
+   "source": "Pasquale Pillitteri",
+   "summary": "",
+   "published": "2026-11-03T22:51:22+00:00"
   },
   {
    "category": "ai_general",
@@ -794,14 +826,6 @@
    "published": "2026-11-02T08:40:17+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "Deadmau5 Responds to Gen-AI Deepfake: ‘Just the Beginning for Talentless F–ks to Abuse This Tech’",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2k3SV9GaDNqWjUzM2RzdzF1a0JmdHdQTlRTOFg4TXB4Wk94M2JCbGVGYVBuQmFsLU5RMHFPenBmTE8zN0lmdFNUNXpMRDFVdktsUE1OV3NMMDVWSlltRF84cUg5LXgyZlN3QktGYzRsNWw3UW5UdUxkRnNydGd1YTBCRzh1QQ?oc=5",
-   "source": "Billboard",
-   "summary": "",
-   "published": "2026-11-02T08:00:00+00:00"
-  },
-  {
    "category": "ai_general",
    "title": "Anthropic | History, Controversies, & Claude AI",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
@@ -914,6 +938,14 @@
    "published": "2026-10-31T18:31:00+00:00"
   },
   {
+   "category": "web3",
+   "title": "What Is Asset Tokenization? Meaning, Examples, Pros, & Cons",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByZUthN0pZWUQxdDkxbmk3RElkTzBxcmc2T2t1LV9EWTRMMTlsQnRhOVRiQk1vSGw5cjB1bGg4NWprYlcwRWFVQV9fb0FFX3BDc2VTQ2p2MTlYbURzTGRIeUtVZ2xpYlN1cGZjd3lvNA?oc=5",
+   "source": "Britannica",
+   "summary": "",
+   "published": "2026-10-31T07:00:00+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "Is AI killing art? No, but the human creative process still matters, Israeli study argues",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2cVBXWHd1aU5vdDVCVzVSZlNuNk5LSjRKN0ZQdGNwYmdMdVB5VXhoTWswbHNBLXd3TWxFTFJKdllWTDBqOWtzR1NLVHk1ZDYzQ1BGWjFIVlQyVWxZSXZfSFpR?oc=5",
@@ -936,6 +968,14 @@
    "source": "FilmInk",
    "summary": "",
    "published": "2026-10-30T22:07:31+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "A stunning microscope video of a child’s airway won Nikon’s contest before being stripped of first place due to the use of generative ai",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZjBGRG50YjlJcm16UnVSVW5LUTJBUFFiUVo2LUdfZTlaZmpueWg1MG1wSlcxNXdWTTh1d3NzbGNtRGdhY245QVhRdU4zTUd3dFBWT3R0LWdOQlh1WnlTZDJJLVA3ZFVPS0tNeG9uUWIyempyMkVEQ2g2cXJ6aHNsaWdzVmlrZ29JbFZxdDZ2R2s4WmRwZGVDdWN4dElTbDY3VmI2UDZsdVJkQlBsQi1aaEVMVFNwNWtPSnJqUDZKTC1BbmpkVDFja0ZSOWd3ZkxNY3pMM1ZIZzk4dkV5ZWRMTFY1OTFOU2w0ODJjODU4c1hiYml1clA2cg?oc=5",
+   "source": "Earth.com",
+   "summary": "",
+   "published": "2026-10-30T22:00:00+00:00"
   },
   {
    "category": "ai_workflow",
@@ -986,38 +1026,6 @@
    "published": "2026-10-30T10:00:00+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "a16z generative ai",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SUjFhTWVGLVZwTmRwUUdraGEyRlRyR1c2UUt3TnlyenVqaW5DVHo3UDdOc2tQaEVvOHptN3c4UnJIVVhSSkIwZlRQZGtLMDhGSXREaVBLcnZ0NkZw?oc=5",
-   "source": "The Chimes",
-   "summary": "",
-   "published": "2026-10-30T09:16:56+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Best AI Automation Course Options for US Learners in 2026",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yVGEtYTd5T2FET3NQLVFPaU9VcFhnZTF4RFZjal9TcnlJbFkxdWxnaGFfcThjbWQ4TVUxbUtzR2dYSVJoNzlOMHo0WVBEOXN6N21KckNtUlhSWjROZjRhVllfUmJGeUVpNjJF?oc=5",
-   "source": "Bitcoin Foundation",
-   "summary": "",
-   "published": "2026-10-30T07:26:52+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "n8n VPS: what is n8n and how to automate on your server",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50ZHpNVlZfMlN5Q2NKY2o0LWd1QkZ2Nk9GRkFHd2VDWlcydjBXeEQzZmszSkFjeFVmSXhubUM2LWE3TFF5UUpNME5OODJrQm9pNTUtdWJkQmdoRmt2RUN3?oc=5",
-   "source": "One.com",
-   "summary": "",
-   "published": "2026-10-30T07:00:00+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "What Is ETH Gas? Ethereum Fees & Gwei Explained",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9INkxaMnF5dFRveERwaVBBRnVYcE9LRDZTSkQzNzRQZVVfTkthcDUycXh4SjVHaDFGejVfcVRQMjMzY21Ydzc3YVRkX3lfbzlKZGtOaDZQcVp3dmx4U1I1WWd6Q2k?oc=5",
-   "source": "Britannica",
-   "summary": "",
-   "published": "2026-10-30T07:00:00+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Granite Switch 4.1.1 — Update models like you update software",
    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
@@ -1048,14 +1056,6 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-10-29T00:00:00+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Build specialized multimodal models with LFM3",
-   "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-   "source": "Hugging Face",
-   "summary": "",
-   "published": "2026-10-27T17:16:52+00:00"
   }
  ],
  "errors": []

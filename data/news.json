@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-07T04:08:16.352184+00:00",
+ "updated": "2026-11-07T07:22:43.424404+00:00",
  "items": [
+  {
+   "category": "ai_creative",
+   "title": "All the latest in AI ‘music’",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXl2XzVuUmRDck92VFVjRTNRSkthcnZiakEzMnY0T01qMHpmMGduS2ZaUHJiOVFETy12SHBGelNCZlpRN2twVFJRaDM1ZzROWGJkcHhUNUFJUWU1Z1Y4bFBQRzIyeU1EVjdieDhNWXNPdUZaR0Y4VlVZTHJqcFdfU0NXVF9kUWF4NzBIMjNpbHRXQUE?oc=5",
+   "source": "The Verge",
+   "summary": "",
+   "published": "2026-11-07T05:37:18+00:00"
+  },
   {
    "category": "ai_workflow",
    "title": "Outside AI Agents Aren’t Slowing Google And Amazon Ads. Their Own Are.",
@@ -211,14 +219,6 @@
   },
   {
    "category": "web3",
-   "title": "Ethereum ETH (ETH-USD) Live Price, News, Chart and Price History",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TZkNwOEhGSDZJZkNPeVAxUXR3Y3hHNW1DVHd6ZFk1WmcwXzFVamZsc1pjSVVVZEdfdzJrRHFfV21yV1pxdzROV1JvSmRDN243dFlodHZB?oc=5",
-   "source": "Yahoo Finance UK",
-   "summary": "",
-   "published": "2026-11-06T15:38:19+00:00"
-  },
-  {
-   "category": "web3",
    "title": "The crypto industry has found new ways to grow. Making money from them is another story",
    "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
    "source": "CoinDesk",
@@ -362,20 +362,20 @@
    "published": "2026-11-06T09:53:27+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "‘Kamen Rider’ Studio Toei Frames Generative AI Rules, Sets First Video Games for 2027",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41M3F3cjhCRVdOQ1VqcWY3SDhFbVFuNW9IN255YUF2RTZhUWlMekV6Wk9jRGZZV3JlZGE3UURkTTg4VllaX3d6dVN2cENrNHNDR3pURldSMWdhb20wNVMtb29mTDYzQlQtNkE?oc=5",
-   "source": "IMDb",
-   "summary": "",
-   "published": "2026-11-06T09:18:30+00:00"
-  },
-  {
    "category": "web3",
    "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
    "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
    "source": "CoinDesk",
    "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
    "published": "2026-11-06T08:47:42+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "‘Kamen Rider’ Studio Toei Frames Generative AI Rules, Sets First Video Games for 2027",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0lkZHhSUUtKNkU3Rlp6bk9BemdIcTFhZWNqeDFOR1RYbnRETjJEc0ZVaUZUcUliN3NrOWV6RzBLWVJwWEJXQ0xtVS1RTFI0VmJzdElCNXk4Y2ZVd2YzUTZ1QUtodFRwRDJLemkzdWc4ZXhjY201cE85aVlIN1NUUkdGSXpNWnA3NC1UV3V2SHRGMDNfVi1kaGk1ZnpWVlpiNk4xSWJoT2I2Ul9kaWtRWWUxTVV3bW1G?oc=5",
+   "source": "Variety",
+   "summary": "",
+   "published": "2026-11-06T08:21:00+00:00"
   },
   {
    "category": "web3",
@@ -448,6 +448,14 @@
    "source": "TechCrunch",
    "summary": "",
    "published": "2026-11-05T19:06:12+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Where Will Ethereum Be in 3 Years?",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2JqOVFyOWVhdENTM2RnbVc3aTJyRlNELXpUVFZWN0txYVI3UWVYLVdpQnBudjdJQ3pxVFFNX1lGdDd1S1M3X2VkcjR3ZVlqcnFoLTRmcXNpaGdZMHo1SEtKM3p6cWJXV0pzQ0pLVjF2X0trUlBhbEdUSmlWMGg2dHM4LUpoaTdUalpBaUgzeTc?oc=5",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "published": "2026-11-05T19:01:00+00:00"
   },
   {
    "category": "ai_creative",
@@ -739,6 +747,14 @@
   },
   {
    "category": "ai_workflow",
+   "title": "No-code automation with AI agents, what you can really get done",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tam1pWEVUX3Z1TktpbUwyWjVKdHRMRlhDLW1ZZlNXc2Z4ZTNQeVNTeWhFSFdCdWFyVzkteUVzX0l1ZDh6MkZuRFhFMXlyeDdVdzFPYlU1WS1VVGEtVm1mQzRkY05nNTB0ZHV1akpoS29kOU1YNEs4?oc=5",
+   "source": "Pasquale Pillitteri",
+   "summary": "",
+   "published": "2026-11-03T22:51:22+00:00"
+  },
+  {
+   "category": "ai_workflow",
    "title": "llm 0.37.1",
    "link": "https://simonwillison.net/2026/Nov/3/llm/",
    "source": "Simon Willison",
@@ -755,7 +771,7 @@
   },
   {
    "category": "ai_creative",
-   "title": "Google Will Disable Search for Schools Banning AI",
+   "title": "Google Will Cut Off Search Engine Access To Schools Banning Generative AI",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOU9DYnFLdUJNeXVzdV9TV2hVWnhXQnZTdGk1UmVreHdOLUU4RUFnUmM4SVRGR0dDcVdDQmJvN09LRzg0eVRTOEpZTERHcU9QcGlacGxHNlZ1V0xWSEVNcEUyTTA5TmN1dDBvWHM5Q0lSWDlDX0VQdnpOSERXU2FVUms5eWVkZ1o4cjU5WEQxNjRoaF9malMyazVPaXY3cEFFWlJGLW1sUUhfZHNnRzlKM1RtcklBSEsyNkdKX3puYmh1TzdRb0E?oc=5",
    "source": "Forbes",
    "summary": "",
@@ -786,18 +802,18 @@
    "published": "2026-11-03T13:30:00+00:00"
   },
   {
-   "category": "web3",
-   "title": "Ethereum price prediction 2026: ETH forecast",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhSXdGODUyaVUzcnVzZWVDbWpabzJNVUE4Sm5MQUJkRnkzMzd4X2F2V3AySjIzbzNkWEhSaXhGcFdfNFJkUmN6c0hESVBmWTV1?oc=5",
-   "source": "CryptoSlate",
-   "summary": "",
-   "published": "2026-11-03T11:37:48+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "Generative AI: How It Works and Recent Transformative Developments",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pYUg1bVhFRjdaZkVsSTZvVlFVTUZVS0RmUnVtb1dUdnVnamJnWWF1V1JCVGU5NmRkb0UxTGlkcU5wbG1uVjFQVFlUNlZuck8xLS1jV2xYSUcwTEVCSDdF?oc=5",
    "source": "Investopedia",
+   "summary": "",
+   "published": "2026-11-03T08:00:00+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Generative AI Ethics: AI Risks, Benefits, and Best Practices",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CMlpLaTBSVkc0NVZ6VnhnT2RpVW5WWHQ1S0dEUWU5WnRIeTdFRExzTU9fOXFJS0NHVEs3NXFPVzVJVG9JTWRENEdYN1ZQWGZYWDJOemlvcjlyYUM1TEQzNDlQZ3I?oc=5",
+   "source": "Coursera",
    "summary": "",
    "published": "2026-11-03T08:00:00+00:00"
   },
@@ -875,7 +891,7 @@
   },
   {
    "category": "ai_workflow",
-   "title": "AI Guardrails: How to Adopt AI Agents Safely in 2026",
+   "title": "AI agents are arriving fast. Here's how to adopt them safely",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUjJzX2Uydm5tcE4tSUlMU1d4eGFRTHdQX09ES0JyQXk1U1lrdWxDQVNnNVhOSkVXU1A5T3BaUmJDSjZPM3dxclFOWHhrbFltSFlGeEY4MnRRS3EyUTd3MVBmUTNSOEtvbElPcHVsUU4wd0RlMTZGb2NNZU1IQTloSktyTEZqdUVWdWVWb0Q3WjJxYk1BYkNV?oc=5",
    "source": "World Economic Forum",
    "summary": "",
@@ -907,17 +923,17 @@
   },
   {
    "category": "ai_general",
-   "title": "Anthropic vs OpenAI: Who’s Winning the AI Race in 2026?",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wY1dnSDBYRURoU2FJUnhFUHlCZGRzcXNTa3JkYk9HRUFYbEd1MUxkSkZ1TXlRUG56bDI0eDducEZOWkpXbEhQRWphMUZXbmxMWXc?oc=5",
-   "source": "Fello AI",
+   "title": "Anthropic | History, Controversies, & Claude AI",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+   "source": "Britannica",
    "summary": "",
    "published": "2026-11-02T08:00:00+00:00"
   },
   {
    "category": "ai_general",
-   "title": "Anthropic | History, Controversies, & Claude AI",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
-   "source": "Britannica",
+   "title": "Anthropic vs OpenAI: Who’s Winning the AI Race in 2026?",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wY1dnSDBYRURoU2FJUnhFUHlCZGRzcXNTa3JkYk9HRUFYbEd1MUxkSkZ1TXlRUG56bDI0eDducEZOWkpXbEhQRWphMUZXbmxMWXc?oc=5",
+   "source": "Fello AI",
    "summary": "",
    "published": "2026-11-02T08:00:00+00:00"
   },
@@ -936,14 +952,6 @@
    "source": "South China Morning Post",
    "summary": "",
    "published": "2026-11-02T07:59:30+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "BIFAN's AI education team moves beyond tech demos toward filmmaking — with results in Japan",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JOVFxaExQRl8yTTdSRjJ5SGoxREx3RjhCbmxOeGZSX0NHMF92cFNLNWZma0NiaU90UTFyMU1GeFhmaEUzOGNLQ0FhOEF6WVo0anhaTmVpWQ?oc=5",
-   "source": "헤럴드경제",
-   "summary": "",
-   "published": "2026-11-02T06:50:00+00:00"
   },
   {
    "category": "ai_workflow",
@@ -1002,20 +1010,12 @@
    "published": "2026-11-01T00:45:44+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "7 Top Lead Scoring Software Solutions",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6MWpnb3FHc2xkMVM1SGxRaWc0SWtLclJSTlA2VlVKbC1mUGlaM3RfX1pfdENUQjBpWDBjcW5KODZ4aUtIVThBdTBaWW9MbWVnS3oyMDV5Zy1XUU5PRFE?oc=5",
-   "source": "Small Business Trends",
+   "category": "web3",
+   "title": "What Is Asset Tokenization? Meaning, Examples, Pros, & Cons",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByZUthN0pZWUQxdDkxbmk3RElkTzBxcmc2T2t1LV9EWTRMMTlsQnRhOVRiQk1vSGw5cjB1bGg4NWprYlcwRWFVQV9fb0FFX3BDc2VTQ2p2MTlYbURzTGRIeUtVZ2xpYlN1cGZjd3lvNA?oc=5",
+   "source": "Britannica",
    "summary": "",
-   "published": "2026-10-31T18:31:00+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "Is AI killing art? No, but the human creative process still matters, Israeli study argues",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2cVBXWHd1aU5vdDVCVzVSZlNuNk5LSjRKN0ZQdGNwYmdMdVB5VXhoTWswbHNBLXd3TWxFTFJKdllWTDBqOWtzR1NLVHk1ZDYzQ1BGWjFIVlQyVWxZSXZfSFpR?oc=5",
-   "source": "The Jerusalem Post",
-   "summary": "",
-   "published": "2026-10-31T06:06:35+00:00"
+   "published": "2026-10-31T07:00:00+00:00"
   },
   {
    "category": "ai_workflow",

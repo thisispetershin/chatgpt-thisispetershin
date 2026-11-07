@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-07T15:53:42.743813+00:00",
+ "updated": "2026-11-07T19:04:02.734134+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+   "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+   "source": "CoinDesk",
+   "summary": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
+   "published": "2026-11-07T17:36:46+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+   "link": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
+   "source": "Decrypt",
+   "summary": "Apple and Meta’s objections mean all seven of the biggest U.S. tech companies have now asked to keep their shares off the planned OKX-ICE venue.",
+   "published": "2026-11-07T17:01:03+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+   "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+   "source": "CoinDesk",
+   "summary": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
+   "published": "2026-11-07T16:51:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
+   "link": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
+   "source": "Decrypt",
+   "summary": "A Friday rebound offered relief after a historic selloff. The question now is whether politics and mounting debt could turn an AI correction into something much worse.",
+   "published": "2026-11-07T16:01:02+00:00"
+  },
   {
    "category": "web3",
    "title": "Here’s what happened in crypto today",
@@ -40,6 +72,22 @@
    "source": "Cointelegraph",
    "summary": "US also offers as much as $20 million and possible relocation for information about Iran’s nuclear program.",
    "published": "2026-11-07T11:10:47+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "Securing AI Agents: Lessons From Real-World Deployment",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGM5ODY5TGc1T0NjVGhjY1M2d09xeWRqZ1p2MS1HVW5fZEVjdzJ4S1UtTmtFVW9HTnF6QnRqZ0s0Y2dwdFpVd3RHVmRqaE0weEx2V3pnN3FPaGR4czdNZg?oc=5",
+   "source": "Uber",
+   "summary": "",
+   "published": "2026-11-07T10:56:39+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Will AI Video Content Creation Replace Human Video Editors and Animators?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHk4a2NKQ2R0dDg5Z001N3lEcUE2Y0t1SVUzVUVfUGd6QlZlQlh1ZTA5Y1ZnSXJYcnd4VnAxNW5iTW03ajZ0RFJ0WU1WRk1UOGFtNllreElQWFByOW00RjE5MjlXMUVtNU1fSjFOTks1aklkY29sVDZPY0RJNml3dERobjdlb3RKNEFZLWc1UmJqUmUwaGhaY1lxNUpyQQ?oc=5",
+   "source": "TechBullion",
+   "summary": "",
+   "published": "2026-11-07T10:23:19+00:00"
   },
   {
    "category": "web3",
@@ -195,6 +243,14 @@
   },
   {
    "category": "ai_workflow",
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xR2JJZ0FQU2ptTi1UcE9reDg3aGdRZ2lHM0d3NHYxcS1KbDhacDJ4RWlKM2R6ZHpEdFh4TTdmVm82VkZ2enhZOWFjanZfQzR2aUcyS3FkbjRoOHFTcXlfaVI0YTd4aFVyMFQ5SFVtelhjVmtTVE11R2k2LUI?oc=5",
+   "source": "OpenAI",
+   "summary": "",
+   "published": "2026-11-06T19:09:23+00:00"
+  },
+  {
+   "category": "ai_workflow",
    "title": "These AI agents design your perfect robot-powered lab — and run it for you",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4OGxPNFp0VFV4VjhEX00xRUZMLVlQWXRYQnVpZjZwb3pPWmhMcEZqZkR3MmZ5Y1FLMm9UZzFPclAwNlN5dDAyYy11RlE1TklDQzg0OTJOeVZHX2ljejZZ?oc=5",
    "source": "Nature",
@@ -322,28 +378,12 @@
    "published": "2026-11-06T14:33:49+00:00"
   },
   {
-   "category": "web3",
-   "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
-   "link": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
-   "source": "Decrypt",
-   "summary": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
-   "published": "2026-11-06T14:04:18+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
    "link": "https://huggingface.co/blog/allenai/toyblocks",
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-06T14:00:48+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
-   "link": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
-   "source": "Decrypt",
-   "summary": "The Tesla CEO said the Texas plant will make room for the Cybercab, as sales of the stainless-steel pickup run far below capacity.",
-   "published": "2026-11-06T13:53:04+00:00"
   },
   {
    "category": "web3",
@@ -411,27 +451,11 @@
   },
   {
    "category": "web3",
-   "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-   "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
-   "source": "CoinDesk",
-   "summary": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance.",
-   "published": "2026-11-06T08:04:52+00:00"
-  },
-  {
-   "category": "web3",
    "title": "Stablecoin-Backed Cards: New Payment Experiences",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTnFMTkpweWFrc1E0Unp5YlFGMG5IYmJLUU9fOEs5blY2ektESlVmMDYySllmVGZkeXZybTVfbzR0Vy1qUkRQVmIyYXhiNmtOa25lRXZpOTZfakVUSlFJUHBNR3NUN2dGTGY1Q3Z3WW03Z0lVMGJPeE9DTlBtV3dYODc1R2I5NTI0cmtfa3l3cmlDeW1DUkVhem41alBwRGVHeGRXZlJKeF9UUQ?oc=5",
    "source": "Marqeta",
    "summary": "",
    "published": "2026-11-06T05:42:10+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
-   "link": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
-   "source": "CoinDesk",
-   "summary": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners.",
-   "published": "2026-11-06T05:14:48+00:00"
   },
   {
    "category": "ai_workflow",
@@ -440,14 +464,6 @@
    "source": "YouTube",
    "summary": "",
    "published": "2026-11-06T01:00:17+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "Nile Rodgers calls AI critics hypocrites after fans slam new music video -",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVNmphaktsc1Y5am1ieW0wWF9uQ19tRnR1QWtJUVNVOU90LTV2OVZ5a2E2a18yQXFiT2h2cXpHT1p3UVVRN3dmQ3lqQWM5QWctUFAtVjRLTkxUT091RHZVbVNWaGZiVGF4Wkt3Sndn?oc=5",
-   "source": "Happy Mag",
-   "summary": "",
-   "published": "2026-11-06T00:55:22+00:00"
   },
   {
    "category": "ai_creative",
@@ -578,6 +594,14 @@
    "published": "2026-11-05T12:00:00+00:00"
   },
   {
+   "category": "ai_general",
+   "title": "AIVideoFree Integrates OpenAI’s GPT Image 2.6 a Day After Release, Running Both New Models Alongside Competing Image Generators",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWmd3Umc4YWJqVFdMLWJ1ZTJLWE1hWjJvbDNpdDh6S0paOHFBdWwwRXQ0UWZqY0lhSjEwOGJVOFdBQUdMNHdmMTQxN1ZyNkNCZTN0QnZPUVhhQlpIMGpUQnhoMVgwMEx2Q2RkdnhhN2N5amFpTlByWWRPV0FmZlNvUzQxM3cxbF82b2tkeU94NTd6M2pyYWVzblNUQmNWNjdWMm9EY1p3ZmliN0lyNk1nVUtQTnZWem9hdl9mSDhWcjhaMUM2OUgtOERuT2pUOGZnb3VrLWhMU09tQzRMcjRTR3NLSUFfNV92bW1hX3VmQzQ2OHJxSmtIWjctOUxFZFhwNWVmRWl1ZHZ3eTZmLUpWNDU0bw?oc=5",
+   "source": "markets.businessinsider.com",
+   "summary": "",
+   "published": "2026-11-05T10:56:23+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "SelfyzAI Brings AI Music Video Creation to ChatGPT via MCP",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYVZhTHU4cUVScmlRWUwyd205TXFqRUxRUDhOOFg1eUVRTDBWdTdxYWNVazZBSVRwVzR5bFJOS0JIWHA2MUs5MUJuU1BiQ2xsVzdVSVVvNWgyMXVXR0phY2xVTWV3WTdGbXpJNHI3a01BbGExaWVGS1IwVFpkTEswTFZrdTh3Q3pjNUJnTWlpbXZLb1ZMUG1vSTBpbUI5bjkwbzRrOUtReGstc1VPZmlBa3ZLcGFBSlE?oc=5",
@@ -592,14 +616,6 @@
    "source": "NeoTeo",
    "summary": "",
    "published": "2026-11-05T08:17:41+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Introducing GPT-6 Sol and Luna",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-   "source": "OpenAI",
-   "summary": "",
-   "published": "2026-11-05T08:00:00+00:00"
   },
   {
    "category": "ai_creative",
@@ -626,14 +642,6 @@
    "published": "2026-11-04T23:02:07+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "Everyone's adopting AI agents. Almost no one can prove the ROI. Here's why",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWW9LYV9UUTJXUng5ZmJDb1plSDN6YmR3WU0xSHFfYUZ5N1Jyd2Z5YVp3RUt0RG1rWnZWNkJwano2eWkweG5fNDhnM1p1ZzVydXlnUFZNUVRkUWtBeU03cFhmT0FzNEFCd1dfR1k1dWZSQnhvcEZQZUpmZjJGNjRHX2YxVFBtZzRWaHhMUUFKemJZUW1lS1I0UUVVX1RtQUE?oc=5",
-   "source": "Databricks",
-   "summary": "",
-   "published": "2026-11-04T22:03:03+00:00"
-  },
-  {
    "category": "ai_general",
    "title": "QUICK SPARK: Anthropic Releases Tool to Prove Which AI Model Wrote a Response",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWVmZFczWlNZbGZTSDVrdG5IZW85SE5yRWVXdXpwQzdxUWwwMUFOT1FMU0xqRUpVVk5oNlNLWFlrRV9Wa3Q2WUxxQXp2TjZ0TktLYlFSWU4wZEp2WHFfS0ZBdUFSV0RrSjZIc2o3T09QNjZTRldwM1kzVXk5OUFXdWJYYW1ZeHp2c204bHVmemhnY2tLazNr?oc=5",
@@ -648,14 +656,6 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-04T17:50:10+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Your AI Agents Are Fast. Your Process Isn’t. Here’s How to Fix It.",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DLVJEUTFKRTZORnBOcUFDTWJaRWJZSWRvYU9ZNnF4ZVVtU3owZUFCbmR2enBybGFQSXVUdFhCRUpYcm15XzZheDFfV1JpM3NHb0Z3SmdVd2JXRTNtaVFqMGh4T0huSDNWbXpPT1FleDE4MFVVZHhyelhLdzZ0SzQ?oc=5",
-   "source": "Salesforce",
-   "summary": "",
-   "published": "2026-11-04T17:27:03+00:00"
   },
   {
    "category": "ai_creative",

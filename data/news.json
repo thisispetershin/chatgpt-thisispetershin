@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-07T07:22:43.424404+00:00",
+ "updated": "2026-11-07T10:01:49.460485+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "Suspicious prediction market activity seen before election poll release: NYT",
+   "link": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report.",
+   "published": "2026-11-07T09:10:35+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "AI Filmmaking Platform Core Studio Launches at Taiwan Creative Content Fest With 24 Specialized Agents",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLUdxQ1NoblRrdGdBTmU1cnNtYy1PbS1UMkxVb1huSk9JSTIxcVdhNHRQZ29ZSXZSU3JwX3puaFo0VEVkWk9GNExHcWxvVzNNYUtlMzVPQnZXRVhfRFJwSUlaQzYxSWlhbVE4ZEFkZTljcHpVdnNmaU1Razd6NkMwYjB6ZTcxS1JwRUNIbW5SdF9US0VSN1Y3OUZCMmE5clhMeUtaczdacVRCLUtkMFctUmdFU3hiQ0d1Vnc?oc=5",
+   "source": "Variety",
+   "summary": "",
+   "published": "2026-11-07T08:19:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Nvidia may face a more hostile post-election Washington: Report",
+   "link": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "CEO Jensen Huang’s relationship with President Donald Trump probably won’t save the company from a more adversarial Washington, Semafor says.",
+   "published": "2026-11-07T07:45:24+00:00"
+  },
   {
    "category": "ai_creative",
    "title": "All the latest in AI ‘music’",
@@ -307,27 +331,11 @@
   },
   {
    "category": "web3",
-   "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
-   "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Ethereum developers are investigating concerns tied to eight smart contract invariants tied to Glamsterdam’s EIP-8037 and EIP-8038.",
-   "published": "2026-11-06T13:23:08+00:00"
-  },
-  {
-   "category": "web3",
    "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
    "link": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
    "source": "CoinDesk",
    "summary": "Your day-ahead look for Nov. 6, 2026",
    "published": "2026-11-06T12:30:00+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
-   "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Solana’s promotional campaigns through domestic entities allegedly violated China’s crypto-related restrictions, an unidentified PBOC official told China’s Financial News.",
-   "published": "2026-11-06T12:15:28+00:00"
   },
   {
    "category": "web3",
@@ -402,6 +410,14 @@
    "published": "2026-11-06T05:14:48+00:00"
   },
   {
+   "category": "ai_workflow",
+   "title": "8 GitHub Repos That Automate Your Work With AI Agents (All Free) ← I recommend this one",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hTXQtcUJYcGphT1BZMzd1WEZZTFVzWDRKTHFCRmU3WE5Cc0UwSVJYdFVJOG0xOS13c19BZG5WaHJCZ2x1MlBSRnI5ajBNX252ZHk5cE8zeGduR0pp?oc=5",
+   "source": "YouTube",
+   "summary": "",
+   "published": "2026-11-06T01:00:17+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "Nile Rodgers calls AI critics hypocrites after fans slam new music video -",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVNmphaktsc1Y5am1ieW0wWF9uQ19tRnR1QWtJUVNVOU90LTV2OVZ5a2E2a18yQXFiT2h2cXpHT1p3UVVRN3dmQ3lqQWM5QWctUFAtVjRLTkxUT091RHZVbVNWaGZiVGF4Wkt3Sndn?oc=5",
@@ -424,14 +440,6 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-06T00:00:00+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "CRIMSON MIRROR | Gothic Cinematic AI Music Video | Mashumero",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43YlVzcktmTzJxNVhJelE1MXZwVzZ2cUptVE5zRE9JTU9mS0IxM0MtT09XZFhWSVFXWnRSdTVZeTEtQk1QeXVCZ0QxRDUxSFA2bXZsM3plclB4UUVs?oc=5",
-   "source": "YouTube",
-   "summary": "",
-   "published": "2026-11-05T23:50:14+00:00"
   },
   {
    "category": "ai_workflow",
@@ -536,6 +544,14 @@
    "source": "University Business",
    "summary": "",
    "published": "2026-11-05T14:51:45+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMU5jdzVISThTaXJLcTNjQ2R4cDJieTVWczhva2lRZ2xhR1k0dEZNdVJhTGVXWW4tN0NxTl8zQ0NIOTh5bVMxdGlLZXpnZDdlVzZiQUVNb0lIMmJEQTJ0dk1wS18zV2hUWlFNTU14ZVdsWEZWWFRoLXlLdjJuRHpKQjhB?oc=5",
+   "source": "The Hacker News",
+   "summary": "",
+   "published": "2026-11-05T14:41:00+00:00"
   },
   {
    "category": "ai_creative",
@@ -744,14 +760,6 @@
    "source": "Simon Willison",
    "summary": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a…",
    "published": "2026-11-03T23:13:45+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "No-code automation with AI agents, what you can really get done",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tam1pWEVUX3Z1TktpbUwyWjVKdHRMRlhDLW1ZZlNXc2Z4ZTNQeVNTeWhFSFdCdWFyVzkteUVzX0l1ZDh6MkZuRFhFMXlyeDdVdzFPYlU1WS1VVGEtVm1mQzRkY05nNTB0ZHV1akpoS29kOU1YNEs4?oc=5",
-   "source": "Pasquale Pillitteri",
-   "summary": "",
-   "published": "2026-11-03T22:51:22+00:00"
   },
   {
    "category": "ai_workflow",
@@ -1008,14 +1016,6 @@
    "source": "CNA Lifestyle",
    "summary": "",
    "published": "2026-11-01T00:45:44+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "What Is Asset Tokenization? Meaning, Examples, Pros, & Cons",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByZUthN0pZWUQxdDkxbmk3RElkTzBxcmc2T2t1LV9EWTRMMTlsQnRhOVRiQk1vSGw5cjB1bGg4NWprYlcwRWFVQV9fb0FFX3BDc2VTQ2p2MTlYbURzTGRIeUtVZ2xpYlN1cGZjd3lvNA?oc=5",
-   "source": "Britannica",
-   "summary": "",
-   "published": "2026-10-31T07:00:00+00:00"
   },
   {
    "category": "ai_workflow",

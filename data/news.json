@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:22:25.096416+00:00",
+ "updated": "2026-11-07T04:08:16.352184+00:00",
  "items": [
   {
    "category": "ai_workflow",
@@ -42,20 +42,20 @@
    "published": "2026-11-06T21:05:25+00:00"
   },
   {
+   "category": "ai_workflow",
+   "title": "What are they talking about? AI agents are developing odd dialects humans struggle to follow",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hNTJhTlZXaHB1THJZZ3cydDBSMk5wSzlZUlJrVlczMV96dWVyb2x2SDZKaHU5aU91SHBXYmVhY1Z4TDBzM3VqdUFoUjZXSU1vTWNvSDdiTlBYLUNhYS01MEJDWnZlaklDSzFmdkFLMHEzRjdJQnRSZ0sxSGFCalE?oc=5",
+   "source": "Northeastern Global News",
+   "summary": "",
+   "published": "2026-11-06T21:03:40+00:00"
+  },
+  {
    "category": "web3",
    "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
    "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
    "summary": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information.",
    "published": "2026-11-06T20:51:23+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "What are they talking about? AI agents are developing odd dialects humans struggle to follow",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hNTJhTlZXaHB1THJZZ3cydDBSMk5wSzlZUlJrVlczMV96dWVyb2x2SDZKaHU5aU91SHBXYmVhY1Z4TDBzM3VqdUFoUjZXSU1vTWNvSDdiTlBYLUNhYS01MEJDWnZlaklDSzFmdkFLMHEzRjdJQnRSZ0sxSGFCalE?oc=5",
-   "source": "Northeastern Global News",
-   "summary": "",
-   "published": "2026-11-06T20:49:15+00:00"
   },
   {
    "category": "web3",
@@ -387,6 +387,14 @@
   },
   {
    "category": "web3",
+   "title": "Stablecoin-Backed Cards: New Payment Experiences",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTnFMTkpweWFrc1E0Unp5YlFGMG5IYmJLUU9fOEs5blY2ektESlVmMDYySllmVGZkeXZybTVfbzR0Vy1qUkRQVmIyYXhiNmtOa25lRXZpOTZfakVUSlFJUHBNR3NUN2dGTGY1Q3Z3WW03Z0lVMGJPeE9DTlBtV3dYODc1R2I5NTI0cmtfa3l3cmlDeW1DUkVhem41alBwRGVHeGRXZlJKeF9UUQ?oc=5",
+   "source": "Marqeta",
+   "summary": "",
+   "published": "2026-11-06T05:42:10+00:00"
+  },
+  {
+   "category": "web3",
    "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
    "link": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
    "source": "CoinDesk",
@@ -472,14 +480,6 @@
    "source": "OpenAI",
    "summary": "",
    "published": "2026-11-05T17:18:03+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Stablecoin-Backed Cards: New Payment Experiences",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTnFMTkpweWFrc1E0Unp5YlFGMG5IYmJLUU9fOEs5blY2ektESlVmMDYySllmVGZkeXZybTVfbzR0Vy1qUkRQVmIyYXhiNmtOa25lRXZpOTZfakVUSlFJUHBNR3NUN2dGTGY1Q3Z3WW03Z0lVMGJPeE9DTlBtV3dYODc1R2I5NTI0cmtfa3l3cmlDeW1DUkVhem41alBwRGVHeGRXZlJKeF9UUQ?oc=5",
-   "source": "Marqeta",
-   "summary": "",
-   "published": "2026-11-05T17:01:34+00:00"
   },
   {
    "category": "ai_general",
@@ -658,6 +658,14 @@
    "published": "2026-11-04T15:26:02+00:00"
   },
   {
+   "category": "ai_general",
+   "title": "OpenAI Safety Lead Quits After 12 Model Launches [2026]",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JdnpEVmZRX1gzRDJsY3pfN2NPMF9wMGhSREVxcHBwWFhPQ054TDU0ZUpjVUZmb2xmMnlwVVFwWTFEMHNKZGlNTWM5ekJsM0txMHJWWkhjWXRHUlVTUUlMcGRzd3lGR1lVTjd2MlJ2cmc?oc=5",
+   "source": "shattered.io",
+   "summary": "",
+   "published": "2026-11-04T15:22:26+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "‘Vibe Directing,’ Hybrid Filmmaking and Robots: Disney’s Startup Program Goes All-In on AI",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdy0zWFczOGlEY1d0V295bEZuTWNHZzFXZjJzYVFvNDVidFNzeEpuN2VKUUhzdGhra3FBcmwxM3FjRVRvNUR5SHAyUnkzSEkzNDE1YVFIa1h0M1I2NnQ4M09VbUpnZUpDT2tZOWdkMDJrWjJsb0RDcWl6bEs1dTRhM2hzWFlhVDNlZUE?oc=5",
@@ -787,9 +795,9 @@
   },
   {
    "category": "ai_creative",
-   "title": "Generative AI Ethics: AI Risks, Benefits, and Best Practices",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CMlpLaTBSVkc0NVZ6VnhnT2RpVW5WWHQ1S0dEUWU5WnRIeTdFRExzTU9fOXFJS0NHVEs3NXFPVzVJVG9JTWRENEdYN1ZQWGZYWDJOemlvcjlyYUM1TEQzNDlQZ3I?oc=5",
-   "source": "Coursera",
+   "title": "Generative AI: How It Works and Recent Transformative Developments",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pYUg1bVhFRjdaZkVsSTZvVlFVTUZVS0RmUnVtb1dUdnVnamJnWWF1V1JCVGU5NmRkb0UxTGlkcU5wbG1uVjFQVFlUNlZuck8xLS1jV2xYSUcwTEVCSDdF?oc=5",
+   "source": "Investopedia",
    "summary": "",
    "published": "2026-11-03T08:00:00+00:00"
   },
@@ -902,14 +910,6 @@
    "title": "Anthropic vs OpenAI: Who’s Winning the AI Race in 2026?",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wY1dnSDBYRURoU2FJUnhFUHlCZGRzcXNTa3JkYk9HRUFYbEd1MUxkSkZ1TXlRUG56bDI0eDducEZOWkpXbEhQRWphMUZXbmxMWXc?oc=5",
    "source": "Fello AI",
-   "summary": "",
-   "published": "2026-11-02T08:00:00+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "OpenAI’s Math Drop Hits GitHub, Count Stands at 721 [2026]",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XcS1vR3dCTC1DcVFuZ1E1M2ZneWlGTUlqbHVBLU5qZGRwODNzUkMxTTVsUm9INVJRX2c4d3R1YTdkLXZGSXpzYkxsUUhjNmZLZktKclJvTDlXZzFxQmJGX3hsM0xsLXJId2Fqei1qS09idw?oc=5",
-   "source": "shattered.io",
    "summary": "",
    "published": "2026-11-02T08:00:00+00:00"
   },

@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-07T10:01:49.460485+00:00",
+ "updated": "2026-11-07T13:13:35.787851+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "US sanctions Canadian money-exchange firms over Iran ties",
+   "link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "US also offers as much as $20 million and possible relocation for information about Iran’s nuclear program.",
+   "published": "2026-11-07T11:10:47+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Will AI Video Content Creation Replace Human Video Editors and Animators?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHk4a2NKQ2R0dDg5Z001N3lEcUE2Y0t1SVUzVUVfUGd6QlZlQlh1ZTA5Y1ZnSXJYcnd4VnAxNW5iTW03ajZ0RFJ0WU1WRk1UOGFtNllreElQWFByOW00RjE5MjlXMUVtNU1fSjFOTks1aklkY29sVDZPY0RJNml3dERobjdlb3RKNEFZLWc1UmJqUmUwaGhaY1lxNUpyQQ?oc=5",
+   "source": "TechBullion",
+   "summary": "",
+   "published": "2026-11-07T10:23:19+00:00"
+  },
   {
    "category": "web3",
    "title": "Suspicious prediction market activity seen before election poll release: NYT",
@@ -8,6 +24,22 @@
    "source": "Cointelegraph",
    "summary": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report.",
    "published": "2026-11-07T09:10:35+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Generative AI In Architecture Demands A Shift Toward Curatorial And Ethical Oversight",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDNjcTdKSnhKazdTV25rSmRIVUIxTDVCZ1BpSVhUUHU5dG5Gb3JfNHJscThOVnU2bFF6SWtFOHlYWEhVUDY3X0lFR3NzbzUyRXhjVnEzTUs1Zm5ZTm5zQWo1MzZxcWZiWHB3R1BTWFNOMk85emVQUDlaMUk2ek04QnB5TmVIbERGVzNKeVJkdXVLRDdMVWxHSzA3U05SdzVQWHJYVWNXcEVHSHZYYTNB?oc=5",
+   "source": "Bioengineer.org",
+   "summary": "",
+   "published": "2026-11-07T09:07:28+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "8 Best AI Filmmaking Tools",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82UGpIWXh5TlEyWXBFbVZSQlUyNEFEZmg5U0c0aUVjSDM4Q2UzeTBnY3VWQlRST2dKUDluTm1PWkFvbzhKeHRoOXBDSmVMTWpDRWZ0eDFaa0xTYW5MbVVVZQ?oc=5",
+   "source": "TechBullion",
+   "summary": "",
+   "published": "2026-11-07T08:19:55+00:00"
   },
   {
    "category": "ai_creative",
@@ -144,6 +176,14 @@
    "source": "OpenAI",
    "summary": "",
    "published": "2026-11-06T19:09:23+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "These AI agents design your perfect robot-powered lab — and run it for you",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4OGxPNFp0VFV4VjhEX00xRUZMLVlQWXRYQnVpZjZwb3pPWmhMcEZqZkR3MmZ5Y1FLMm9UZzFPclAwNlN5dDAyYy11RlE1TklDQzg0OTJOeVZHX2ljejZZ?oc=5",
+   "source": "Nature",
+   "summary": "",
+   "published": "2026-11-06T19:07:31+00:00"
   },
   {
    "category": "web3",
@@ -296,14 +336,6 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-06T14:00:48+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-   "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.",
-   "published": "2026-11-06T13:57:14+00:00"
   },
   {
    "category": "web3",
@@ -475,14 +507,6 @@
   },
   {
    "category": "ai_workflow",
-   "title": "You don’t have to be a developer to benefit from vibe coding",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnNKWmM5S1dmSzJWUWJSVXRQNFpXcFdjQ1FKbGtmS0hkUG9KbzhnRG9VZUJjSy1aa2YzRUx6Q3lyaEhFRFZKeU5ucmZUdWc1RFdqbVU2WnpfRnZVRHllNDl0c2NLSGtoZEkyLVlrYm5HMUt6MnU1dmdKYmFHQXNZaDV6Wm1xemk4X2lLbUFtMVFwTFp4V2VuaVd2aU40b2VpaWo1azM3SnV2YkRpYzgxWW1TaV9UQmNwZDM2ZEJyZUNtbnFxajRtVg?oc=5",
-   "source": "www.presspublications.com",
-   "summary": "",
-   "published": "2026-11-05T18:30:09+00:00"
-  },
-  {
-   "category": "ai_workflow",
    "title": "Quoting Paul Ford",
    "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
    "source": "Simon Willison",
@@ -588,10 +612,10 @@
   {
    "category": "ai_creative",
    "title": "SelfyzAI Brings AI Music Video Creation to ChatGPT via MCP",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX1RZTzNnQkVsVWxyQVlwVnlCX1FzcmhyOWRBREJ3NWhfQzVUdTA3RU9OLVNYRWhZRkF1ZGkwWkI1a0VudVpxeUpaLW5RWk5qaTdfdm9rOFhxUUhLeTFZeTNnOE5FYmZoY2N5TGprcC1nVS1ydE1DeENNRU9uZ3I0M2N1Y1R1OUtzdnpkaUpWTmhtMzBMeHQ0NEdHMGd4d3NLUkhZNmM5R0xyeDRxRnRPQlUtYkM?oc=5",
-   "source": "The Detroit News",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYVZhTHU4cUVScmlRWUwyd205TXFqRUxRUDhOOFg1eUVRTDBWdTdxYWNVazZBSVRwVzR5bFJOS0JIWHA2MUs5MUJuU1BiQ2xsVzdVSVVvNWgyMXVXR0phY2xVTWV3WTdGbXpJNHI3a01BbGExaWVGS1IwVFpkTEswTFZrdTh3Q3pjNUJnTWlpbXZLb1ZMUG1vSTBpbUI5bjkwbzRrOUtReGstc1VPZmlBa3ZLcGFBSlE?oc=5",
+   "source": "The Ithaca Journal",
    "summary": "",
-   "published": "2026-11-05T09:42:59+00:00"
+   "published": "2026-11-05T09:54:16+00:00"
   },
   {
    "category": "ai_workflow",
@@ -600,14 +624,6 @@
    "source": "NeoTeo",
    "summary": "",
    "published": "2026-11-05T08:17:41+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "CrowdStrike Secures AI Agents Inside Claude Cowork",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1ExUDIzSUp3UklJUlM5VnFLYVotRUc5Y0hSS21PcUw3Y21XVzJ1a25QcWZ1LXhNZjFQVVBiWUpVNmo3NUJnblNDTjF3c0JQd25iMTFqWEx0cVBGUVZxRlBDR0duTkF4NnRnUUxpY1U5Ny0za3dQa0gtdERKYThuRk5JSlpXbjQxdEVGZFdiWS1nTjBo?oc=5",
-   "source": "CrowdStrike",
-   "summary": "",
-   "published": "2026-11-05T07:51:53+00:00"
   },
   {
    "category": "ai_creative",
@@ -643,14 +659,6 @@
   },
   {
    "category": "ai_workflow",
-   "title": "AI agents run this automated biology lab that sequences DNA and more",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kdTc3UWI4ODM5b09JU3ZMSnIyS3lkR2UxaXBEaE4xX3FrQVhxWGZrMG00cTNiV2gwLXpuNjFKOENkRTNic01WNjRfVnlXWWt3SUh2YnBYckhGbm94Qi1R?oc=5",
-   "source": "Nature",
-   "summary": "",
-   "published": "2026-11-04T18:48:49+00:00"
-  },
-  {
-   "category": "ai_workflow",
    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
    "source": "Hugging Face",
@@ -664,14 +672,6 @@
    "source": "Salesforce",
    "summary": "",
    "published": "2026-11-04T17:27:03+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "The Last Dance in Kippur: An exclusive AI filmmaking experience in 4K",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZDBUcDktS09zdFlrZzdGTUg0TVhSYmY5bEwzbzhQNzlXOHRFUnZ3cFNxakN4N0ViWDQwWTBmak5EZEZTS0hkRVAzLWpMOU45SVhFWGhFa2phLThoM0ltZm54V1pvazJKZlpsd1E0VWY2Uk12b2RnQ0llRXpoU0JSRWJCTUxCOWdhWmZlTm1id1k3MlVtbU5rNmZ4bWtwcW5JWVY4TXh6V1JBVVI5Z0ZZa2ZR?oc=5",
-   "source": "Egyptian Gazette",
-   "summary": "",
-   "published": "2026-11-04T16:16:58+00:00"
   },
   {
    "category": "ai_workflow",
@@ -763,6 +763,14 @@
   },
   {
    "category": "ai_workflow",
+   "title": "No-code automation with AI agents, what you can really get done",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tam1pWEVUX3Z1TktpbUwyWjVKdHRMRlhDLW1ZZlNXc2Z4ZTNQeVNTeWhFSFdCdWFyVzkteUVzX0l1ZDh6MkZuRFhFMXlyeDdVdzFPYlU1WS1VVGEtVm1mQzRkY05nNTB0ZHV1akpoS29kOU1YNEs4?oc=5",
+   "source": "Pasquale Pillitteri",
+   "summary": "",
+   "published": "2026-11-03T22:51:22+00:00"
+  },
+  {
+   "category": "ai_workflow",
    "title": "llm 0.37.1",
    "link": "https://simonwillison.net/2026/Nov/3/llm/",
    "source": "Simon Willison",
@@ -810,18 +818,18 @@
    "published": "2026-11-03T13:30:00+00:00"
   },
   {
+   "category": "ai_workflow",
+   "title": "CrowdStrike Secures AI Agents Inside Claude Cowork",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1ExUDIzSUp3UklJUlM5VnFLYVotRUc5Y0hSS21PcUw3Y21XVzJ1a25QcWZ1LXhNZjFQVVBiWUpVNmo3NUJnblNDTjF3c0JQd25iMTFqWEx0cVBGUVZxRlBDR0duTkF4NnRnUUxpY1U5Ny0za3dQa0gtdERKYThuRk5JSlpXbjQxdEVGZFdiWS1nTjBo?oc=5",
+   "source": "CrowdStrike",
+   "summary": "",
+   "published": "2026-11-03T10:05:26+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "Generative AI: How It Works and Recent Transformative Developments",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pYUg1bVhFRjdaZkVsSTZvVlFVTUZVS0RmUnVtb1dUdnVnamJnWWF1V1JCVGU5NmRkb0UxTGlkcU5wbG1uVjFQVFlUNlZuck8xLS1jV2xYSUcwTEVCSDdF?oc=5",
    "source": "Investopedia",
-   "summary": "",
-   "published": "2026-11-03T08:00:00+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "Generative AI Ethics: AI Risks, Benefits, and Best Practices",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CMlpLaTBSVkc0NVZ6VnhnT2RpVW5WWHQ1S0dEUWU5WnRIeTdFRExzTU9fOXFJS0NHVEs3NXFPVzVJVG9JTWRENEdYN1ZQWGZYWDJOemlvcjlyYUM1TEQzNDlQZ3I?oc=5",
-   "source": "Coursera",
    "summary": "",
    "published": "2026-11-03T08:00:00+00:00"
   },

@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-07T13:13:35.787851+00:00",
+ "updated": "2026-11-07T15:53:42.743813+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "Here’s what happened in crypto today",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "published": "2026-11-07T14:22:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+   "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard.",
+   "published": "2026-11-07T14:16:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say",
+   "link": "https://decrypt.co/382714/sony-axing-game-discs-will-have-outsized-impact-on-low-income-gamers-experts-say",
+   "source": "Decrypt",
+   "summary": "Experts say a disc-free PlayStation will price out low-income players, while in much of Africa, digital-only gaming means breaking Sony’s rules.",
+   "published": "2026-11-07T14:01:02+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin holders have received eCash — What can you do with it?",
+   "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
+   "published": "2026-11-07T13:30:00+00:00"
+  },
   {
    "category": "web3",
    "title": "US sanctions Canadian money-exchange firms over Iran ties",
@@ -8,14 +40,6 @@
    "source": "Cointelegraph",
    "summary": "US also offers as much as $20 million and possible relocation for information about Iran’s nuclear program.",
    "published": "2026-11-07T11:10:47+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "Will AI Video Content Creation Replace Human Video Editors and Animators?",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHk4a2NKQ2R0dDg5Z001N3lEcUE2Y0t1SVUzVUVfUGd6QlZlQlh1ZTA5Y1ZnSXJYcnd4VnAxNW5iTW03ajZ0RFJ0WU1WRk1UOGFtNllreElQWFByOW00RjE5MjlXMUVtNU1fSjFOTks1aklkY29sVDZPY0RJNml3dERobjdlb3RKNEFZLWc1UmJqUmUwaGhaY1lxNUpyQQ?oc=5",
-   "source": "TechBullion",
-   "summary": "",
-   "published": "2026-11-07T10:23:19+00:00"
   },
   {
    "category": "web3",
@@ -58,6 +82,14 @@
    "published": "2026-11-07T07:45:24+00:00"
   },
   {
+   "category": "web3",
+   "title": "Visa Direct Launches Stablecoin-Powered Money Movement as Pilots Move to Production",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lRVVmZGhVX2VQc2I4anBBODFlWmU3Y0QycFFja3JlTldJblNNTU5KaFJLY3JlZlF6TV9jYkNpN2RnbEtNOUdHNG9sNA?oc=5",
+   "source": "AFP.com",
+   "summary": "",
+   "published": "2026-11-07T06:22:54+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "All the latest in AI ‘music’",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXl2XzVuUmRDck92VFVjRTNRSkthcnZiakEzMnY0T01qMHpmMGduS2ZaUHJiOVFETy12SHBGelNCZlpRN2twVFJRaDM1ZzROWGJkcHhUNUFJUWU1Z1Y4bFBQRzIyeU1EVjdieDhNWXNPdUZaR0Y4VlVZTHJqcFdfU0NXVF9kUWF4NzBIMjNpbHRXQUE?oc=5",
@@ -72,14 +104,6 @@
    "source": "Forbes",
    "summary": "",
    "published": "2026-11-06T23:20:10+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Here’s what happened in crypto today",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "published": "2026-11-06T22:00:15+00:00"
   },
   {
    "category": "ai_creative",
@@ -171,14 +195,6 @@
   },
   {
    "category": "ai_workflow",
-   "title": "Measuring how AI agents handle everyday wet-lab science",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xR2JJZ0FQU2ptTi1UcE9reDg3aGdRZ2lHM0d3NHYxcS1KbDhacDJ4RWlKM2R6ZHpEdFh4TTdmVm82VkZ2enhZOWFjanZfQzR2aUcyS3FkbjRoOHFTcXlfaVI0YTd4aFVyMFQ5SFVtelhjVmtTVE11R2k2LUI?oc=5",
-   "source": "OpenAI",
-   "summary": "",
-   "published": "2026-11-06T19:09:23+00:00"
-  },
-  {
-   "category": "ai_workflow",
    "title": "These AI agents design your perfect robot-powered lab — and run it for you",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4OGxPNFp0VFV4VjhEX00xRUZMLVlQWXRYQnVpZjZwb3pPWmhMcEZqZkR3MmZ5Y1FLMm9UZzFPclAwNlN5dDAyYy11RlE1TklDQzg0OTJOeVZHX2ljejZZ?oc=5",
    "source": "Nature",
@@ -208,14 +224,6 @@
    "source": "Cointelegraph",
    "summary": "Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC.",
    "published": "2026-11-06T18:22:42+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
-   "link": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.",
-   "published": "2026-11-06T17:49:33+00:00"
   },
   {
    "category": "web3",
@@ -315,14 +323,6 @@
   },
   {
    "category": "web3",
-   "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
-   "link": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede.",
-   "published": "2026-11-06T14:30:00+00:00"
-  },
-  {
-   "category": "web3",
    "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
    "link": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
    "source": "Decrypt",
@@ -352,14 +352,6 @@
    "source": "CoinDesk",
    "summary": "The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important.",
    "published": "2026-11-06T13:31:54+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
-   "link": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
-   "source": "Decrypt",
-   "summary": "Thursday marked a massive reversal and historic selloff for AI stocks, and crypto was not immune. What held up the strongest?",
-   "published": "2026-11-06T13:29:20+00:00"
   },
   {
    "category": "web3",
@@ -402,20 +394,20 @@
    "published": "2026-11-06T09:53:27+00:00"
   },
   {
+   "category": "ai_creative",
+   "title": "‘Kamen Rider’ Studio Toei Frames Generative AI Rules, Sets First Video Games for 2027",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41M3F3cjhCRVdOQ1VqcWY3SDhFbVFuNW9IN255YUF2RTZhUWlMekV6Wk9jRGZZV3JlZGE3UURkTTg4VllaX3d6dVN2cENrNHNDR3pURldSMWdhb20wNVMtb29mTDYzQlQtNkE?oc=5",
+   "source": "IMDb",
+   "summary": "",
+   "published": "2026-11-06T09:18:30+00:00"
+  },
+  {
    "category": "web3",
    "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
    "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
    "source": "CoinDesk",
    "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
    "published": "2026-11-06T08:47:42+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "‘Kamen Rider’ Studio Toei Frames Generative AI Rules, Sets First Video Games for 2027",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0lkZHhSUUtKNkU3Rlp6bk9BemdIcTFhZWNqeDFOR1RYbnRETjJEc0ZVaUZUcUliN3NrOWV6RzBLWVJwWEJXQ0xtVS1RTFI0VmJzdElCNXk4Y2ZVd2YzUTZ1QUtodFRwRDJLemkzdWc4ZXhjY201cE85aVlIN1NUUkdGSXpNWnA3NC1UV3V2SHRGMDNfVi1kaGk1ZnpWVlpiNk4xSWJoT2I2Ul9kaWtRWWUxTVV3bW1G?oc=5",
-   "source": "Variety",
-   "summary": "",
-   "published": "2026-11-06T08:21:00+00:00"
   },
   {
    "category": "web3",
@@ -498,14 +490,6 @@
    "published": "2026-11-05T19:01:00+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "What Is the Best AI Music Video Generator in 2026? Comparing Quality, Consistency, and Cost",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbW5LRHZHMUlUT29hWGtBSnB3X3pCU2NMUUpWdnNaaGx3WmpuRFdMNDFfMDI3OTRNOFRIRzZXbTR0enJFYjV6SmowSnpKRExlQ0ZicVV6UlJ5SjdRVnc1NTVTakxiV0hiZ1B6QkNmcGRRaHdDTEVqdUdDNTBIUmd1QUkwSC1kRG9pbTU1VWhMd3c5R2RwWUYwM0E5M0VCa1UtbENvQmpjXzBXVWhKQWx6TEhn?oc=5",
-   "source": "Popdust",
-   "summary": "",
-   "published": "2026-11-05T18:48:46+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Quoting Paul Ford",
    "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
@@ -570,14 +554,6 @@
    "published": "2026-11-05T14:51:45+00:00"
   },
   {
-   "category": "web3",
-   "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMU5jdzVISThTaXJLcTNjQ2R4cDJieTVWczhva2lRZ2xhR1k0dEZNdVJhTGVXWW4tN0NxTl8zQ0NIOTh5bVMxdGlLZXpnZDdlVzZiQUVNb0lIMmJEQTJ0dk1wS18zV2hUWlFNTU14ZVdsWEZWWFRoLXlLdjJuRHpKQjhB?oc=5",
-   "source": "The Hacker News",
-   "summary": "",
-   "published": "2026-11-05T14:41:00+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "Nile Rodgers Defends New AI Music Video",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pdHNfSjB3NmgtZkJjdHpnSzJXdzd2cUFVSFBQQjdOSHBIS1pwVm1NRVVMcmdubWxCZ0h1WVR4ME9pNDhKQ3ZwYVZjYUs5dVFvdTQ2bTFEc3JIblBocG1RbmJTZDYyTFF4VjJUSXRCMmw2YTFQY1lXMk92S3YwZm8?oc=5",
@@ -602,14 +578,6 @@
    "published": "2026-11-05T12:00:00+00:00"
   },
   {
-   "category": "ai_general",
-   "title": "AIVideoFree Integrates OpenAI’s GPT Image 2.6 a Day After Release, Running Both New Models Alongside Competing Image Generators",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWmd3Umc4YWJqVFdMLWJ1ZTJLWE1hWjJvbDNpdDh6S0paOHFBdWwwRXQ0UWZqY0lhSjEwOGJVOFdBQUdMNHdmMTQxN1ZyNkNCZTN0QnZPUVhhQlpIMGpUQnhoMVgwMEx2Q2RkdnhhN2N5amFpTlByWWRPV0FmZlNvUzQxM3cxbF82b2tkeU94NTd6M2pyYWVzblNUQmNWNjdWMm9EY1p3ZmliN0lyNk1nVUtQTnZWem9hdl9mSDhWcjhaMUM2OUgtOERuT2pUOGZnb3VrLWhMU09tQzRMcjRTR3NLSUFfNV92bW1hX3VmQzQ2OHJxSmtIWjctOUxFZFhwNWVmRWl1ZHZ3eTZmLUpWNDU0bw?oc=5",
-   "source": "markets.businessinsider.com",
-   "summary": "",
-   "published": "2026-11-05T10:56:23+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "SelfyzAI Brings AI Music Video Creation to ChatGPT via MCP",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYVZhTHU4cUVScmlRWUwyd205TXFqRUxRUDhOOFg1eUVRTDBWdTdxYWNVazZBSVRwVzR5bFJOS0JIWHA2MUs5MUJuU1BiQ2xsVzdVSVVvNWgyMXVXR0phY2xVTWV3WTdGbXpJNHI3a01BbGExaWVGS1IwVFpkTEswTFZrdTh3Q3pjNUJnTWlpbXZLb1ZMUG1vSTBpbUI5bjkwbzRrOUtReGstc1VPZmlBa3ZLcGFBSlE?oc=5",
@@ -624,6 +592,14 @@
    "source": "NeoTeo",
    "summary": "",
    "published": "2026-11-05T08:17:41+00:00"
+  },
+  {
+   "category": "ai_general",
+   "title": "Introducing GPT-6 Sol and Luna",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+   "source": "OpenAI",
+   "summary": "",
+   "published": "2026-11-05T08:00:00+00:00"
   },
   {
    "category": "ai_creative",
@@ -650,6 +626,14 @@
    "published": "2026-11-04T23:02:07+00:00"
   },
   {
+   "category": "ai_workflow",
+   "title": "Everyone's adopting AI agents. Almost no one can prove the ROI. Here's why",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWW9LYV9UUTJXUng5ZmJDb1plSDN6YmR3WU0xSHFfYUZ5N1Jyd2Z5YVp3RUt0RG1rWnZWNkJwano2eWkweG5fNDhnM1p1ZzVydXlnUFZNUVRkUWtBeU03cFhmT0FzNEFCd1dfR1k1dWZSQnhvcEZQZUpmZjJGNjRHX2YxVFBtZzRWaHhMUUFKemJZUW1lS1I0UUVVX1RtQUE?oc=5",
+   "source": "Databricks",
+   "summary": "",
+   "published": "2026-11-04T22:03:03+00:00"
+  },
+  {
    "category": "ai_general",
    "title": "QUICK SPARK: Anthropic Releases Tool to Prove Which AI Model Wrote a Response",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWVmZFczWlNZbGZTSDVrdG5IZW85SE5yRWVXdXpwQzdxUWwwMUFOT1FMU0xqRUpVVk5oNlNLWFlrRV9Wa3Q2WUxxQXp2TjZ0TktLYlFSWU4wZEp2WHFfS0ZBdUFSV0RrSjZIc2o3T09QNjZTRldwM1kzVXk5OUFXdWJYYW1ZeHp2c204bHVmemhnY2tLazNr?oc=5",
@@ -672,6 +656,14 @@
    "source": "Salesforce",
    "summary": "",
    "published": "2026-11-04T17:27:03+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "The Last Dance in Kippur: An exclusive AI filmmaking experience in 4K",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZDBUcDktS09zdFlrZzdGTUg0TVhSYmY5bEwzbzhQNzlXOHRFUnZ3cFNxakN4N0ViWDQwWTBmak5EZEZTS0hkRVAzLWpMOU45SVhFWGhFa2phLThoM0ltZm54V1pvazJKZlpsd1E0VWY2Uk12b2RnQ0llRXpoU0JSRWJCTUxCOWdhWmZlTm1id1k3MlVtbU5rNmZ4bWtwcW5JWVY4TXh6V1JBVVI5Z0ZZa2ZR?oc=5",
+   "source": "Egyptian Gazette",
+   "summary": "",
+   "published": "2026-11-04T16:16:58+00:00"
   },
   {
    "category": "ai_workflow",

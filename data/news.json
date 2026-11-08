@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-08T19:03:17.274425+00:00",
+ "updated": "2026-11-08T21:52:51.969839+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "What the election results mean for crypto: State of Crypto",
+   "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+   "source": "CoinDesk",
+   "summary": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?",
+   "published": "2026-11-08T19:30:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Stablecoin growth has stalled. The payments boom hasn't",
+   "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+   "source": "CoinDesk",
+   "summary": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks.",
+   "published": "2026-11-08T19:16:42+00:00"
+  },
   {
    "category": "ai_creative",
    "title": "AI Music Can Be Difficult To Detect, But There Are Some Telltale Signs",
@@ -216,14 +232,6 @@
    "source": "Uber",
    "summary": "",
    "published": "2026-11-07T02:31:31+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Outside AI Agents Aren’t Slowing Google And Amazon Ads. Their Own Are.",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOXJtQUR4ZDBDbWlTYzJKbkF4RWFaWHo2dnpPb1JDTmR0aGpzSUNNcV95YTdjLXl2QllJRnl4UVgyMkJUU1NzcDBPbkw1LVFURDZyOTJWWUhmVHZMTWRBbEVEWVFJYkpPQUZjcU1SRDBDc2tsZDg5NFhoRWZnS1c5bnJ0dlFEdEQyek1PQjZsZGNkQTFQc1JMbFBHdVNZMmN4Y0xxSFpldHNFb3hSUjdMWkhkZVR2VEM5SXVWZ19SWQ?oc=5",
-   "source": "Forbes",
-   "summary": "",
-   "published": "2026-11-06T23:20:10+00:00"
   },
   {
    "category": "ai_creative",
@@ -443,22 +451,6 @@
   },
   {
    "category": "web3",
-   "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-   "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-   "source": "CoinDesk",
-   "summary": "The Nasdaq gained just 1.1%, while the S&P 500 only edged higher, and the DJIA lost more ground.",
-   "published": "2026-11-06T11:58:40+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-   "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-   "source": "CoinDesk",
-   "summary": "Bitcoin bounced from around $75,200 after Thursday’s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report.",
-   "published": "2026-11-06T11:49:35+00:00"
-  },
-  {
-   "category": "web3",
    "title": "Crypto foundation demanded employees endorse suicide pledge, then fired leaders who objected, Colorado lawsuit alleges",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2dvSTJleHFjZ21zb01tM3d1WHY5cFZBNUlFc3YxclJadjJqSzMxM1Y3Sl85X2E3ekxTc2dBOFdYbGxMLVBqU2lyalRJSktiR2ZaRUZlSmtnWkxtYXBtMDE4S19hNVZqTkVxUlJqR3NVLUdaRkE4Y3poM1oyVDJGcGN2RHdfbE5TTjFBVC1EdmdENWs2Wm4yWg?oc=5",
    "source": "The Denver Post",
@@ -476,10 +468,10 @@
   {
    "category": "ai_creative",
    "title": "‘Kamen Rider’ Studio Toei Frames Generative AI Rules, Sets First Video Games for 2027",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0lkZHhSUUtKNkU3Rlp6bk9BemdIcTFhZWNqeDFOR1RYbnRETjJEc0ZVaUZUcUliN3NrOWV6RzBLWVJwWEJXQ0xtVS1RTFI0VmJzdElCNXk4Y2ZVd2YzUTZ1QUtodFRwRDJLemkzdWc4ZXhjY201cE85aVlIN1NUUkdGSXpNWnA3NC1UV3V2SHRGMDNfVi1kaGk1ZnpWVlpiNk4xSWJoT2I2Ul9kaWtRWWUxTVV3bW1G?oc=5",
-   "source": "Variety",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VR0RKNEFHazAyX0VoRmZ2N21rMlNIZWZPM3VCSmpPWjlwTlc2YW5YVHlmdG5PZ2Z2NVBUV2pBY3VOUnluLW1Fal9CMEdib2hjQi1obGxTaGdPSDJEZjFMQnlTZzgzblU5NlE?oc=5",
+   "source": "IMDb",
    "summary": "",
-   "published": "2026-11-06T08:21:00+00:00"
+   "published": "2026-11-06T09:08:24+00:00"
   },
   {
    "category": "ai_workflow",
@@ -490,12 +482,12 @@
    "published": "2026-11-06T08:00:00+00:00"
   },
   {
-   "category": "web3",
-   "title": "Ethereum price today, ETH to USD chart, marketcap and volume",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhSXdGODUyaVUzcnVzZWVDbWpabzJNVUE4Sm5MQUJkRnkzMzd4X2F2V3AySjIzbzNkWEhSaXhGcFdfNFJkUmN6c0hESVBmWTV1?oc=5",
-   "source": "CryptoSlate",
+   "category": "ai_creative",
+   "title": "AI in the Workplace: 5 Ways Companies Are Using Generative AI",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13VUlCWi16QTc1QjRMTS1JbTlDVUxkdzlRT3p6aWhHTVBfZWxoZ29OWnBHVXpUQ01YZnY0d2hfUWU5anRWMF84cEVkMlVrTnlLVGd4ZUNJR1J2QVFKYV95SFM5bVlsMGotY2RzX0ZYMVI1Zw?oc=5",
+   "source": "Britannica",
    "summary": "",
-   "published": "2026-11-06T07:07:48+00:00"
+   "published": "2026-11-06T08:00:00+00:00"
   },
   {
    "category": "web3",
@@ -666,6 +658,14 @@
    "published": "2026-11-05T09:54:16+00:00"
   },
   {
+   "category": "ai_general",
+   "title": "Introducing GPT-6 Sol and Luna",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+   "source": "OpenAI",
+   "summary": "",
+   "published": "2026-11-05T08:00:00+00:00"
+  },
+  {
    "category": "web3",
    "title": "What Is ETH Gas? Ethereum Fees & Gwei Explained",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9INkxaMnF5dFRveERwaVBBRnVYcE9LRDZTSkQzNzRQZVVfTkthcDUycXh4SjVHaDFGejVfcVRQMjMzY21Ydzc3YVRkX3lfbzlKZGtOaDZQcVp3dmx4U1I1WWd6Q2k?oc=5",
@@ -712,6 +712,14 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-04T17:50:10+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "Your AI Agents Are Fast. Your Process Isn’t. Here’s How to Fix It.",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DLVJEUTFKRTZORnBOcUFDTWJaRWJZSWRvYU9ZNnF4ZVVtU3owZUFCbmR2enBybGFQSXVUdFhCRUpYcm15XzZheDFfV1JpM3NHb0Z3SmdVd2JXRTNtaVFqMGh4T0huSDNWbXpPT1FleDE4MFVVZHhyelhLdzZ0SzQ?oc=5",
+   "source": "Salesforce",
+   "summary": "",
+   "published": "2026-11-04T17:27:03+00:00"
   },
   {
    "category": "ai_workflow",
@@ -776,14 +784,6 @@
    "source": "G2 Learn Hub",
    "summary": "",
    "published": "2026-11-04T01:36:09+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "How generative AI is reshaping Nigeria’s creative economy and digital design",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnZGTV9pTjhGS2FjMDRIUnlFd3ZKTlBCbGNqRDBUc3pRVHkyYmcwOWZRYlVfR0NLZWUwTnNHY3lVcVNlVFREYzRyclk3TjZVc3ZoOFFsYTdFam1BT05sUmZVaTdWZFcwMTRNc081TElaRFhfTFJWd0d0ekUxeVRDYkhTeTY5QTZ5VHllYi11YVI4QkZqd1UyT2hJSTBDWnZ1ZzFYRG9yb2ZEQ3M?oc=5",
-   "source": "The Guardian Nigeria News",
-   "summary": "",
-   "published": "2026-11-04T01:15:19+00:00"
   },
   {
    "category": "ai_workflow",
@@ -870,14 +870,6 @@
    "title": "How to fix the “Your connection is not private” error in 2026",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdnhTaFk5c3k0V3dJZ0dXYXBZWWNubUJ6bVRhc3p5TmdmYTl4UHRVZk9hUmtPMndObWpfSFFMd1F0NTVRc0IxdC1Cdm5Pa3FGeEJlTDR1MWVRRGxOZWg0RnAyUEpMRHpsWFMyeW5FcmczYllsMUZ2alZkSktHWHY1NURZYl8yWlR1OFdJclZwVEc?oc=5",
    "source": "Hostinger",
-   "summary": "",
-   "published": "2026-11-03T08:00:00+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "Generative AI Ethics: AI Risks, Benefits, and Best Practices",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CMlpLaTBSVkc0NVZ6VnhnT2RpVW5WWHQ1S0dEUWU5WnRIeTdFRExzTU9fOXFJS0NHVEs3NXFPVzVJVG9JTWRENEdYN1ZQWGZYWDJOemlvcjlyYUM1TEQzNDlQZ3I?oc=5",
-   "source": "Coursera",
    "summary": "",
    "published": "2026-11-03T08:00:00+00:00"
   },
@@ -1010,20 +1002,20 @@
    "published": "2026-11-02T08:00:00+00:00"
   },
   {
+   "category": "web3",
+   "title": "Ethereum value formation as a feedback system: an integrative causal-loop framework",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkEtbHNNeW5sNlBlWUVlMExWTUF0NlUzak1sQjIwTzUtZUI5YzY3eld6WHBmY2xHZHJZU3pqaWdscUJYeEVsX2lKSzFBZ1pEOXJZTHhmSThEUjFMWHU1djQ5aEhmb3pVY1A0WVBFS3cxaW9WTkRTYXZ1cm43ckFndS1KRnV1OWpwcUdsRjVZcnd5dw?oc=5",
+   "source": "Frontiers",
+   "summary": "",
+   "published": "2026-11-02T08:00:00+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "10 Best AI Agent Platforms for Business Teams in 2027",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZNVdLR0I2LXlUZFVLN3RxdlFUWGNTUkprNERxcHUycG1TQ1pGZUZSeFVrMUJDU0haOWdLdWp6TTN0NEJPc0xGMHFFQzBSUmpmM0NBa3BlcUwtNnl4by1wcmh5cGJBbG5uYW5sWkdyWDlnX0pGRVNZRFNFX2g?oc=5",
    "source": "remio",
    "summary": "",
    "published": "2026-11-02T06:19:25+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Anthropic prepares to release Claude Mythos 5.5 model",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNczIyQkU5ZzFYU2RPU0dZODhTNzNFd3ZfNTV4eTlJYzR6akVTVmhUM21sbzFQQnNaOVZBd2RhUnlOZXA1UFJ0X0NUbnEwWnNjX3lzUFN5WDJueE44MkJodVZRRHlncHBrQ2E2cGl0bmQyMzhKRW1nb3lMaDRxUnNXYlA4LUw1RWlSbHNEZmxn?oc=5",
-   "source": "TestingCatalog AI News",
-   "summary": "",
-   "published": "2026-11-01T20:50:16+00:00"
   }
  ],
  "errors": []

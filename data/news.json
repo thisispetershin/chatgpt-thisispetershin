@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-07T21:52:57.060190+00:00",
+ "updated": "2026-11-08T01:27:30.851596+00:00",
  "items": [
+  {
+   "category": "ai_creative",
+   "title": "Elvis Presley Enterprises suing AI music generator Suno over copyright infringement",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOdDkzSVM1aVBaWlMyR1lnUm9qQjFUSXZyYVpZaTFWdm84QWQwSjBhVjI3RG1xc19CckZfNWwyZzhPQ0N0dEpST2t2RHp6ZnpWZi1nSEVhejRHVkFyd0s5VWVpREhyZEt2X05NWDRobXNWM2ltZzBxMmJxQ0FVd1pCbjBzdHd3Z1FXZ1V1dVJ2azNucHNydnh4RV9YREZoT0JpRXNTRWdkUmJEUzBGTlZGV3laSWNyU0RjX2dzZG1jY0p3SEJDbnFKMkRLZ1JKZEtGQ0RTbVBJU0JLaDZXUWdjNFUwNnBreE8tNlYtOUx5NkNBOTJYTmhfQmRlOU5SbGk5UE5tTGREb0lkWDRHaUpyQXhR?oc=5",
+   "source": "localmemphis.com",
+   "summary": "",
+   "published": "2026-11-08T00:23:00+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+   "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+   "source": "Simon Willison",
+   "summary": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP…",
+   "published": "2026-11-07T23:57:46+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "Coherent Moves Trade Compliance AI Agents To The Front Of The Process",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQnV1MEZuU1FHSjRncU5rcHRUYXlRMklQNzhPSmFSUUhieHZHMnI0cEdBSE9FZ3hYMFN4Tnp6b1YyRE1LeVdRaFFWX0ptcFd2WDBlMXl3TS1xV0FTMjVpZHBTVDFJZ2YzUmY4clpmd1pIZ3FXSy10d0ZVcm9kcm80ejZTLUp0X2VySE5JbXgtaUFmd1dLUnJmVGxPVE5haWNEdTJoMWFvRWdPZlkxN1djUzFsbTNXQXoyS0xOdDZLVQ?oc=5",
+   "source": "Forbes",
+   "summary": "",
+   "published": "2026-11-07T19:52:22+00:00"
+  },
   {
    "category": "web3",
    "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
@@ -82,12 +106,12 @@
    "published": "2026-11-07T11:10:47+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "Securing AI Agents: Lessons From Real-World Deployment",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGM5ODY5TGc1T0NjVGhjY1M2d09xeWRqZ1p2MS1HVW5fZEVjdzJ4S1UtTmtFVW9HTnF6QnRqZ0s0Y2dwdFpVd3RHVmRqaE0weEx2V3pnN3FPaGR4czdNZg?oc=5",
-   "source": "Uber",
+   "category": "ai_creative",
+   "title": "Will AI Video Content Creation Replace Human Video Editors and Animators?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHk4a2NKQ2R0dDg5Z001N3lEcUE2Y0t1SVUzVUVfUGd6QlZlQlh1ZTA5Y1ZnSXJYcnd4VnAxNW5iTW03ajZ0RFJ0WU1WRk1UOGFtNllreElQWFByOW00RjE5MjlXMUVtNU1fSjFOTks1aklkY29sVDZPY0RJNml3dERobjdlb3RKNEFZLWc1UmJqUmUwaGhaY1lxNUpyQQ?oc=5",
+   "source": "TechBullion",
    "summary": "",
-   "published": "2026-11-07T10:56:39+00:00"
+   "published": "2026-11-07T10:23:19+00:00"
   },
   {
    "category": "web3",
@@ -139,11 +163,11 @@
   },
   {
    "category": "ai_workflow",
-   "title": "Outside AI Agents Aren’t Slowing Google And Amazon Ads. Their Own Are.",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOXJtQUR4ZDBDbWlTYzJKbkF4RWFaWHo2dnpPb1JDTmR0aGpzSUNNcV95YTdjLXl2QllJRnl4UVgyMkJUU1NzcDBPbkw1LVFURDZyOTJWWUhmVHZMTWRBbEVEWVFJYkpPQUZjcU1SRDBDc2tsZDg5NFhoRWZnS1c5bnJ0dlFEdEQyek1PQjZsZGNkQTFQc1JMbFBHdVNZMmN4Y0xxSFpldHNFb3hSUjdMWkhkZVR2VEM5SXVWZ19SWQ?oc=5",
-   "source": "Forbes",
+   "title": "Securing AI Agents: Lessons From Real-World Deployment",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SWEZYcVhDYW9ERDRqS25sLUxCcS1xRWFqaGZCTXlLaDFaaXVITWlKUEtZVmZYUjNGaGZjbjNsWHZOUDUtMkU3NUFiVjV4emw1bmxNbm5XdnBkcFdMSkIzUQ?oc=5",
+   "source": "Uber",
    "summary": "",
-   "published": "2026-11-06T23:20:10+00:00"
+   "published": "2026-11-07T02:31:31+00:00"
   },
   {
    "category": "ai_creative",
@@ -458,20 +482,20 @@
    "published": "2026-11-06T01:00:17+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "Nile Rodgers Fires Back at AI Music Video Critics: “Hypocritical”",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEljRkdnR1B2R0NmSW5IaFVhbWR4Nm5POWZ3dDJhWGZ1ZDQxMFpxMkhxNWd2Tmh2S1c4QVRnTWU5dE1memNXQW5GbnRzOTJpcjRjc055dzJLNGFRUXQ3TmZpWndOa1ViYUhXLVBZdFBxN3hpcVk4V1k1T0tfVzk2TWhyazBrYVh2MElpd3l5UURScGhSRW1qNTk4ZEQza1HSAaQBQVVfeXFMTWZoeFIxT2FkUHR3dmZJdUxVWDZzaTZwWVRneEw1MVNFaVhXa2dXWktkNDhtaHpDdU92bUZkZWpzZFF4Zk1pX05yM09kTGtGZmxaeGUyVlM2TkIyU3ZEa1B2SVNjUDVZU2RsR3lLWjZpLTRTQW5yejg5Y2gzaVkwMVc0Z2huWklpdnRoX0pPODZUbWxTMnBvRjZUdldDNUhpMmJxOUs?oc=5",
-   "source": "That Grape Juice.net",
-   "summary": "",
-   "published": "2026-11-06T00:24:54+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-06T00:00:00+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Chic Legend Nile Rodgers Challenges Fans Criticizing His AI Music Video",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWtvMFVFSFdzMncyUjdvZTZ4MjRYbFB0TTF1UVhHMDMybkx6ZkpQNTZSUk5kZDE3dHQxUnFCU3lDU3dLRGk4U2FTVmhBSUk0WFcweC1DS2lfd3VaelR4YWhZcEVvWWpDWTl6czk2RnBNYUoxazZ2S3kxeW1Gc0ZJRGFrWG8zWUZHUGxmY3VreDlCU0s4UHdOOFB3aHhRTVR2VTN4VThveDdCOGNSb1BJNmRB?oc=5",
+   "source": "Yahoo",
+   "summary": "",
+   "published": "2026-11-05T20:49:08+00:00"
   },
   {
    "category": "ai_workflow",
@@ -528,6 +552,14 @@
    "source": "The Register",
    "summary": "",
    "published": "2026-11-05T17:00:00+00:00"
+  },
+  {
+   "category": "ai_general",
+   "title": "Anthropic FlashProve Release Targets AI Model Substitution With Cryptographic Proofs",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT29hXzRkRzR6enFINGhoSDByb204NVBzc3F6OUNqUklCMjB2ajlYYUFnT1lsdG5oRkt3M2psbk5Cdk1RZHNVMl9VdHQ3U2VTN204RzNSdWMybE5SaXFfWXoxWjlrR1NfZ3BkUXdXLTR0cENoTV8xektMVUtzUHJWTE1JeVROZjl5Mkt1TGFvcW1wZGsyM2ZYNzh1bzVxQmJwQXFPNmY5T0RNZw?oc=5",
+   "source": "remio",
+   "summary": "",
+   "published": "2026-11-05T16:39:30+00:00"
   },
   {
    "category": "ai_workflow",
@@ -643,9 +675,9 @@
   },
   {
    "category": "ai_general",
-   "title": "QUICK SPARK: Anthropic Releases Tool to Prove Which AI Model Wrote a Response",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWVmZFczWlNZbGZTSDVrdG5IZW85SE5yRWVXdXpwQzdxUWwwMUFOT1FMU0xqRUpVVk5oNlNLWFlrRV9Wa3Q2WUxxQXp2TjZ0TktLYlFSWU4wZEp2WHFfS0ZBdUFSV0RrSjZIc2o3T09QNjZTRldwM1kzVXk5OUFXdWJYYW1ZeHp2c204bHVmemhnY2tLazNr?oc=5",
-   "source": "Yahoo Tech",
+   "title": "QUICK SPARK: Anthropic Wants AI Companies To Prove Their Models Are Telling The Truth",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX29nU2J0cDJ3aDVTZkQzczVjUDNzOTU3aXJDQUQ3dGVWT2VSakROcmxMNTFzS3IxTlRkclNoeThfNW9tTzVBOHdxSzEwMDNXZ1h0MU56eTEyeUhQN1kyLTU4SzJ0VVA2WkNTaE9JLXVwbmpWdmdqRk50NlhQdlpWMG1NVHM1dzN3Wk5uYWQ2bzRSQzVUZ0xYYm0xU2xIMXpLU21uOHVMUi1LdWNVVXhhb0dIal9fOTY3b1FSN0h3R2R6U2M4dkhETTlldEZUamZmd0EwOWdidw?oc=5",
+   "source": "Benzinga",
    "summary": "",
    "published": "2026-11-04T20:23:30+00:00"
   },
@@ -656,14 +688,6 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-04T17:50:10+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "The Last Dance in Kippur: An exclusive AI filmmaking experience in 4K",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZDBUcDktS09zdFlrZzdGTUg0TVhSYmY5bEwzbzhQNzlXOHRFUnZ3cFNxakN4N0ViWDQwWTBmak5EZEZTS0hkRVAzLWpMOU45SVhFWGhFa2phLThoM0ltZm54V1pvazJKZlpsd1E0VWY2Uk12b2RnQ0llRXpoU0JSRWJCTUxCOWdhWmZlTm1id1k3MlVtbU5rNmZ4bWtwcW5JWVY4TXh6V1JBVVI5Z0ZZa2ZR?oc=5",
-   "source": "Egyptian Gazette",
-   "summary": "",
-   "published": "2026-11-04T16:16:58+00:00"
   },
   {
    "category": "ai_workflow",
@@ -818,14 +842,6 @@
    "published": "2026-11-03T10:05:26+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "Generative AI: How It Works and Recent Transformative Developments",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pYUg1bVhFRjdaZkVsSTZvVlFVTUZVS0RmUnVtb1dUdnVnamJnWWF1V1JCVGU5NmRkb0UxTGlkcU5wbG1uVjFQVFlUNlZuck8xLS1jV2xYSUcwTEVCSDdF?oc=5",
-   "source": "Investopedia",
-   "summary": "",
-   "published": "2026-11-03T08:00:00+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
    "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
@@ -931,14 +947,6 @@
   },
   {
    "category": "ai_general",
-   "title": "Anthropic | History, Controversies, & Claude AI",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
-   "source": "Britannica",
-   "summary": "",
-   "published": "2026-11-02T08:00:00+00:00"
-  },
-  {
-   "category": "ai_general",
    "title": "Anthropic vs OpenAI: Who’s Winning the AI Race in 2026?",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wY1dnSDBYRURoU2FJUnhFUHlCZGRzcXNTa3JkYk9HRUFYbEd1MUxkSkZ1TXlRUG56bDI0eDducEZOWkpXbEhQRWphMUZXbmxMWXc?oc=5",
    "source": "Fello AI",
@@ -968,14 +976,6 @@
    "source": "remio",
    "summary": "",
    "published": "2026-11-02T06:19:25+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "If in doubt, delete the uv.lock file",
-   "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
-   "source": "Simon Willison",
-   "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries…",
-   "published": "2026-11-01T23:24:22+00:00"
   },
   {
    "category": "ai_general",
@@ -1024,30 +1024,6 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-10-29T13:37:07+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-   "link": "https://huggingface.co/blog/announcing-project-protostar",
-   "source": "Hugging Face",
-   "summary": "",
-   "published": "2026-10-29T00:00:00+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-   "link": "https://huggingface.co/blog/mistral-large4",
-   "source": "Hugging Face",
-   "summary": "",
-   "published": "2026-10-29T00:00:00+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-   "link": "https://huggingface.co/blog/anydecisionmodel",
-   "source": "Hugging Face",
-   "summary": "",
-   "published": "2026-10-29T00:00:00+00:00"
   }
  ],
  "errors": []

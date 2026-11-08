@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-08T15:53:09.078349+00:00",
+ "updated": "2026-11-08T19:03:17.274425+00:00",
  "items": [
+  {
+   "category": "ai_creative",
+   "title": "AI Music Can Be Difficult To Detect, But There Are Some Telltale Signs",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMGl4U3RWdzVmNEExbGhtVWU3Umd3VHJBd3BMREsyaGVRMjJyLWdfUDcycGE3MmpmcVlhM2dkdXhyd0FjQ0RSYkZVS25DYmdQZkJ1cmROazdqbXp6Q0pUdThkZUNWTHpTc3ZvbUhxZmN5R2JiMUxDeEhFX19IZWNvVUVNRQ?oc=5",
+   "source": "Engadget",
+   "summary": "",
+   "published": "2026-11-08T16:15:00+00:00"
+  },
   {
    "category": "web3",
    "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
@@ -82,6 +90,14 @@
    "published": "2026-11-07T19:13:16+00:00"
   },
   {
+   "category": "ai_general",
+   "title": "Anthropic says its AI models hacked 3 organizations on their own during tests",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "summary": "",
+   "published": "2026-11-07T18:02:58+00:00"
+  },
+  {
    "category": "web3",
    "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
    "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
@@ -136,14 +152,6 @@
    "source": "Cointelegraph",
    "summary": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
    "published": "2026-11-07T13:30:00+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Law Firms Have Malpractice Insurance. Should Their A.I. Agents?",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXFuOUJSYi1iVEUzaFZ1Yk90dW9TTldVaXpyNXpoUnJqMW9OTEkzZVNOdl9yVFFMTi1Nb1RLSERwLTByY2J4SXlqWVNRY3pfZG50TnZTdzJUN3Z2ZVEzcVFuQ0VNX2pBRWdjaUJMNEJtQUI3NC1nNURiOGMzbEt1V0M1ODlRRE5iTHFVQnJUY2s5YlFhaG45MjdSdDBrR1VYSXFVWnRoWUc?oc=5",
-   "source": "The New York Times",
-   "summary": "",
-   "published": "2026-11-07T13:00:06+00:00"
   },
   {
    "category": "web3",
@@ -202,28 +210,12 @@
    "published": "2026-11-07T06:22:54+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "All the latest in AI ‘music’",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXl2XzVuUmRDck92VFVjRTNRSkthcnZiakEzMnY0T01qMHpmMGduS2ZaUHJiOVFETy12SHBGelNCZlpRN2twVFJRaDM1ZzROWGJkcHhUNUFJUWU1Z1Y4bFBQRzIyeU1EVjdieDhNWXNPdUZaR0Y4VlVZTHJqcFdfU0NXVF9kUWF4NzBIMjNpbHRXQUE?oc=5",
-   "source": "The Verge",
-   "summary": "",
-   "published": "2026-11-07T05:37:18+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Securing AI Agents: Lessons From Real-World Deployment",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SWEZYcVhDYW9ERDRqS25sLUxCcS1xRWFqaGZCTXlLaDFaaXVITWlKUEtZVmZYUjNGaGZjbjNsWHZOUDUtMkU3NUFiVjV4emw1bmxNbm5XdnBkcFdMSkIzUQ?oc=5",
    "source": "Uber",
    "summary": "",
    "published": "2026-11-07T02:31:31+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Anthropic says its AI models hacked 3 organizations on their own during tests",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "summary": "",
-   "published": "2026-11-07T01:58:02+00:00"
   },
   {
    "category": "ai_workflow",
@@ -320,6 +312,14 @@
    "source": "OpenAI",
    "summary": "",
    "published": "2026-11-06T19:09:23+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "These AI agents design your perfect robot-powered lab — and run it for you",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4OGxPNFp0VFV4VjhEX00xRUZMLVlQWXRYQnVpZjZwb3pPWmhMcEZqZkR3MmZ5Y1FLMm9UZzFPclAwNlN5dDAyYy11RlE1TklDQzg0OTJOeVZHX2ljejZZ?oc=5",
+   "source": "Nature",
+   "summary": "",
+   "published": "2026-11-06T19:07:31+00:00"
   },
   {
    "category": "web3",
@@ -506,14 +506,6 @@
    "published": "2026-11-06T05:42:10+00:00"
   },
   {
-   "category": "web3",
-   "title": "Ethereum ETH (ETH-CAD) Live Price, News, Chart & Price History",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UZDZUSDYzYVZoODV3ejRGUzY4M3V0cFNoS2xjZWpJeHY5c282clJ5dU85T0p4T2lFRnVZQU9IRTlDTG9XLWNJSzVGU2R1ZHVCczI1WHd3?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "summary": "",
-   "published": "2026-11-06T04:13:01+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "8 GitHub Repos That Automate Your Work With AI Agents (All Free) ← I recommend this one",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hTXQtcUJYcGphT1BZMzd1WEZZTFVzWDRKTHFCRmU3WE5Cc0UwSVJYdFVJOG0xOS13c19BZG5WaHJCZ2x1MlBSRnI5ajBNX252ZHk5cE8zeGduR0pp?oc=5",
@@ -568,6 +560,14 @@
    "source": "TechCrunch",
    "summary": "",
    "published": "2026-11-05T19:06:12+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Where Will Ethereum Be in 3 Years?",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2JqOVFyOWVhdENTM2RnbVc3aTJyRlNELXpUVFZWN0txYVI3UWVYLVdpQnBudjdJQ3pxVFFNX1lGdDd1S1M3X2VkcjR3ZVlqcnFoLTRmcXNpaGdZMHo1SEtKM3p6cWJXV0pzQ0pLVjF2X0trUlBhbEdUSmlWMGg2dHM4LUpoaTdUalpBaUgzeTc?oc=5",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "published": "2026-11-05T19:01:00+00:00"
   },
   {
    "category": "ai_workflow",

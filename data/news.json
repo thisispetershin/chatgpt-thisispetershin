@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T01:27:30.851596+00:00",
+ "updated": "2026-11-08T04:10:46.306349+00:00",
  "items": [
   {
    "category": "ai_creative",
@@ -16,14 +16,6 @@
    "source": "Simon Willison",
    "summary": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP…",
    "published": "2026-11-07T23:57:46+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Coherent Moves Trade Compliance AI Agents To The Front Of The Process",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQnV1MEZuU1FHSjRncU5rcHRUYXlRMklQNzhPSmFSUUhieHZHMnI0cEdBSE9FZ3hYMFN4Tnp6b1YyRE1LeVdRaFFWX0ptcFd2WDBlMXl3TS1xV0FTMjVpZHBTVDFJZ2YzUmY4clpmd1pIZ3FXSy10d0ZVcm9kcm80ejZTLUp0X2VySE5JbXgtaUFmd1dLUnJmVGxPVE5haWNEdTJoMWFvRWdPZlkxN1djUzFsbTNXQXoyS0xOdDZLVQ?oc=5",
-   "source": "Forbes",
-   "summary": "",
-   "published": "2026-11-07T19:52:22+00:00"
   },
   {
    "category": "web3",
@@ -98,6 +90,14 @@
    "published": "2026-11-07T13:30:00+00:00"
   },
   {
+   "category": "ai_workflow",
+   "title": "Law Firms Have Malpractice Insurance. Should Their A.I. Agents?",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXFuOUJSYi1iVEUzaFZ1Yk90dW9TTldVaXpyNXpoUnJqMW9OTEkzZVNOdl9yVFFMTi1Nb1RLSERwLTByY2J4SXlqWVNRY3pfZG50TnZTdzJUN3Z2ZVEzcVFuQ0VNX2pBRWdjaUJMNEJtQUI3NC1nNURiOGMzbEt1V0M1ODlRRE5iTHFVQnJUY2s5YlFhaG45MjdSdDBrR1VYSXFVWnRoWUc?oc=5",
+   "source": "The New York Times",
+   "summary": "",
+   "published": "2026-11-07T13:00:06+00:00"
+  },
+  {
    "category": "web3",
    "title": "US sanctions Canadian money-exchange firms over Iran ties",
    "link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -154,6 +154,14 @@
    "published": "2026-11-07T07:45:24+00:00"
   },
   {
+   "category": "web3",
+   "title": "Visa Direct Launches Stablecoin-Powered Money Movement as Pilots Move to Production",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lRVVmZGhVX2VQc2I4anBBODFlWmU3Y0QycFFja3JlTldJblNNTU5KaFJLY3JlZlF6TV9jYkNpN2RnbEtNOUdHNG9sNA?oc=5",
+   "source": "AFP.com",
+   "summary": "",
+   "published": "2026-11-07T06:22:54+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "All the latest in AI ‘music’",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXl2XzVuUmRDck92VFVjRTNRSkthcnZiakEzMnY0T01qMHpmMGduS2ZaUHJiOVFETy12SHBGelNCZlpRN2twVFJRaDM1ZzROWGJkcHhUNUFJUWU1Z1Y4bFBQRzIyeU1EVjdieDhNWXNPdUZaR0Y4VlVZTHJqcFdfU0NXVF9kUWF4NzBIMjNpbHRXQUE?oc=5",
@@ -168,6 +176,14 @@
    "source": "Uber",
    "summary": "",
    "published": "2026-11-07T02:31:31+00:00"
+  },
+  {
+   "category": "ai_general",
+   "title": "Anthropic says its AI models hacked 3 organizations on their own during tests",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "summary": "",
+   "published": "2026-11-07T01:58:02+00:00"
   },
   {
    "category": "ai_creative",
@@ -296,14 +312,6 @@
    "source": "Cointelegraph",
    "summary": "Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC.",
    "published": "2026-11-06T18:22:42+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "How generative AI can enhance workflows and enable patient-focused care",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3RoRHAtVW1JQ3ZOd3MxbjJMbEZwVnNyU1J6bi1OZG5OM1JBQS1BTVJURDc0VTd3dmpGd191T2p2RS1jSDdnTFdzRzBGRzBiY0FheHJCU3hFTmNYSnlzVXNXT3RRYWtEcGJxV1gzSGxOdmdSWUJwOEFtQURCUkUyaE14aWV2Wm9lOGlkQXgtS3Zrb2plUFZHLXQ1WDlScnpTUkxaNUVPZW9VSmxLUHNfWGh3?oc=5",
-   "source": "Elsevier",
-   "summary": "",
-   "published": "2026-11-06T18:21:39+00:00"
   },
   {
    "category": "web3",
@@ -490,14 +498,6 @@
    "published": "2026-11-06T00:00:00+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "Chic Legend Nile Rodgers Challenges Fans Criticizing His AI Music Video",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWtvMFVFSFdzMncyUjdvZTZ4MjRYbFB0TTF1UVhHMDMybkx6ZkpQNTZSUk5kZDE3dHQxUnFCU3lDU3dLRGk4U2FTVmhBSUk0WFcweC1DS2lfd3VaelR4YWhZcEVvWWpDWTl6czk2RnBNYUoxazZ2S3kxeW1Gc0ZJRGFrWG8zWUZHUGxmY3VreDlCU0s4UHdOOFB3aHhRTVR2VTN4VThveDdCOGNSb1BJNmRB?oc=5",
-   "source": "Yahoo",
-   "summary": "",
-   "published": "2026-11-05T20:49:08+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
    "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
@@ -554,14 +554,6 @@
    "published": "2026-11-05T17:00:00+00:00"
   },
   {
-   "category": "ai_general",
-   "title": "Anthropic FlashProve Release Targets AI Model Substitution With Cryptographic Proofs",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT29hXzRkRzR6enFINGhoSDByb204NVBzc3F6OUNqUklCMjB2ajlYYUFnT1lsdG5oRkt3M2psbk5Cdk1RZHNVMl9VdHQ3U2VTN204RzNSdWMybE5SaXFfWXoxWjlrR1NfZ3BkUXdXLTR0cENoTV8xektMVUtzUHJWTE1JeVROZjl5Mkt1TGFvcW1wZGsyM2ZYNzh1bzVxQmJwQXFPNmY5T0RNZw?oc=5",
-   "source": "remio",
-   "summary": "",
-   "published": "2026-11-05T16:39:30+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzZUxjRGJ5S3V3ZXpCcGpSLXdkZGU4NFE4VXRUakgtbkt6UHlnZ3lQT2k2M2VZRTEyUGZVVGc1VXlwZEJpR2tJVXF0YV9pRUtNd0M1bWN5Mi1KMVUwUXpUeGxVUWhOV041Z0FHRFl1OXVBaEt4N1I4S9IBfkFVX3lxTE9DNEZYVVN2WXJWdFhtWXlzQUlBcW1yZHF5c2h4QkdXT19BVGRzYllFMWhfUnhzOFZja192bDVfV1lTWDFWTS1OZXR5eExGWHF2cG1kVFNjWjFEMGhxcDNLSk5qY2hFNkUydERiRDI3R28zUUIwbm4tRFF6ZFd3dw?oc=5",
@@ -592,14 +584,6 @@
    "source": "University Business",
    "summary": "",
    "published": "2026-11-05T14:51:45+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMU5jdzVISThTaXJLcTNjQ2R4cDJieTVWczhva2lRZ2xhR1k0dEZNdVJhTGVXWW4tN0NxTl8zQ0NIOTh5bVMxdGlLZXpnZDdlVzZiQUVNb0lIMmJEQTJ0dk1wS18zV2hUWlFNTU14ZVdsWEZWWFRoLXlLdjJuRHpKQjhB?oc=5",
-   "source": "The Hacker News",
-   "summary": "",
-   "published": "2026-11-05T14:41:00+00:00"
   },
   {
    "category": "ai_creative",
@@ -650,6 +634,14 @@
    "published": "2026-11-05T08:17:41+00:00"
   },
   {
+   "category": "web3",
+   "title": "What Is ETH Gas? Ethereum Fees & Gwei Explained",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9INkxaMnF5dFRveERwaVBBRnVYcE9LRDZTSkQzNzRQZVVfTkthcDUycXh4SjVHaDFGejVfcVRQMjMzY21Ydzc3YVRkX3lfbzlKZGtOaDZQcVp3dmx4U1I1WWd6Q2k?oc=5",
+   "source": "Britannica",
+   "summary": "",
+   "published": "2026-11-05T08:00:00+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "Enkio MCP Brings AI Music Video Creation to ChatGPT and Codex",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObUdqTmxuYWQ0MzhiNnhwNmNNMGNWREdFWkNNX3RRaUlyWXNPRXR6NjduTkQ1OER0c2JJdklXdTJCX1NlbUNnZ3hsYkRIZkp1Q055UmFvU3p0d3RTQXFUSldWdHV5emtwaDZySU1lV0dxUlBranVCWW1DM1M2MndTc0NPQTZ3WXNJb183Y3pVRlJSVkE2VWZfOWN4U1BheTFQZ1dYNXZHX2lPTDVRQThOcHk3NXk0eURxY2IxRA?oc=5",
@@ -675,9 +667,9 @@
   },
   {
    "category": "ai_general",
-   "title": "QUICK SPARK: Anthropic Wants AI Companies To Prove Their Models Are Telling The Truth",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX29nU2J0cDJ3aDVTZkQzczVjUDNzOTU3aXJDQUQ3dGVWT2VSakROcmxMNTFzS3IxTlRkclNoeThfNW9tTzVBOHdxSzEwMDNXZ1h0MU56eTEyeUhQN1kyLTU4SzJ0VVA2WkNTaE9JLXVwbmpWdmdqRk50NlhQdlpWMG1NVHM1dzN3Wk5uYWQ2bzRSQzVUZ0xYYm0xU2xIMXpLU21uOHVMUi1LdWNVVXhhb0dIal9fOTY3b1FSN0h3R2R6U2M4dkhETTlldEZUamZmd0EwOWdidw?oc=5",
-   "source": "Benzinga",
+   "title": "QUICK SPARK: Anthropic Releases Tool to Prove Which AI Model Wrote a Response",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWVmZFczWlNZbGZTSDVrdG5IZW85SE5yRWVXdXpwQzdxUWwwMUFOT1FMU0xqRUpVVk5oNlNLWFlrRV9Wa3Q2WUxxQXp2TjZ0TktLYlFSWU4wZEp2WHFfS0ZBdUFSV0RrSjZIc2o3T09QNjZTRldwM1kzVXk5OUFXdWJYYW1ZeHp2c204bHVmemhnY2tLazNr?oc=5",
+   "source": "Yahoo Tech",
    "summary": "",
    "published": "2026-11-04T20:23:30+00:00"
   },
@@ -688,6 +680,14 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-04T17:50:10+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "The Last Dance in Kippur: An exclusive AI filmmaking experience in 4K",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZDBUcDktS09zdFlrZzdGTUg0TVhSYmY5bEwzbzhQNzlXOHRFUnZ3cFNxakN4N0ViWDQwWTBmak5EZEZTS0hkRVAzLWpMOU45SVhFWGhFa2phLThoM0ltZm54V1pvazJKZlpsd1E0VWY2Uk12b2RnQ0llRXpoU0JSRWJCTUxCOWdhWmZlTm1id1k3MlVtbU5rNmZ4bWtwcW5JWVY4TXh6V1JBVVI5Z0ZZa2ZR?oc=5",
+   "source": "Egyptian Gazette",
+   "summary": "",
+   "published": "2026-11-04T16:16:58+00:00"
   },
   {
    "category": "ai_workflow",
@@ -842,6 +842,14 @@
    "published": "2026-11-03T10:05:26+00:00"
   },
   {
+   "category": "ai_creative",
+   "title": "Generative AI Ethics: AI Risks, Benefits, and Best Practices",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CMlpLaTBSVkc0NVZ6VnhnT2RpVW5WWHQ1S0dEUWU5WnRIeTdFRExzTU9fOXFJS0NHVEs3NXFPVzVJVG9JTWRENEdYN1ZQWGZYWDJOemlvcjlyYUM1TEQzNDlQZ3I?oc=5",
+   "source": "Coursera",
+   "summary": "",
+   "published": "2026-11-03T08:00:00+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
    "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
@@ -938,6 +946,14 @@
    "published": "2026-11-02T08:40:17+00:00"
   },
   {
+   "category": "ai_workflow",
+   "title": "How to rank in Google AI Overviews: what Google advises",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TXlBNkdiLXJSbVVqazR3b1hJU2VWcTNQcHptdUNPVmxpc0dTVWl5X09pTmdFTllmSFY0aDRKdTZwR2tNRHdnaHdLcEk1SFAyWFpYd3ZiRGtKb01kSmk0NlRwbWd3S3N1?oc=5",
+   "source": "One.com",
+   "summary": "",
+   "published": "2026-11-02T08:00:00+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "Who's suing AI and who's signing latest: US newspapers sue Brave Software and Canadian publishers sue Anthropic",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5",
@@ -960,14 +976,6 @@
    "source": "Frontiers",
    "summary": "",
    "published": "2026-11-02T08:00:00+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "HSBC sees rapid take-up for RedCoin stablecoin, unveils global AI institute",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb1Z0bl9QcGNDY1dBZXlhR20xaGRlcGhFOE14N1JLTkZBNGlQV2lWMjlMTGFReV9iT3A5Y2JyWjlIcUstM0NWcm41eFJXMXhSVFZQcEM1U3VTal9ySkQya3NBTnpNOEpIYnhUOFgzWW5sV1NuVmxoMU1YRDNuXzR2NldSSld2T0xETWVCMU1mRkdRSG5vY3NzeTRxRC02YVF5WDI2VWtWZUFGTm0zN0ZqeTktRWpFVU00RklIOVcwQjJpaEVXa1BmNFVfdGRYWWV2cXJrQm53S2IxcHNU?oc=5",
-   "source": "South China Morning Post",
-   "summary": "",
-   "published": "2026-11-02T07:59:30+00:00"
   },
   {
    "category": "ai_workflow",
@@ -1000,22 +1008,6 @@
    "source": "WeRSM",
    "summary": "",
    "published": "2026-11-01T07:00:00+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Agents That Work Inside Slack: 8 Tools Compared on One Task",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUhLZlBuQjVCcVhuSDZucXNGeHl0R1VNcUpUdU8yOEViWUVnZktzdzZHcmNYVWtocnFNT2l3ZlUtX3dGbVJQSVlZNzhsRnNaN1ZOOXo0SlJnbFJ2Q0h2bjJLOXVTLW85WmFuMnlZeXZTRGV1cDBKRExzTk9YZURiR1FCUlM3a2g5cU9FTnN0dWRDSVpLckVUeFJDY2FGWE1NZkdUUVgtODd0RjJidVEtdHdEdWNrZDhzRi1aQVJkaUE?oc=5",
-   "source": "RESIDENT™ | A Luxury Lifestyle Magazine",
-   "summary": "",
-   "published": "2026-11-01T00:47:09+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "AI can make art in seconds – how are artists in Singapore fighting to keep their craft alive?",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVXJGdDlrMDROLVdvaGlXUm44alBQdHFVQ2s5bjkyNVBpaEd1dHlMMVVDcS1WTElqcjJwT3liNC02WHdwdVc0UVV5M3BJWFN3eHEyU2wtVWhEekQyYzZtUE5oT1Q3WXZnUTdaeGlJY2tHMmI3dkl6VHdaMDkzV3ZhcEc4OWo0QmtnM1RpMlgtZ1lGeDB4NFhkUEFqelhnRUJL?oc=5",
-   "source": "CNA Lifestyle",
-   "summary": "",
-   "published": "2026-11-01T00:45:44+00:00"
   },
   {
    "category": "ai_workflow",

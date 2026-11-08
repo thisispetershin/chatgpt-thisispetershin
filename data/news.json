@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-08T13:12:51.031845+00:00",
+ "updated": "2026-11-08T15:53:09.078349+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
+   "link": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+   "source": "Decrypt",
+   "summary": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recover their coins and collect a potentially costly penalty.",
+   "published": "2026-11-08T14:01:03+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Here’s what happened in crypto today",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "published": "2026-11-08T13:33:00+00:00"
+  },
   {
    "category": "web3",
    "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
@@ -96,14 +112,6 @@
    "source": "Decrypt",
    "summary": "A Friday rebound offered relief after a historic selloff. The question now is whether politics and mounting debt could turn an AI correction into something much worse.",
    "published": "2026-11-07T16:01:02+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Here’s what happened in crypto today",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "published": "2026-11-07T14:22:00+00:00"
   },
   {
    "category": "web3",
@@ -218,6 +226,14 @@
    "published": "2026-11-07T01:58:02+00:00"
   },
   {
+   "category": "ai_workflow",
+   "title": "Outside AI Agents Aren’t Slowing Google And Amazon Ads. Their Own Are.",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOXJtQUR4ZDBDbWlTYzJKbkF4RWFaWHo2dnpPb1JDTmR0aGpzSUNNcV95YTdjLXl2QllJRnl4UVgyMkJUU1NzcDBPbkw1LVFURDZyOTJWWUhmVHZMTWRBbEVEWVFJYkpPQUZjcU1SRDBDc2tsZDg5NFhoRWZnS1c5bnJ0dlFEdEQyek1PQjZsZGNkQTFQc1JMbFBHdVNZMmN4Y0xxSFpldHNFb3hSUjdMWkhkZVR2VEM5SXVWZ19SWQ?oc=5",
+   "source": "Forbes",
+   "summary": "",
+   "published": "2026-11-06T23:20:10+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "Soundverse AI – AI Music Studio, Conversational Creation & Multitrack Editing",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYmdmd0J6MnRFX3hFdXpJWVR5Q1N1MmMwOUpyZ0NadjlsSjduM21FcHNQOUI0RmI0amN3Uk9VdUNZaWVQRFVUdVdjalJpS2NvOVFVa2pRcnFhVnZ2QVdWRjZNM3VmNUdIS01RVDdhQldwSDZKZU1XY25yaGUtaGtqZkhDUlYwOUNWbXNaOXdkb3Y5MXAyVjF4Z3I1SQ?oc=5",
@@ -306,14 +322,6 @@
    "published": "2026-11-06T19:09:23+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "These AI agents design your perfect robot-powered lab — and run it for you",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4OGxPNFp0VFV4VjhEX00xRUZMLVlQWXRYQnVpZjZwb3pPWmhMcEZqZkR3MmZ5Y1FLMm9UZzFPclAwNlN5dDAyYy11RlE1TklDQzg0OTJOeVZHX2ljejZZ?oc=5",
-   "source": "Nature",
-   "summary": "",
-   "published": "2026-11-06T19:07:31+00:00"
-  },
-  {
    "category": "web3",
    "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
    "link": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
@@ -376,14 +384,6 @@
    "source": "Decrypt",
    "summary": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.",
    "published": "2026-11-06T16:34:07+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
-   "link": "https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report",
-   "source": "Decrypt",
-   "summary": "Investors told The Wall Street Journal that the $1.5 trillion target now looks too high, as prediction markets bet on a December listing.",
-   "published": "2026-11-06T16:28:58+00:00"
   },
   {
    "category": "ai_workflow",
@@ -464,6 +464,14 @@
    "source": "The Denver Post",
    "summary": "",
    "published": "2026-11-06T11:00:22+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "435: AI Agents Are Tamagotchi (hak)｜Rebuild.fm",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MN3AtMHhnbWJWeGllNmJ3UENTQXBjQVlBZzRERFpmQ0tiajZfUG1yamJGdi1vVG12UXhuX1doRk1rZ0pGRkhITi1fbWtOSXZUNzVlZjgwNEJLbUJaM3dN?oc=5",
+   "source": "finance.biggo.com",
+   "summary": "",
+   "published": "2026-11-06T09:41:51+00:00"
   },
   {
    "category": "ai_creative",
@@ -658,22 +666,6 @@
    "published": "2026-11-05T09:54:16+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "Dataverse AI agent integrations: how Cowork, coding agents and n8n connect",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0szX2xaN3EzUlg1ZF9oMU1xbTVsWGtiNC1OQjV5WXV0MDQtdUVkUGN6VmpaY0QzRnJtMWVJMC1RUTlSdElBZV81Y0JYSEd0LVlTemhiZ0dKalpjZ0JYYllRUVJkWVRuenhRUm44RnZ6RlhNSFlyWEJxcENqdE1lUFloa0NxanhwREVjd0VBVHprYTNpWHpTWXVNdFU0NUk?oc=5",
-   "source": "NeoTeo",
-   "summary": "",
-   "published": "2026-11-05T08:17:41+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Introducing GPT-6 Sol and Luna",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-   "source": "OpenAI",
-   "summary": "",
-   "published": "2026-11-05T08:00:00+00:00"
-  },
-  {
    "category": "web3",
    "title": "What Is ETH Gas? Ethereum Fees & Gwei Explained",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9INkxaMnF5dFRveERwaVBBRnVYcE9LRDZTSkQzNzRQZVVfTkthcDUycXh4SjVHaDFGejVfcVRQMjMzY21Ydzc3YVRkX3lfbzlKZGtOaDZQcVp3dmx4U1I1WWd6Q2k?oc=5",
@@ -684,10 +676,10 @@
   {
    "category": "ai_creative",
    "title": "Enkio MCP Brings AI Music Video Creation to ChatGPT and Codex",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdF9rZTZYSXhUa3l1eVJMcElPUUg1NGdjRmxyWk5zdWhqa1otb3RQN2pmcHFEVHpnVlB1TlVWRkNBcUdHSlZFZElzbHM0T3RrTG5jMUxsZkZhN2xNR20wZ19MWFh3dnhvU3NNTDdIVEd6T3NSaEV2YmtGdzUybWdwZTVsLXVtc05lUllsWlFBckx3RGk4NlUwcWlGRlNudHd6Ty1yM2JEcWhNUTRj?oc=5",
-   "source": "EIN Presswire",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObUdqTmxuYWQ0MzhiNnhwNmNNMGNWREdFWkNNX3RRaUlyWXNPRXR6NjduTkQ1OER0c2JJdklXdTJCX1NlbUNnZ3hsYkRIZkp1Q055UmFvU3p0d3RTQXFUSldWdHV5emtwaDZySU1lV0dxUlBranVCWW1DM1M2MndTc0NPQTZ3WXNJb183Y3pVRlJSVkE2VWZfOWN4U1BheTFQZ1dYNXZHX2lPTDVRQThOcHk3NXk0eURxY2IxRA?oc=5",
+   "source": "The Sheboygan Press",
    "summary": "",
-   "published": "2026-11-05T05:59:00+00:00"
+   "published": "2026-11-05T06:55:03+00:00"
   },
   {
    "category": "ai_workflow",
@@ -907,6 +899,14 @@
   },
   {
    "category": "ai_general",
+   "title": "Anthropic Releases FlashProve for Cryptographic AI Inference Proofs",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQXJyOWdXZVFpbVk0clNVdmNSZURmLXF4OTFZMmVMYWFQZFdxNHUtN3JmQ05aWDN0Szc4NFVTanpBR0JQby1UdjNuaGp1R05La0dZUjI2aE02OUNzdlR4UEJUakhwODVpdURQRXR1Q2w1NjhOVnNMTWJoXzNTVFIzYzZNSzhyc2VjaEF3UmZuN1BhOWs?oc=5",
+   "source": "Unite.AI",
+   "summary": "",
+   "published": "2026-11-03T04:44:05+00:00"
+  },
+  {
+   "category": "ai_general",
    "title": "Progress on provable inference for large language models",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5",
    "source": "Anthropic",
@@ -1024,14 +1024,6 @@
    "source": "TestingCatalog AI News",
    "summary": "",
    "published": "2026-11-01T20:50:16+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Granite Switch 4.1.1 — Update models like you update software",
-   "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-   "source": "Hugging Face",
-   "summary": "",
-   "published": "2026-10-29T13:37:07+00:00"
   }
  ],
  "errors": []

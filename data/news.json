@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-08T21:52:51.969839+00:00",
+ "updated": "2026-11-09T01:29:57.085613+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+   "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections.",
+   "published": "2026-11-08T22:59:06+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "parse_number() as a SQLite extension: C vs Rust",
+   "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+   "source": "Simon Willison",
+   "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning…",
+   "published": "2026-11-08T22:26:00+00:00"
+  },
   {
    "category": "web3",
    "title": "What the election results mean for crypto: State of Crypto",
@@ -272,14 +288,6 @@
    "source": "Cointelegraph",
    "summary": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information.",
    "published": "2026-11-06T20:51:23+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
-   "link": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft.",
-   "published": "2026-11-06T20:36:25+00:00"
   },
   {
    "category": "web3",
@@ -588,7 +596,7 @@
   {
    "category": "ai_workflow",
    "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzZUxjRGJ5S3V3ZXpCcGpSLXdkZGU4NFE4VXRUakgtbkt6UHlnZ3lQT2k2M2VZRTEyUGZVVGc1VXlwZEJpR2tJVXF0YV9pRUtNd0M1bWN5Mi1KMVUwUXpUeGxVUWhOV041Z0FHRFl1OXVBaEt4N1I4Sw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzZUxjRGJ5S3V3ZXpCcGpSLXdkZGU4NFE4VXRUakgtbkt6UHlnZ3lQT2k2M2VZRTEyUGZVVGc1VXlwZEJpR2tJVXF0YV9pRUtNd0M1bWN5Mi1KMVUwUXpUeGxVUWhOV041Z0FHRFl1OXVBaEt4N1I4S9IBfkFVX3lxTE9DNEZYVVN2WXJWdFhtWXlzQUlBcW1yZHF5c2h4QkdXT19BVGRzYllFMWhfUnhzOFZja192bDVfV1lTWDFWTS1OZXR5eExGWHF2cG1kVFNjWjFEMGhxcDNLSk5qY2hFNkUydERiRDI3R28zUUIwbm4tRFF6ZFd3dw?oc=5",
    "source": "CNBC",
    "summary": "",
    "published": "2026-11-05T15:34:55+00:00"
@@ -752,6 +760,14 @@
    "source": "USA Today",
    "summary": "",
    "published": "2026-11-04T13:06:42+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdl9SZHZudE5rNGFQck5hakdMNWN5UmZEaGoyTF9iZXVSOVVvNzJ1VGIxM2prb1lCNUh5eHlNbHZ2T3ZaZEw1V282X0c4endZMEx6Z1FFYUZ1cWhETndoYVBCLTVMUU41WXpYZVdWUFlhTU53VFRYVEM3MzBmNEtzYXpneHR3U0tsYzlIN25YdVFocndWUEZURTN4NkY5UQ?oc=5",
+   "source": "CoinDesk",
+   "summary": "",
+   "published": "2026-11-04T10:38:58+00:00"
   },
   {
    "category": "web3",
@@ -954,14 +970,6 @@
    "published": "2026-11-02T13:55:08+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "The U.S. Census Bureau and “Super Intelligence”",
-   "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-   "source": "Simon Willison",
-   "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on…",
-   "published": "2026-11-02T13:31:26+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "Popcorn raises $1M to build an Arabic-first AI filmmaking platform",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR1c5MlVMaFVxdy1PUEJHYlVjN0ZMWjlOaGNuUzlUdFBCdVdhX210d3d3LTRIYW5tX0cwVHpTU2FKVGxhNzFjeC1xX00waE1nTE5FT2pmVzZrR2l3ZXhJc3dSRDEwR2ZmWGQ0TE9MN3dmSThjc1lsSGgyTlRCN0ZOaklsWWdjNmJUTGN6YUJ2WmlVS2Znd21GeW9sQ2pHQTI2?oc=5",
@@ -998,14 +1006,6 @@
    "title": "Anthropic vs OpenAI: Who’s Winning the AI Race in 2026?",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wY1dnSDBYRURoU2FJUnhFUHlCZGRzcXNTa3JkYk9HRUFYbEd1MUxkSkZ1TXlRUG56bDI0eDducEZOWkpXbEhQRWphMUZXbmxMWXc?oc=5",
    "source": "Fello AI",
-   "summary": "",
-   "published": "2026-11-02T08:00:00+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Ethereum value formation as a feedback system: an integrative causal-loop framework",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkEtbHNNeW5sNlBlWUVlMExWTUF0NlUzak1sQjIwTzUtZUI5YzY3eld6WHBmY2xHZHJZU3pqaWdscUJYeEVsX2lKSzFBZ1pEOXJZTHhmSThEUjFMWHU1djQ5aEhmb3pVY1A0WVBFS3cxaW9WTkRTYXZ1cm43ckFndS1KRnV1OWpwcUdsRjVZcnd5dw?oc=5",
-   "source": "Frontiers",
    "summary": "",
    "published": "2026-11-02T08:00:00+00:00"
   },

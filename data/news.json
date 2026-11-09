@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-09T01:29:57.085613+00:00",
+ "updated": "2026-11-09T04:18:40.248423+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+   "link": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers.",
+   "published": "2026-11-09T04:03:08+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+   "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+   "source": "CoinDesk",
+   "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
+   "published": "2026-11-09T03:21:49+00:00"
+  },
   {
    "category": "web3",
    "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
@@ -98,6 +114,14 @@
    "published": "2026-11-08T04:16:42+00:00"
   },
   {
+   "category": "ai_general",
+   "title": "Anthropic says its AI models hacked 3 organizations on their own during tests",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "summary": "",
+   "published": "2026-11-08T01:20:13+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "Elvis Presley Enterprises suing AI music generator Suno over copyright infringement",
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOdDkzSVM1aVBaWlMyR1lnUm9qQjFUSXZyYVpZaTFWdm84QWQwSjBhVjI3RG1xc19CckZfNWwyZzhPQ0N0dEpST2t2RHp6ZnpWZi1nSEVhejRHVkFyd0s5VWVpREhyZEt2X05NWDRobXNWM2ltZzBxMmJxQ0FVd1pCbjBzdHd3Z1FXZ1V1dVJ2azNucHNydnh4RV9YREZoT0JpRXNTRWdkUmJEUzBGTlZGV3laSWNyU0RjX2dzZG1jY0p3SEJDbnFKMkRLZ1JKZEtGQ0RTbVBJU0JLaDZXUWdjNFUwNnBreE8tNlYtOUx5NkNBOTJYTmhfQmRlOU5SbGk5UE5tTGREb0lkWDRHaUpyQXhR?oc=5",
@@ -120,14 +144,6 @@
    "source": "CoinDesk",
    "summary": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
    "published": "2026-11-07T19:13:16+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Anthropic says its AI models hacked 3 organizations on their own during tests",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "summary": "",
-   "published": "2026-11-07T18:02:58+00:00"
   },
   {
    "category": "web3",
@@ -280,14 +296,6 @@
    "source": "Northeastern Global News",
    "summary": "",
    "published": "2026-11-06T21:03:40+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-   "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information.",
-   "published": "2026-11-06T20:51:23+00:00"
   },
   {
    "category": "web3",
@@ -451,14 +459,6 @@
   },
   {
    "category": "web3",
-   "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-   "link": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
-   "source": "CoinDesk",
-   "summary": "Your day-ahead look for Nov. 6, 2026",
-   "published": "2026-11-06T12:30:00+00:00"
-  },
-  {
-   "category": "web3",
    "title": "Crypto foundation demanded employees endorse suicide pledge, then fired leaders who objected, Colorado lawsuit alleges",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2dvSTJleHFjZ21zb01tM3d1WHY5cFZBNUlFc3YxclJadjJqSzMxM1Y3Sl85X2E3ekxTc2dBOFdYbGxMLVBqU2lyalRJSktiR2ZaRUZlSmtnWkxtYXBtMDE4S19hNVZqTkVxUlJqR3NVLUdaRkE4Y3poM1oyVDJGcGN2RHdfbE5TTjFBVC1EdmdENWs2Wm4yWg?oc=5",
    "source": "The Denver Post",
@@ -476,10 +476,10 @@
   {
    "category": "ai_creative",
    "title": "‘Kamen Rider’ Studio Toei Frames Generative AI Rules, Sets First Video Games for 2027",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VR0RKNEFHazAyX0VoRmZ2N21rMlNIZWZPM3VCSmpPWjlwTlc2YW5YVHlmdG5PZ2Z2NVBUV2pBY3VOUnluLW1Fal9CMEdib2hjQi1obGxTaGdPSDJEZjFMQnlTZzgzblU5NlE?oc=5",
-   "source": "IMDb",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0lkZHhSUUtKNkU3Rlp6bk9BemdIcTFhZWNqeDFOR1RYbnRETjJEc0ZVaUZUcUliN3NrOWV6RzBLWVJwWEJXQ0xtVS1RTFI0VmJzdElCNXk4Y2ZVd2YzUTZ1QUtodFRwRDJLemkzdWc4ZXhjY201cE85aVlIN1NUUkdGSXpNWnA3NC1UV3V2SHRGMDNfVi1kaGk1ZnpWVlpiNk4xSWJoT2I2Ul9kaWtRWWUxTVV3bW1G?oc=5",
+   "source": "Variety",
    "summary": "",
-   "published": "2026-11-06T09:08:24+00:00"
+   "published": "2026-11-06T08:21:00+00:00"
   },
   {
    "category": "ai_workflow",
@@ -552,14 +552,6 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-05T19:35:16+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "OpenAI released a new cybersecurity model. Is that enough?",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUlwVjFGWDNxSTg2dVVfRjA4bmJkcUVjMUtobXpBV00xU2FqWEpQNUxrM0JmejZiTTBnX3NfUTBCMWIzbkVpc1NjMFdSbDJ3eWgzODQzVU1uRXJpRThTWTdfQmM2Wjh1WkZaUDFseURTTFdTSVVmRDJUdnFYam1Db1c0bWhlTmNLSi1FTmFzTGt3TTNkU1E?oc=5",
-   "source": "TechCrunch",
-   "summary": "",
-   "published": "2026-11-05T19:06:12+00:00"
   },
   {
    "category": "web3",
@@ -666,14 +658,6 @@
    "published": "2026-11-05T09:54:16+00:00"
   },
   {
-   "category": "ai_general",
-   "title": "Introducing GPT-6 Sol and Luna",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-   "source": "OpenAI",
-   "summary": "",
-   "published": "2026-11-05T08:00:00+00:00"
-  },
-  {
    "category": "web3",
    "title": "What Is ETH Gas? Ethereum Fees & Gwei Explained",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9INkxaMnF5dFRveERwaVBBRnVYcE9LRDZTSkQzNzRQZVVfTkthcDUycXh4SjVHaDFGejVfcVRQMjMzY21Ydzc3YVRkX3lfbzlKZGtOaDZQcVp3dmx4U1I1WWd6Q2k?oc=5",
@@ -728,6 +712,14 @@
    "source": "Salesforce",
    "summary": "",
    "published": "2026-11-04T17:27:03+00:00"
+  },
+  {
+   "category": "ai_general",
+   "title": "Introducing Images 2.6 I n t r o d u c i n g I m a g e s 2 6",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aRllmMHFwSmtFNVhMV0dnNXpZa0RkejJ2bDkzYUlTLXRBaHF5TXd0VldHSEZxbWEyQ25EdlM1azgxV2p5dGs0cnZ2dG56ekEzQTJDY1FFWjN5MzZh?oc=5",
+   "source": "OpenAI",
+   "summary": "",
+   "published": "2026-11-04T17:02:44+00:00"
   },
   {
    "category": "ai_workflow",
@@ -802,6 +794,14 @@
    "published": "2026-11-04T01:36:09+00:00"
   },
   {
+   "category": "ai_creative",
+   "title": "How generative AI is reshaping Nigeria’s creative economy and digital design",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnZGTV9pTjhGS2FjMDRIUnlFd3ZKTlBCbGNqRDBUc3pRVHkyYmcwOWZRYlVfR0NLZWUwTnNHY3lVcVNlVFREYzRyclk3TjZVc3ZoOFFsYTdFam1BT05sUmZVaTdWZFcwMTRNc081TElaRFhfTFJWd0d0ekUxeVRDYkhTeTY5QTZ5VHllYi11YVI4QkZqd1UyT2hJSTBDWnZ1ZzFYRG9yb2ZEQ3M?oc=5",
+   "source": "The Guardian Nigeria News",
+   "summary": "",
+   "published": "2026-11-04T01:15:19+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "datasette-apps 0.3a0",
    "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
@@ -824,6 +824,14 @@
    "source": "Pasquale Pillitteri",
    "summary": "",
    "published": "2026-11-03T22:51:22+00:00"
+  },
+  {
+   "category": "ai_general",
+   "title": "Anthropic is working on a system to prove AI models’ identity",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTNUM28wSkNtcEpseEVkaWhkVGZraVJVNU5veHN0M3Y3ZWF1TktRelVYdE5pbjh6V29IdDJtTDlrVXJRSVBhY0JtTGVIdkxHbGFMZ3Vtb2NQXzhheDZoa0Y1TGVOcXd3MFN0QlBtWDVMdVpBSHQ2bkNSV2VibGh2dWRXQmUyMlpVTktJTFhmUkFuMGVnUm5RVzBobw?oc=5",
+   "source": "TechCrunch",
+   "summary": "",
+   "published": "2026-11-03T22:41:03+00:00"
   },
   {
    "category": "ai_workflow",
@@ -979,8 +987,8 @@
   },
   {
    "category": "ai_workflow",
-   "title": "How to rank in Google AI Overviews: what Google advises",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TXlBNkdiLXJSbVVqazR3b1hJU2VWcTNQcHptdUNPVmxpc0dTVWl5X09pTmdFTllmSFY0aDRKdTZwR2tNRHdnaHdLcEk1SFAyWFpYd3ZiRGtKb01kSmk0NlRwbWd3S3N1?oc=5",
+   "title": "How to use an AI email writer: 5 tips for business email",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ybmZPZEJaOEZPdDI1c3pDanhDMFF6ZnhrTG9RYnRaV3d3U3JkTWU1Um5iVkRBSkdOY3FvXzZXLWRuT25CSWZ0ZGE4bTNfSllVZDY0and5TGhucmQ1UWJR?oc=5",
    "source": "One.com",
    "summary": "",
    "published": "2026-11-02T08:00:00+00:00"

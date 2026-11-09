@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-09T07:47:36.085917+00:00",
+ "updated": "2026-11-09T10:15:54.700060+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
+   "link": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Bitcoin price action fell to its lowest levels since mid-August as Nvidia reports added to sell-side pressure across stock-market futures.",
+   "published": "2026-11-09T10:03:40+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
+   "link": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
+   "source": "CoinDesk",
+   "summary": "The Office of the Comptroller of the Currency elevated the biggest U.S. exchange's trust status from conditional to a full-fledged charter, the company said.",
+   "published": "2026-11-09T10:00:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Nvidia Board Investigates Jensen Huang After Report He Was Target of Chinese Spy Effort",
+   "link": "https://decrypt.co/382793/nvidia-board-investigates-jensen-huang-after-report-he-was-target-of-chinese-spy-effort",
+   "source": "Decrypt",
+   "summary": "Huang told staff he had been \"unfaithful\" to his wife, as Nvidia shares fell nearly 5% in premarket trading on Monday.",
+   "published": "2026-11-09T09:50:21+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
+   "link": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
+   "source": "CoinDesk",
+   "summary": "Your look at what’s coming in the week starting Nov. 9.",
+   "published": "2026-11-09T09:33:27+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
+   "link": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Sen. Richard Blumenthal asked four crypto firms to start sending records by Nov. 30 and warned of further action if they miss the Jan. 4 deadline.",
+   "published": "2026-11-09T09:00:17+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
+   "link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Investors pulled a net $1.21 billion from BlackRock’s IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off.",
+   "published": "2026-11-09T08:17:35+00:00"
+  },
   {
    "category": "web3",
    "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
@@ -191,7 +239,7 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDZ5MEM0Q0tXVWR1NHRrLW1ja2RuSWpRRFdqdGE5eHRFWkE5REFyZWpmNG1LQTBoS2oxYzJhSWR4TDBDSjFTUmV6TmdTZTMtbWxTRzRNQngxQmoxelZDTHUtY1RCd0o0dHJQREVjRnF4T29WNDhvaUdPOU8xWVJDa1p4UHRjc3dTRlBOVHdFcFpHNElIc0Jtanc0NzBUWGczb0xvQzZRVk93RFRFUV93WlQxSQ?oc=5",
    "source": "WREG.com",
    "summary": "",
-   "published": "2026-11-08T04:16:42+00:00"
+   "published": "2026-11-08T04:45:34+00:00"
   },
   {
    "category": "ai_creative",
@@ -243,14 +291,6 @@
   },
   {
    "category": "web3",
-   "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-   "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-   "source": "CoinDesk",
-   "summary": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
-   "published": "2026-11-07T16:51:00+00:00"
-  },
-  {
-   "category": "web3",
    "title": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
    "link": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
    "source": "Decrypt",
@@ -282,14 +322,6 @@
    "published": "2026-11-07T13:30:00+00:00"
   },
   {
-   "category": "web3",
-   "title": "US sanctions Canadian money-exchange firms over Iran ties",
-   "link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "US also offers as much as $20 million and possible relocation for information about Iran’s nuclear program.",
-   "published": "2026-11-07T11:10:47+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Securing AI Agents: Lessons From Real-World Deployment",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGM5ODY5TGc1T0NjVGhjY1M2d09xeWRqZ1p2MS1HVW5fZEVjdzJ4S1UtTmtFVW9HTnF6QnRqZ0s0Y2dwdFpVd3RHVmRqaE0weEx2V3pnN3FPaGR4czdNZg?oc=5",
@@ -306,14 +338,6 @@
    "published": "2026-11-07T10:23:19+00:00"
   },
   {
-   "category": "web3",
-   "title": "Suspicious prediction market activity seen before election poll release: NYT",
-   "link": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report.",
-   "published": "2026-11-07T09:10:35+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "Generative AI In Architecture Demands A Shift Toward Curatorial And Ethical Oversight",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDNjcTdKSnhKazdTV25rSmRIVUIxTDVCZ1BpSVhUUHU5dG5Gb3JfNHJscThOVnU2bFF6SWtFOHlYWEhVUDY3X0lFR3NzbzUyRXhjVnEzTUs1Zm5ZTm5zQWo1MzZxcWZiWHB3R1BTWFNOMk85emVQUDlaMUk2ek04QnB5TmVIbERGVzNKeVJkdXVLRDdMVWxHSzA3U05SdzVQWHJYVWNXcEVHSHZYYTNB?oc=5",
@@ -323,19 +347,11 @@
   },
   {
    "category": "ai_creative",
-   "title": "AI Filmmaking Platform Core Studio Launches at Taiwan Creative Content Fest With 24 Specialized Agents",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLUdxQ1NoblRrdGdBTmU1cnNtYy1PbS1UMkxVb1huSk9JSTIxcVdhNHRQZ29ZSXZSU3JwX3puaFo0VEVkWk9GNExHcWxvVzNNYUtlMzVPQnZXRVhfRFJwSUlaQzYxSWlhbVE4ZEFkZTljcHpVdnNmaU1Razd6NkMwYjB6ZTcxS1JwRUNIbW5SdF9US0VSN1Y3OUZCMmE5clhMeUtaczdacVRCLUtkMFctUmdFU3hiQ0d1Vnc?oc=5",
-   "source": "Variety",
+   "title": "8 Best AI Filmmaking Tools",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82UGpIWXh5TlEyWXBFbVZSQlUyNEFEZmg5U0c0aUVjSDM4Q2UzeTBnY3VWQlRST2dKUDluTm1PWkFvbzhKeHRoOXBDSmVMTWpDRWZ0eDFaa0xTYW5MbVVVZQ?oc=5",
+   "source": "TechBullion",
    "summary": "",
-   "published": "2026-11-07T08:19:00+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Nvidia may face a more hostile post-election Washington: Report",
-   "link": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "CEO Jensen Huang’s relationship with President Donald Trump probably won’t save the company from a more adversarial Washington, Semafor says.",
-   "published": "2026-11-07T07:45:24+00:00"
+   "published": "2026-11-07T08:19:55+00:00"
   },
   {
    "category": "web3",
@@ -344,6 +360,14 @@
    "source": "AFP.com",
    "summary": "",
    "published": "2026-11-07T06:22:54+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "All the latest in AI ‘music’",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXl2XzVuUmRDck92VFVjRTNRSkthcnZiakEzMnY0T01qMHpmMGduS2ZaUHJiOVFETy12SHBGelNCZlpRN2twVFJRaDM1ZzROWGJkcHhUNUFJUWU1Z1Y4bFBQRzIyeU1EVjdieDhNWXNPdUZaR0Y4VlVZTHJqcFdfU0NXVF9kUWF4NzBIMjNpbHRXQUE?oc=5",
+   "source": "The Verge",
+   "summary": "",
+   "published": "2026-11-07T05:37:18+00:00"
   },
   {
    "category": "web3",
@@ -370,20 +394,20 @@
    "published": "2026-11-06T21:06:03+00:00"
   },
   {
+   "category": "ai_workflow",
+   "title": "What are they talking about? AI agents are developing odd dialects humans struggle to follow",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hNTJhTlZXaHB1THJZZ3cydDBSMk5wSzlZUlJrVlczMV96dWVyb2x2SDZKaHU5aU91SHBXYmVhY1Z4TDBzM3VqdUFoUjZXSU1vTWNvSDdiTlBYLUNhYS01MEJDWnZlaklDSzFmdkFLMHEzRjdJQnRSZ0sxSGFCalE?oc=5",
+   "source": "Northeastern Global News",
+   "summary": "",
+   "published": "2026-11-06T21:03:40+00:00"
+  },
+  {
    "category": "web3",
    "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
    "link": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
    "source": "Decrypt",
    "summary": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved.",
    "published": "2026-11-06T20:36:03+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-   "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
-   "source": "CoinDesk",
-   "summary": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out.",
-   "published": "2026-11-06T20:09:18+00:00"
   },
   {
    "category": "web3",
@@ -466,14 +490,6 @@
    "published": "2026-11-06T16:41:29+00:00"
   },
   {
-   "category": "web3",
-   "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
-   "link": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
-   "source": "Decrypt",
-   "summary": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.",
-   "published": "2026-11-06T16:34:07+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Companies struggle to know what normal looks like for AI agents",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0ZKS0VrNVlaZ1ozdkh2eFlkWFBPR3p3aEpOWUhwOFVHRUI0Wm9ZZGpJTy1la1ljSllRVHVkMl9LZGx4YTQxQ2hNV1VEa3psRU8tWG9YdXpBMkgxaHA4UmVES25TSVdVQ1huQldENktMVUd3UFphZFIxS254dHk2UTNwVlpsZnNmVHltTXlwbVBjc3ZwaXg0?oc=5",
@@ -506,20 +522,20 @@
    "published": "2026-11-06T11:00:22+00:00"
   },
   {
+   "category": "ai_creative",
+   "title": "‘Kamen Rider’ Studio Toei Frames Generative AI Rules, Sets First Video Games for 2027",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41M3F3cjhCRVdOQ1VqcWY3SDhFbVFuNW9IN255YUF2RTZhUWlMekV6Wk9jRGZZV3JlZGE3UURkTTg4VllaX3d6dVN2cENrNHNDR3pURldSMWdhb20wNVMtb29mTDYzQlQtNkE?oc=5",
+   "source": "IMDb",
+   "summary": "",
+   "published": "2026-11-06T09:18:30+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "435: AI Agents Are Tamagotchi (hak)｜Rebuild.fm",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MN3AtMHhnbWJWeGllNmJ3UENTQXBjQVlBZzRERFpmQ0tiajZfUG1yamJGdi1vVG12UXhuX1doRk1rZ0pGRkhITi1fbWtOSXZUNzVlZjgwNEJLbUJaM3dN?oc=5",
    "source": "finance.biggo.com",
    "summary": "",
-   "published": "2026-11-06T09:41:51+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "‘Kamen Rider’ Studio Toei Frames Generative AI Rules, Sets First Video Games for 2027",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0lkZHhSUUtKNkU3Rlp6bk9BemdIcTFhZWNqeDFOR1RYbnRETjJEc0ZVaUZUcUliN3NrOWV6RzBLWVJwWEJXQ0xtVS1RTFI0VmJzdElCNXk4Y2ZVd2YzUTZ1QUtodFRwRDJLemkzdWc4ZXhjY201cE85aVlIN1NUUkdGSXpNWnA3NC1UV3V2SHRGMDNfVi1kaGk1ZnpWVlpiNk4xSWJoT2I2Ul9kaWtRWWUxTVV3bW1G?oc=5",
-   "source": "Variety",
-   "summary": "",
-   "published": "2026-11-06T08:21:00+00:00"
+   "published": "2026-11-06T08:52:14+00:00"
   },
   {
    "category": "ai_workflow",
@@ -530,12 +546,28 @@
    "published": "2026-11-06T08:00:00+00:00"
   },
   {
+   "category": "ai_workflow",
+   "title": "How to set up OpenClaw: managed and self-hosted methods",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jc1RCT255aldpaEFVT2Q1dENJTUJtZ05kSTlKVjdiMGlBZFA2T2kxOXEyLUJvbm9fc25JOHExbFBwbWQyY3hudS16ZVBOQm52TW1IbUYweld6V25ZSGRacU9UbThrcUM3M2RNRExlaw?oc=5",
+   "source": "Hostinger",
+   "summary": "",
+   "published": "2026-11-06T08:00:00+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "AI in the Workplace: 5 Ways Companies Are Using Generative AI",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13VUlCWi16QTc1QjRMTS1JbTlDVUxkdzlRT3p6aWhHTVBfZWxoZ29OWnBHVXpUQ01YZnY0d2hfUWU5anRWMF84cEVkMlVrTnlLVGd4ZUNJR1J2QVFKYV95SFM5bVlsMGotY2RzX0ZYMVI1Zw?oc=5",
    "source": "Britannica",
    "summary": "",
    "published": "2026-11-06T08:00:00+00:00"
+  },
+  {
+   "category": "ai_general",
+   "title": "Ex-OpenAI CTO's Startup to Release 594-Billion-Parameter \"Inkling 2 Small\" Next Week Under Apache 2.0",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83OGRsbFB4ajhUT0trdUhBLVMwb0wyV0FaOVA3Z3drb3N4S3EtYUpTdFdBa1JZNDJ4MlVKQm5rYlFBeDdZZmFDUkZLNkdHcmxQYnZsUXdOeTlpeWJEQ2Ridmo5dTdwQ2VwVDc1Z0ZhM1FQd0RuS2c?oc=5",
+   "source": "BigGo Finance",
+   "summary": "",
+   "published": "2026-11-06T07:36:00+00:00"
   },
   {
    "category": "web3",
@@ -635,14 +667,6 @@
   },
   {
    "category": "ai_creative",
-   "title": "You can post AI music straight to SoundCloud from ElevenLabs",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZThNNUVCVnNKN015VEpEVGFZN01VUzhZQnVGa0xRemd5YVpzQ1kzWGhpcEFTMXJiTkU3SFNyeUtlc0FvdzdjbXFQdm9MVVd6UU1oc21aNVg1SDkyaEJ2MkhWUTkwVkhqQ3JnWTFBOUZNRktzUXBILUZhY1JCSHFxY1VTOGVaUXktTjNpZExTN1NvV0E0?oc=5",
-   "source": "The Verge",
-   "summary": "",
-   "published": "2026-11-05T15:00:00+00:00"
-  },
-  {
-   "category": "ai_creative",
    "title": "How to teach design literacy in the age of generative AI",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM0RHMHZqVXpGbFV4cERMcXlHYnlKLUd2Ul93QjRtbjZVZXlaSFo3bGdWeGxnaHJPb1Ita21wQnU3akRrM2U0MXZSd1drSWlxcGxwa3YyMlpPbUJrQ2ozdk52elJNYnkxNWdWVEJWRE9ON1IzOXhSTU5GYlRfQTQ5MU41dWROSGozVVRaeG9QQ2s3dw?oc=5",
    "source": "University Business",
@@ -664,14 +688,6 @@
    "source": "Reuters",
    "summary": "",
    "published": "2026-11-05T14:06:25+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Polymarket Odds Today: GPT Astra Release, Apple vs Nvidia, Lions",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUk85bGxlelBzYkUxc05FLXBMUExmaHJnSnlQUjdUMGgzRGRObFBlY1hXc0poXy00dFVvRFpXckZUZVl2UGFHaGhmd1FBb3lWc3lZU0JESHFoN1dNUVZrbE9WSGJwUmpTUmc5VWtFUmpOMnhjYUgyY3hjaVZnR21yazZmZ0hCN0tkWGExOE1pNjg0Z0dxdzZzTGVtNUxreGJJdXp5dHdyU00yMTg5TXd4VFZUdw?oc=5",
-   "source": "RG.org",
-   "summary": "",
-   "published": "2026-11-05T13:59:51+00:00"
   },
   {
    "category": "web3",
@@ -763,14 +779,6 @@
   },
   {
    "category": "ai_workflow",
-   "title": "Your AI Agents Are Fast. Your Process Isn’t. Here’s How to Fix It.",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DLVJEUTFKRTZORnBOcUFDTWJaRWJZSWRvYU9ZNnF4ZVVtU3owZUFCbmR2enBybGFQSXVUdFhCRUpYcm15XzZheDFfV1JpM3NHb0Z3SmdVd2JXRTNtaVFqMGh4T0huSDNWbXpPT1FleDE4MFVVZHhyelhLdzZ0SzQ?oc=5",
-   "source": "Salesforce",
-   "summary": "",
-   "published": "2026-11-04T17:27:03+00:00"
-  },
-  {
-   "category": "ai_workflow",
    "title": "datasette-llm 0.1a10",
    "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
    "source": "Simon Willison",
@@ -813,6 +821,14 @@
    "category": "ai_workflow",
    "title": "Best AI Agents in 2026: 30 Tools Tested and Compared",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJWEF6NXdfZVZqYkVIdlF4cTBKdThTUFdvS3RHc0o1cnlRcEJ4MVFyem5jeXQ2bi13aWVDM0FyX05HaXl6UklNOVVqZw?oc=5",
+   "source": "Fello AI",
+   "summary": "",
+   "published": "2026-11-04T08:00:00+00:00"
+  },
+  {
+   "category": "ai_general",
+   "title": "The Ultimate Claude Model Comparison: Claude 4 to Opus 5.5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mWjlfRXNYLV81SWtXV09lOVhpelBOTTlBbmtnNTdDQnd5Wmw2OXIyRDVZVm1aRFlVVDU3TVZOVGJrczl0VmVRN3R6UnZtWC1aYWkxSW5OUnJ3bWVEc084YUcycw?oc=5",
    "source": "Fello AI",
    "summary": "",
    "published": "2026-11-04T08:00:00+00:00"
@@ -931,9 +947,9 @@
   },
   {
    "category": "ai_workflow",
-   "title": "How to fix the “Your connection is not private” error in 2026",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdnhTaFk5c3k0V3dJZ0dXYXBZWWNubUJ6bVRhc3p5TmdmYTl4UHRVZk9hUmtPMndObWpfSFFMd1F0NTVRc0IxdC1Cdm5Pa3FGeEJlTDR1MWVRRGxOZWg0RnAyUEpMRHpsWFMyeW5FcmczYllsMUZ2alZkSktHWHY1NURZYl8yWlR1OFdJclZwVEc?oc=5",
-   "source": "Hostinger",
+   "title": "AI marketing: how to use AI to optimise your marketing",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRYm5GZzAtbm83aWFjaHZwMEVXWG5xWklIVlJKN1RMdVhVT0hsanFYMFJCYnBzbWJqYnljYjdPcDJMXy1CbDNCWlN2d3dJU1BwZE1zblNfU0tRTnc?oc=5",
+   "source": "One.com",
    "summary": "",
    "published": "2026-11-03T08:00:00+00:00"
   },
@@ -992,38 +1008,6 @@
    "source": "World Economic Forum",
    "summary": "",
    "published": "2026-11-02T13:55:08+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "Popcorn raises $1M to build an Arabic-first AI filmmaking platform",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR1c5MlVMaFVxdy1PUEJHYlVjN0ZMWjlOaGNuUzlUdFBCdVdhX210d3d3LTRIYW5tX0cwVHpTU2FKVGxhNzFjeC1xX00waE1nTE5FT2pmVzZrR2l3ZXhJc3dSRDEwR2ZmWGQ0TE9MN3dmSThjc1lsSGgyTlRCN0ZOaklsWWdjNmJUTGN6YUJ2WmlVS2Znd21GeW9sQ2pHQTI2?oc=5",
-   "source": "Dealroom",
-   "summary": "",
-   "published": "2026-11-02T08:40:17+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "How to rank in Google AI Overviews: what Google advises",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TXlBNkdiLXJSbVVqazR3b1hJU2VWcTNQcHptdUNPVmxpc0dTVWl5X09pTmdFTllmSFY0aDRKdTZwR2tNRHdnaHdLcEk1SFAyWFpYd3ZiRGtKb01kSmk0NlRwbWd3S3N1?oc=5",
-   "source": "One.com",
-   "summary": "",
-   "published": "2026-11-02T08:00:00+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "Who's suing AI and who's signing latest: US newspapers sue Brave Software and Canadian publishers sue Anthropic",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5",
-   "source": "Press Gazette",
-   "summary": "",
-   "published": "2026-11-02T08:00:00+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Anthropic vs OpenAI: Who’s Winning the AI Race in 2026?",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wY1dnSDBYRURoU2FJUnhFUHlCZGRzcXNTa3JkYk9HRUFYbEd1MUxkSkZ1TXlRUG56bDI0eDducEZOWkpXbEhQRWphMUZXbmxMWXc?oc=5",
-   "source": "Fello AI",
-   "summary": "",
-   "published": "2026-11-02T08:00:00+00:00"
   }
  ],
  "errors": []

@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-10T07:30:55.014700+00:00",
+ "updated": "2026-11-10T10:12:08.440204+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
+   "link": "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own",
+   "source": "CoinDesk",
+   "summary": "The app will offer crypto trading, tokenized U.S. stocks and ETFs, and perpetual futures, all already available through Telegram.",
+   "published": "2026-11-10T09:59:17+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
+   "link": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
+   "source": "CoinDesk",
+   "summary": "The Capital Markets Alliance argues that the products fall under the Securities and Exchange Commission’s jurisdiction.",
+   "published": "2026-11-10T09:14:30+00:00"
+  },
+  {
+   "category": "ai_general",
+   "title": "Anthropic announces Claude Fable 5.2 and Mythos 5.2. They'e already solved black hole physics problems.",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGw3UFZ0ZUxYWk1VSm9nMXJUNkVIamQxQ1VsVlMtOElpV3ozckEwRWRlVkdrZUdDSkZwV1ZpODQtV1RYR2MxM0Z1UUo1LW9fSXBtZ3RJZ1RkT2hJRnJMQU5KRVZiQ3ZVSFBvM09sNG4taThSb3VKcjdiaEtGTWRDXw?oc=5",
+   "source": "Mashable",
+   "summary": "",
+   "published": "2026-11-10T09:13:58+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
+   "link": "https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "BitGo’s $71 million unrealized gain on its crypto holdings helped nearly double its net income, but revenue and earnings came in below preliminary analyst expectations.",
+   "published": "2026-11-10T09:05:16+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+   "link": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "US spot Bitcoin ETFs shed $201 million Monday, with seven straight sessions of net withdrawals from BlackRock’s IBIT totaling $1.66 billion.",
+   "published": "2026-11-10T08:02:05+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Securitize agrees to buy River One to expand into asset-backed lending",
+   "link": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Securitize agreed to buy River One to bring stablecoin funding to asset-backed lending and expects the deal to close in the fourth quarter of 2026.",
+   "published": "2026-11-10T07:49:14+00:00"
+  },
   {
    "category": "ai_workflow",
    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
@@ -70,7 +118,7 @@
    "title": "Yonkers Rises",
    "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
    "source": "Simon Willison",
-   "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed it's location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation…",
+   "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation…",
    "published": "2026-11-10T03:53:04+00:00"
   },
   {
@@ -95,7 +143,7 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVZ4cmpWODFEUlhtZEh6RGR3dU1tbjltQU1PTVpJOVJsbzdaVnhEUG1QZzVHeGRpYkNiYzRGQ19ZX2lHX3dvQW8ycDBYelBFdlR2QVFLQzlqVHA0c29vblBlUmstdHRXU2ZKQUpRSEhDdEUtTnpDZEtLOF9Zc1Q1cnFxcXlPRTJCMXdBVkluWHhHclVSTFNVQkd1UjA?oc=5",
    "source": "Cartoon Brew",
    "summary": "",
-   "published": "2026-11-10T00:51:19+00:00"
+   "published": "2026-11-10T01:38:55+00:00"
   },
   {
    "category": "web3",
@@ -156,8 +204,8 @@
   {
    "category": "ai_creative",
    "title": "Lawsuit accuses generative AI company of illegally profiting from Elvis Presley’s music",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVlpuZ0NlMzlQU2xkWDJTWFdNM3NvRnd0SWI3QUtNakdqUVZNOFd2YlFLaVNycnVsYnYyejJpdTZ4TGhLNjRpUFB3enhPemlVVklJY2lkUDNyc2w2YW5GNUJoUHdEdDVQU1J6RGE4dmltWVIyYVVMNDVQX3NmakhuUEk1WWxST2lKR0FxVVN3ODVrTlJhYnhwUXEzMkJUMlY0YzIwejRHSkViS1N6NHdEQXdybw?oc=5",
-   "source": "KFVS12",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcTd4YjVjdzBCb2ZVWnhEMDA4elBrNWVCNlJvdHA2ZkJyY1FuYTV5UVo3QzR6cE51NDhRdDJjY1VoUUNUUW84WjM2TXJmbGl2eXVIWUJ4ekl1M1Ewdl9PUTNYUy02OXVOZzRtUVRfRGoxeHVod2lobENmbXZ5eVJkTDI1X1oyU2VQYlVSV1pDN2dBd0JDSXh3NXQ2SVZSc2wyb2NLekNSNGNBOU9iVDI1ZW5sdUZsMHZUckHSAc4BQVVfeXFMUFZLZVZ4TmtYb2lueUN0LURmaFYxOU5sOVdUZlczdlozZEpPY0kyQlFMak1MazI0cXFOQi1lei11TXNjcFptTkQ4ZndBbEFuaFhWZ2tHSExNbVlpLWctREtCeVlkUEQ2b01jTk9YcXVveHJtU0V2ajRZWTl0bndwa1BDUnkzSmg4OGR5VV9uekhKRHNubnVjZ3RiVXlrY3ZrWDY3NENUUjNFRnhRaHVZZTQ0QWFST01xSDdaU0dhaEN0LTk2RFZDNHlqNHFHUlE?oc=5",
+   "source": "Action News 5",
    "summary": "",
    "published": "2026-11-09T21:37:00+00:00"
   },
@@ -250,6 +298,14 @@
    "published": "2026-11-09T19:24:51+00:00"
   },
   {
+   "category": "ai_creative",
+   "title": "Instagram Launches AI Filter Builder for Custom Stories Effects",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTnZkWmFLV2xOLU0xaWk0bTdnVFl4Q0NXckw2RXVIZzNkQVY2S2tJb2FvNEcySnRzSWNHVW0tcmRab2xQNlZkajgxQU5Fcmk3UDNyV3BJX1dRckh5ZjN3MlY3bkc3UnR2Mkp6VWx6Nkh2Yno0RjBhdmhHUUN4R0k1M09WT3BUVGIzQk9vQW8wUWtyLURKNi1hQzM0OW0?oc=5",
+   "source": "The Tech Buzz",
+   "summary": "",
+   "published": "2026-11-09T19:07:22+00:00"
+  },
+  {
    "category": "web3",
    "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
    "link": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
@@ -330,12 +386,12 @@
    "published": "2026-11-09T17:46:02+00:00"
   },
   {
-   "category": "web3",
-   "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-   "link": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.",
-   "published": "2026-11-09T17:41:02+00:00"
+   "category": "ai_workflow",
+   "title": "Sequoia Quits London After US Team Lands Buzzy European AI Deals",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZFJOOU1yemI0b0Uyc24xbTJQWExVN0FFbzBfZE1oT0QycnlsY0l4OTFNTVNJUTdwb0xkbkNzcHQ1SW9lcGJvYlUxY05LdUN6VkpZUlNISGV1VWZiMkZiVFFzNXlLZldtc19Obm1ZVFlWbGNQQWVDM2tKa09SUlNvM2tsUDFiVERGcC1nQ0dhUlh4THBfc2JrUjV6QkNDQXE3d1hYVzlpb295ejF1M3lYU1NkWk1GUQ?oc=5",
+   "source": "Bloomberg.com",
+   "summary": "",
+   "published": "2026-11-09T17:32:12+00:00"
   },
   {
    "category": "web3",
@@ -344,14 +400,6 @@
    "source": "Decrypt",
    "summary": "The Ethereum co-founder says ETH's value comes from stability, not fee burns, citing its decentralization, censorship resistance and security.",
    "published": "2026-11-09T17:14:10+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
-   "link": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares.",
-   "published": "2026-11-09T17:13:25+00:00"
   },
   {
    "category": "web3",
@@ -435,14 +483,6 @@
   },
   {
    "category": "web3",
-   "title": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
-   "link": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Binance’s pledge to cover all user losses helped contain the fallout from the $6.3 billion hack, analysts said.",
-   "published": "2026-11-09T13:52:46+00:00"
-  },
-  {
-   "category": "web3",
    "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
    "link": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
    "source": "CoinDesk",
@@ -472,22 +512,6 @@
    "source": "Decrypt",
    "summary": "Space and Time Enterprise uses Proof of SQL to prove calculations on private business data without exposing the records to AI agents.",
    "published": "2026-11-09T13:01:02+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-   "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
-   "source": "CoinDesk",
-   "summary": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading.",
-   "published": "2026-11-09T12:41:35+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-   "link": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
-   "source": "CoinDesk",
-   "summary": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens",
-   "published": "2026-11-09T12:37:13+00:00"
   },
   {
    "category": "ai_workflow",
@@ -570,22 +594,6 @@
    "published": "2026-11-08T16:15:00+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "Best AI Marketing Tools for Solo Founders: 8 Picks (2026)",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TQ0ZZemZKbkxsZmhkaEtWSS1jX2VXU0FGbUVUTHZBT1F3ZzhWTWdLb1NiZjd4aHBwQllYUC1uMFlBTUJmTUVWWDctUi1YektDNUdiSnVOV2cxeXhMTXMzaU4xT1Z4akdGclNlRVVHT2Q2d1pVLUpSSWF3?oc=5",
-   "source": "laptopandcoffee.com",
-   "summary": "",
-   "published": "2026-11-08T07:38:36+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "Elvis Presley’s music owners file new lawsuit against AI music generator",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDZ5MEM0Q0tXVWR1NHRrLW1ja2RuSWpRRFdqdGE5eHRFWkE5REFyZWpmNG1LQTBoS2oxYzJhSWR4TDBDSjFTUmV6TmdTZTMtbWxTRzRNQngxQmoxelZDTHUtY1RCd0o0dHJQREVjRnF4T29WNDhvaUdPOU8xWVJDa1p4UHRjc3dTRlBOVHdFcFpHNElIc0Jtanc0NzBUWGczb0xvQzZRVk93RFRFUV93WlQxSQ?oc=5",
-   "source": "WREG.com",
-   "summary": "",
-   "published": "2026-11-08T04:45:34+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "Elvis Presley Enterprises suing AI music generator Suno over copyright infringement",
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOdDkzSVM1aVBaWlMyR1lnUm9qQjFUSXZyYVpZaTFWdm84QWQwSjBhVjI3RG1xc19CckZfNWwyZzhPQ0N0dEpST2t2RHp6ZnpWZi1nSEVhejRHVkFyd0s5VWVpREhyZEt2X05NWDRobXNWM2ltZzBxMmJxQ0FVd1pCbjBzdHd3Z1FXZ1V1dVJ2azNucHNydnh4RV9YREZoT0JpRXNTRWdkUmJEUzBGTlZGV3laSWNyU0RjX2dzZG1jY0p3SEJDbnFKMkRLZ1JKZEtGQ0RTbVBJU0JLaDZXUWdjNFUwNnBreE8tNlYtOUx5NkNBOTJYTmhfQmRlOU5SbGk5UE5tTGREb0lkWDRHaUpyQXhR?oc=5",
@@ -619,11 +627,11 @@
   },
   {
    "category": "ai_creative",
-   "title": "Generative AI In Architecture Demands A Shift Toward Curatorial And Ethical Oversight",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDNjcTdKSnhKazdTV25rSmRIVUIxTDVCZ1BpSVhUUHU5dG5Gb3JfNHJscThOVnU2bFF6SWtFOHlYWEhVUDY3X0lFR3NzbzUyRXhjVnEzTUs1Zm5ZTm5zQWo1MzZxcWZiWHB3R1BTWFNOMk85emVQUDlaMUk2ek04QnB5TmVIbERGVzNKeVJkdXVLRDdMVWxHSzA3U05SdzVQWHJYVWNXcEVHSHZYYTNB?oc=5",
-   "source": "Bioengineer.org",
+   "title": "8 Best AI Filmmaking Tools",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82UGpIWXh5TlEyWXBFbVZSQlUyNEFEZmg5U0c0aUVjSDM4Q2UzeTBnY3VWQlRST2dKUDluTm1PWkFvbzhKeHRoOXBDSmVMTWpDRWZ0eDFaa0xTYW5MbVVVZQ?oc=5",
+   "source": "TechBullion",
    "summary": "",
-   "published": "2026-11-07T09:07:28+00:00"
+   "published": "2026-11-07T08:19:55+00:00"
   },
   {
    "category": "ai_creative",
@@ -706,14 +714,6 @@
    "published": "2026-11-06T11:00:22+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "435: AI Agents Are Tamagotchi (hak)｜Rebuild.fm",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MN3AtMHhnbWJWeGllNmJ3UENTQXBjQVlBZzRERFpmQ0tiajZfUG1yamJGdi1vVG12UXhuX1doRk1rZ0pGRkhITi1fbWtOSXZUNzVlZjgwNEJLbUJaM3dN?oc=5",
-   "source": "finance.biggo.com",
-   "summary": "",
-   "published": "2026-11-06T08:52:14+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "‘Kamen Rider’ Studio Toei Frames Generative AI Rules, Sets First Video Games for 2027",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0lkZHhSUUtKNkU3Rlp6bk9BemdIcTFhZWNqeDFOR1RYbnRETjJEc0ZVaUZUcUliN3NrOWV6RzBLWVJwWEJXQ0xtVS1RTFI0VmJzdElCNXk4Y2ZVd2YzUTZ1QUtodFRwRDJLemkzdWc4ZXhjY201cE85aVlIN1NUUkdGSXpNWnA3NC1UV3V2SHRGMDNfVi1kaGk1ZnpWVlpiNk4xSWJoT2I2Ul9kaWtRWWUxTVV3bW1G?oc=5",
@@ -778,6 +778,22 @@
    "published": "2026-11-06T00:00:00+00:00"
   },
   {
+   "category": "ai_creative",
+   "title": "Chic Legend Nile Rodgers Challenges Fans Criticizing His AI Music Video",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWtvMFVFSFdzMncyUjdvZTZ4MjRYbFB0TTF1UVhHMDMybkx6ZkpQNTZSUk5kZDE3dHQxUnFCU3lDU3dLRGk4U2FTVmhBSUk0WFcweC1DS2lfd3VaelR4YWhZcEVvWWpDWTl6czk2RnBNYUoxazZ2S3kxeW1Gc0ZJRGFrWG8zWUZHUGxmY3VreDlCU0s4UHdOOFB3aHhRTVR2VTN4VThveDdCOGNSb1BJNmRB?oc=5",
+   "source": "Yahoo",
+   "summary": "",
+   "published": "2026-11-05T20:49:08+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "You don’t have to be a developer to benefit from vibe coding",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnNKWmM5S1dmSzJWUWJSVXRQNFpXcFdjQ1FKbGtmS0hkUG9KbzhnRG9VZUJjSy1aa2YzRUx6Q3lyaEhFRFZKeU5ucmZUdWc1RFdqbVU2WnpfRnZVRHllNDl0c2NLSGtoZEkyLVlrYm5HMUt6MnU1dmdKYmFHQXNZaDV6Wm1xemk4X2lLbUFtMVFwTFp4V2VuaVd2aU40b2VpaWo1azM3SnV2YkRpYzgxWW1TaV9UQmNwZDM2ZEJyZUNtbnFxajRtVg?oc=5",
+   "source": "www.presspublications.com",
+   "summary": "",
+   "published": "2026-11-05T18:30:09+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "Quoting Paul Ford",
    "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
@@ -800,14 +816,6 @@
    "source": "The Register",
    "summary": "",
    "published": "2026-11-05T17:00:00+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "ElevenLabs Adds Direct SoundCloud Publishing for AI Music",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IdUM1Znl2VTlPTmVHM2tFYUJYUmRQeHpuM1pWMEFKRTBzWEJyZzFvWUdQZG10N1ZjTXBGczF5WmxWclBVNEsxNEJZRExHNVRjRW5lX0xNNVRJNkRjZVR4T1AycUNHRjJ1bFFXb19NQWQya3pfTnc?oc=5",
-   "source": "SQ Magazine",
-   "summary": "",
-   "published": "2026-11-05T16:45:17+00:00"
   },
   {
    "category": "ai_workflow",
@@ -912,14 +920,6 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-04T17:50:10+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "OpenAI Safety Lead Quits After 12 Model Launches [2026]",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JdnpEVmZRX1gzRDJsY3pfN2NPMF9wMGhSREVxcHBwWFhPQ054TDU0ZUpjVUZmb2xmMnlwVVFwWTFEMHNKZGlNTWM5ekJsM0txMHJWWkhjWXRHUlVTUUlMcGRzd3lGR1lVTjd2MlJ2cmc?oc=5",
-   "source": "shattered.io",
-   "summary": "",
-   "published": "2026-11-04T15:22:26+00:00"
   },
   {
    "category": "ai_creative",

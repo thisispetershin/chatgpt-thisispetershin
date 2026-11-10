@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-10T04:10:02.934360+00:00",
+ "updated": "2026-11-10T07:30:55.014700+00:00",
  "items": [
+  {
+   "category": "ai_workflow",
+   "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+   "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+   "source": "Simon Willison",
+   "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model…",
+   "published": "2026-11-10T07:28:21+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+   "link": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
+   "source": "CoinDesk",
+   "summary": "Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money to the right place anyway.",
+   "published": "2026-11-10T07:01:06+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Here’s what happened in crypto today",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "published": "2026-11-10T06:00:00+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "Quoting Prompting Claude Fable 5.2",
+   "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+   "source": "Simon Willison",
+   "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as…",
+   "published": "2026-11-10T05:34:14+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+   "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+   "source": "CoinDesk",
+   "summary": "MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters.",
+   "published": "2026-11-10T05:18:31+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "MIT Secures Up to $52.9M From ARPA-H for Generative AI Herbicide Design",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV3pZUTBYWHVqU2hRSW1fTVBqNkQ0Vllpbjc0aGYtaHRveWhXYk5Sa2M3aVJTaFpWUGhtYUE5MFl0YWhWekJ0a2hOd1hmM3NhTmJmNVlhaVFnczhOSWZIcGl1NG5INmlMTm13bFpsNDdjWFBud3lvRk9BTFEwVEEwQ3hrUkhLbFV1WEhOVDZrVXktWm1yT2xN?oc=5",
+   "source": "Unite.AI",
+   "summary": "",
+   "published": "2026-11-10T05:15:22+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
+   "link": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "“Cold storage is a useful measure of online exposure, but it is not a standalone security score,” the cybersecurity firm told Cointelegraph.",
+   "published": "2026-11-10T05:05:58+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+   "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+   "source": "CoinDesk",
+   "summary": "The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028.",
+   "published": "2026-11-10T04:51:20+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "Yonkers Rises",
+   "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+   "source": "Simon Willison",
+   "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed it's location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation…",
+   "published": "2026-11-10T03:53:04+00:00"
+  },
   {
    "category": "web3",
    "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
@@ -34,19 +106,11 @@
    "published": "2026-11-10T00:42:39+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "Disney Partners With Adobe On AI Tools That Turn Artists’ Sketches Into Finished Concept Art",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY3J4Nm9oX21nd0pIVzF5MUtFOEE1Q2JRb3dha2xrMXN1c205U0NmOWF0ME5zZUxaemk2ek85ckxmOVpQdVQ4MWtlTG8wblJTZHdxR0wyeEwweWJEclBQNkxGV0VxVXAxNHBGVE9UbTBxSGRBVVQwbVNXVEpkSHFxLXFlV2h0eXdKZGJaNXFpY1VfRDhnc1lwczBQeFlsTFU3bVZ3cw?oc=5",
-   "source": "Cartoon Brew",
-   "summary": "",
-   "published": "2026-11-10T00:25:56+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "llm-anthropic 0.31",
    "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
    "source": "Simon Willison",
-   "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic…",
+   "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it \"solved two open problems in the physics of black holes\", so…",
    "published": "2026-11-09T23:58:46+00:00"
   },
   {
@@ -82,12 +146,12 @@
    "published": "2026-11-09T22:20:21+00:00"
   },
   {
-   "category": "web3",
-   "title": "Here’s what happened in crypto today",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "published": "2026-11-09T22:06:26+00:00"
+   "category": "ai_workflow",
+   "title": "AI Agents Can’t Talk",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Qa2hadkdxQ21PMTNLYXBacjdxTHBoZDU5cWlIQjNlSW1OMjVBV0hfeWxqQTRVVXVJT2VxRF9GQ1ZIbmZLVGEzOTRrVjkyalNpV20zNkJhLXhESkkyN2Zn?oc=5",
+   "source": "Communications of the ACM",
+   "summary": "",
+   "published": "2026-11-09T22:15:31+00:00"
   },
   {
    "category": "ai_creative",
@@ -96,14 +160,6 @@
    "source": "KFVS12",
    "summary": "",
    "published": "2026-11-09T21:37:00+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Anthropic announces Claude Fable 5.2 and Mythos 5.2. They'e already solved black hole physics problems.",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGw3UFZ0ZUxYWk1VSm9nMXJUNkVIamQxQ1VsVlMtOElpV3ozckEwRWRlVkdrZUdDSkZwV1ZpODQtV1RYR2MxM0Z1UUo1LW9fSXBtZ3RJZ1RkT2hJRnJMQU5KRVZiQ3ZVSFBvM09sNG4taThSb3VKcjdiaEtGTWRDXw?oc=5",
-   "source": "Mashable",
-   "summary": "",
-   "published": "2026-11-09T21:27:07+00:00"
   },
   {
    "category": "web3",
@@ -146,6 +202,14 @@
    "published": "2026-11-09T20:16:02+00:00"
   },
   {
+   "category": "ai_creative",
+   "title": "Disney Partners With Adobe On AI Tools That Turn Artists’ Sketches Into Finished Concept Art",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY3J4Nm9oX21nd0pIVzF5MUtFOEE1Q2JRb3dha2xrMXN1c205U0NmOWF0ME5zZUxaemk2ek85ckxmOVpQdVQ4MWtlTG8wblJTZHdxR0wyeEwweWJEclBQNkxGV0VxVXAxNHBGVE9UbTBxSGRBVVQwbVNXVEpkSHFxLXFlV2h0eXdKZGJaNXFpY1VfRDhnc1lwczBQeFlsTFU3bVZ3cw?oc=5",
+   "source": "Cartoon Brew",
+   "summary": "",
+   "published": "2026-11-09T19:56:21+00:00"
+  },
+  {
    "category": "web3",
    "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
    "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -179,27 +243,11 @@
   },
   {
    "category": "ai_general",
-   "title": "Anthropic Says Its New AI Model Can Solve Black Hole Mysteries. What Could Go Wrong?",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUpwNENsd2F4ZThIYnFmRTZBNk55UFQ1dk1ZdG00REZINnF3ZTRpcThWNFlDY3ZsWUdKZDJmWVZRRWt1UDBfem9zelA5Y2xYWkpuNEpPNHBqaUxxbmp3UUtLQTc1cm1nVjYxNzlDQ1dSZXRCeHoxaGhhNXBiVGdZR0MtaUtvbWV3ejNVemZleHBCd0Q4T2JEVnZ4emp2VExicmdOamtnZVY5N0NmMHRyc2dpY3U?oc=5",
-   "source": "Gizmodo",
-   "summary": "",
-   "published": "2026-11-09T19:32:15+00:00"
-  },
-  {
-   "category": "ai_general",
    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2Yta1hDZm1QakE4S2RXZTd0UXR0N2V5QVdtdFNxQVBZQW9XVklvODB3WGR1Wmc3Vk5tV1VoX1ltVHVEd0liM2Fka1Q2NS1nRVdMSWZKLVJQTUd6Wm9xd3JWWGlwX2M3Mkl2cjlIS0pSdUFmZEdWaWtkQnItbmRvaVRudDFnVXdGMmY4Vi1aLU9ma2RDM2VWd2loMGI3aE1i?oc=5",
    "source": "TechCrunch",
    "summary": "",
    "published": "2026-11-09T19:24:51+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "Instagram Launches AI Filter Builder for Custom Stories Effects",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTnZkWmFLV2xOLU0xaWk0bTdnVFl4Q0NXckw2RXVIZzNkQVY2S2tJb2FvNEcySnRzSWNHVW0tcmRab2xQNlZkajgxQU5Fcmk3UDNyV3BJX1dRckh5ZjN3MlY3bkc3UnR2Mkp6VWx6Nkh2Yno0RjBhdmhHUUN4R0k1M09WT3BUVGIzQk9vQW8wUWtyLURKNi1hQzM0OW0?oc=5",
-   "source": "The Tech Buzz",
-   "summary": "",
-   "published": "2026-11-09T19:07:22+00:00"
   },
   {
    "category": "web3",
@@ -224,6 +272,14 @@
    "source": "CNBC",
    "summary": "",
    "published": "2026-11-09T19:00:01+00:00"
+  },
+  {
+   "category": "ai_general",
+   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWctMWdSek1tY1pVaWg4SXBfcHFRR0VYTHprRUI4OHFNZWs1VGp2YU5yUVJQdDNSVkVXS01uMmx0b0dOemlFZjFQNUVibmN3UkU2VkpvWDFkUG1qNnpobDZiVkF3VjlUOVBfdzNfVWJLcm52a2VIcjhJMDY0ZUg1dnJjR2dqZTdxQjh2N18wY3BhS2ctN0k3RA?oc=5",
+   "source": "The Verge",
+   "summary": "",
+   "published": "2026-11-09T19:00:00+00:00"
   },
   {
    "category": "ai_creative",
@@ -307,11 +363,27 @@
   },
   {
    "category": "web3",
+   "title": "Bitcoin and Ethereum Just Hit Their Lowest Prices Since August After $1 Billion in Liquidations. Where Do Analysts Say They Bottom?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVNEeFpkbjRXWUFQbU1mVEtKYk5PSWNlYm9qM0U4aGtUcVd1NzA4Yzl2QzczcWJFdFAtS2lQeENFdUVpUGtzRl9UMjdkMFFXUWJ5X19BWTA5SFpCcS1rRzZCX2JLWU1WTHN1dDZFSmZZaVZnVm5rNnV3UmpFNFVSOTI1aEtNZEJ5al9kcXdSMFlaaDkzVWRPRzZvLUtEdw?oc=5",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "published": "2026-11-09T17:01:15+00:00"
+  },
+  {
+   "category": "web3",
    "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
    "link": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
    "source": "CoinDesk",
    "summary": "The AntPool block came within 984 transactions of Bitcoin’s 2015 record, even as fees made up less than 0.1% of the miner’s payout.",
    "published": "2026-11-09T16:19:45+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "Microsoft’s Project Zenith Arrives On AMD Ryzen AI Halo, Bringing Ready-To-Code Windows 11 To 192GB AI Mini PCs",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdGRkNE1Vbm9wNGtaVGFNc0ZqQnBGa0pkNXQzOUF1Y0F0RHFHVUdhZEhNeGlaSmhRXzV1VS1wY2FobFM2NVVPenRIWm8ybXpJYVNjUnFEcnFBYW9iWDNpV1lOWGtBSVh1b0pkdWtGbjZLWExMZ3lIYmNScXVrUmI3U09DQVRITDFKX3RVbjhjVGMyQk96QURhOWY3Qm9iZDd1RVlheVFfZ0FlSHBvLVZZX2MzMml3QXFjbTdQZXhwNXpDQ1BWLWhheTlJWdIB0AFBVV95cUxPYzNjYk9VQXViNHUyMFhsVEZoYjM5YWdaSTVRX3NCb0YzYWFkdFRWbHFISF9VQWwzLVVWMk9qNE1SZGo1N3c1OE5lM2JxeHZXTnhybnNjUnBJNW82RGtwMUJFS19JY3N6X3FIb3B1Sy1SclA3MnNBOTg4SGQ1Y01JWkJkRHo0aVdyYmlDY01lSUdnbVNZUEpvdFcwb3JUNlRqOXUtWjRsUzMxOTBjUFhZZHBtUnlUMDR6M1N6TWJkbXVjX19QenpKei1TSXhBVEp3?oc=5",
+   "source": "Wccftech",
+   "summary": "",
+   "published": "2026-11-09T15:59:40+00:00"
   },
   {
    "category": "web3",
@@ -379,14 +451,6 @@
   },
   {
    "category": "web3",
-   "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
-   "link": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of listing coins.",
-   "published": "2026-11-09T13:30:00+00:00"
-  },
-  {
-   "category": "web3",
    "title": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
    "link": "https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc",
    "source": "Decrypt",
@@ -434,14 +498,6 @@
    "published": "2026-11-09T12:34:29+00:00"
   },
   {
-   "category": "web3",
-   "title": "Bitcoin bulls can't rely on ETF flows",
-   "link": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
-   "source": "CoinDesk",
-   "summary": "Your day-ahead look for Nov. 9, 2026",
-   "published": "2026-11-09T12:30:00+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Report - Same Gatekeepers, New Gateway: AI Agents, Monopoly Power, and Democratic Risk",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSEFtbmxkdnhfVGR4UWRQRnV6WlVRcFZnd251X0hzT05DZ0kwOUZvSlpWTnVMUUd2OU54bFp4T3pEUUh6b1d6TW4wX0tUNFdfcGwxX2twd0piVnk5ZG1QSUVEa3p2eGZTZHhTa2hPSnA1MWt5UzJPYWhYQnFKMm5LclBNd19SRTRCRzVWR0RYTmxhRnItcGlkUHNxS0pvRk1ad2ZQcE5vSS0xUGVfZkZaWXFoTWVtSTZfTE9SOXlubnhEb3dfdFVPMXNB?oc=5",
@@ -450,28 +506,12 @@
    "published": "2026-11-09T11:57:34+00:00"
   },
   {
-   "category": "web3",
-   "title": "Nvidia-led tech selloff weighs on crypto majors",
-   "link": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
-   "source": "CoinDesk",
-   "summary": "Only five of the top 100 cryptocurrencies by market value are up 1% or more over the past 24 hours. That is the state of the market today.",
-   "published": "2026-11-09T11:42:04+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Claude Code settings.local.json Secrets: 17 months of exposure on GitHub, & Docker Hub",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdFZaOThqNmVrQVBCVkRzTzdqU0dOX2c2UFc3b2pmRWhodVk1d2x1Y0kyaGxKbzZ3R2IySTlFR1MzMURtSTdjRC15ZmQwNllaRTdMMUgzUUkzYmtuRUdtdEFpdmpGRTV0UEdPNjZxdVJMNEhab0Q1Njg0OEQ2enkzUGlnTXpSR1k?oc=5",
    "source": "GitGuardian Blog",
    "summary": "",
    "published": "2026-11-09T11:06:08+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
-   "link": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
-   "source": "CoinDesk",
-   "summary": "Early data shows Zcash's orphan-block rate holding close to pre-upgrade levels despite blocks arriving three times faster, encouraging developers to push for another reduction.",
-   "published": "2026-11-09T10:52:49+00:00"
   },
   {
    "category": "ai_workflow",
@@ -570,14 +610,6 @@
    "published": "2026-11-07T19:34:24+00:00"
   },
   {
-   "category": "web3",
-   "title": "Ethereum ETH (ETH-USD) Live Price, News, Chart and Price History",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TZkNwOEhGSDZJZkNPeVAxUXR3Y3hHNW1DVHd6ZFk1WmcwXzFVamZsc1pjSVVVZEdfdzJrRHFfV21yV1pxdzROV1JvSmRDN243dFlodHZB?oc=5",
-   "source": "Yahoo Finance UK",
-   "summary": "",
-   "published": "2026-11-07T19:19:15+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Securing AI Agents: Lessons From Real-World Deployment",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGM5ODY5TGc1T0NjVGhjY1M2d09xeWRqZ1p2MS1HVW5fZEVjdzJ4S1UtTmtFVW9HTnF6QnRqZ0s0Y2dwdFpVd3RHVmRqaE0weEx2V3pnN3FPaGR4czdNZg?oc=5",
@@ -592,14 +624,6 @@
    "source": "Bioengineer.org",
    "summary": "",
    "published": "2026-11-07T09:07:28+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "8 Best AI Filmmaking Tools",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82UGpIWXh5TlEyWXBFbVZSQlUyNEFEZmg5U0c0aUVjSDM4Q2UzeTBnY3VWQlRST2dKUDluTm1PWkFvbzhKeHRoOXBDSmVMTWpDRWZ0eDFaa0xTYW5MbVVVZQ?oc=5",
-   "source": "TechBullion",
-   "summary": "",
-   "published": "2026-11-07T08:19:55+00:00"
   },
   {
    "category": "ai_creative",
@@ -778,6 +802,14 @@
    "published": "2026-11-05T17:00:00+00:00"
   },
   {
+   "category": "ai_creative",
+   "title": "ElevenLabs Adds Direct SoundCloud Publishing for AI Music",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IdUM1Znl2VTlPTmVHM2tFYUJYUmRQeHpuM1pWMEFKRTBzWEJyZzFvWUdQZG10N1ZjTXBGczF5WmxWclBVNEsxNEJZRExHNVRjRW5lX0xNNVRJNkRjZVR4T1AycUNHRjJ1bFFXb19NQWQya3pfTnc?oc=5",
+   "source": "SQ Magazine",
+   "summary": "",
+   "published": "2026-11-05T16:45:17+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzZUxjRGJ5S3V3ZXpCcGpSLXdkZGU4NFE4VXRUakgtbkt6UHlnZ3lQT2k2M2VZRTEyUGZVVGc1VXlwZEJpR2tJVXF0YV9pRUtNd0M1bWN5Mi1KMVUwUXpUeGxVUWhOV041Z0FHRFl1OXVBaEt4N1I4S9IBfkFVX3lxTE9DNEZYVVN2WXJWdFhtWXlzQUlBcW1yZHF5c2h4QkdXT19BVGRzYllFMWhfUnhzOFZja192bDVfV1lTWDFWTS1OZXR5eExGWHF2cG1kVFNjWjFEMGhxcDNLSk5qY2hFNkUydERiRDI3R28zUUIwbm4tRFF6ZFd3dw?oc=5",
@@ -826,6 +858,14 @@
    "published": "2026-11-05T09:54:16+00:00"
   },
   {
+   "category": "ai_general",
+   "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fS2w0NHNjZzd4OFBHcklxdzBmYmdnV2hyQ0xKVHA0Tm1ENFY3Z1FsemZNZ2J1eU9Xa2VQSExGTEVmOVpiYkJrZVpjRUlnMVRNUnlxTEdWSWVsZ2JFR0UxU2dKd2FXOXJDN2dTOUZmZk5UdTVJdS1jdEtRM1B6QQ?oc=5",
+   "source": "METR",
+   "summary": "",
+   "published": "2026-11-05T08:00:00+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "Enkio MCP Brings AI Music Video Creation to ChatGPT and Codex",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObUdqTmxuYWQ0MzhiNnhwNmNNMGNWREdFWkNNX3RRaUlyWXNPRXR6NjduTkQ1OER0c2JJdklXdTJCX1NlbUNnZ3hsYkRIZkp1Q055UmFvU3p0d3RTQXFUSldWdHV5emtwaDZySU1lV0dxUlBranVCWW1DM1M2MndTc0NPQTZ3WXNJb183Y3pVRlJSVkE2VWZfOWN4U1BheTFQZ1dYNXZHX2lPTDVRQThOcHk3NXk0eURxY2IxRA?oc=5",
@@ -872,22 +912,6 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-04T17:50:10+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Your AI Agents Are Fast. Your Process Isn’t. Here’s How to Fix It.",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DLVJEUTFKRTZORnBOcUFDTWJaRWJZSWRvYU9ZNnF4ZVVtU3owZUFCbmR2enBybGFQSXVUdFhCRUpYcm15XzZheDFfV1JpM3NHb0Z3SmdVd2JXRTNtaVFqMGh4T0huSDNWbXpPT1FleDE4MFVVZHhyelhLdzZ0SzQ?oc=5",
-   "source": "Salesforce",
-   "summary": "",
-   "published": "2026-11-04T17:27:03+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "datasette-llm 0.1a10",
-   "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-   "source": "Simon Willison",
-   "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: llm , datasette",
-   "published": "2026-11-04T15:26:02+00:00"
   },
   {
    "category": "ai_general",
@@ -939,22 +963,6 @@
   },
   {
    "category": "ai_workflow",
-   "title": "datasette-apps 0.3a0",
-   "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
-   "source": "Simon Willison",
-   "summary": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette…",
-   "published": "2026-11-04T00:29:36+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "datasette-agent 0.5a0",
-   "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
-   "source": "Simon Willison",
-   "summary": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a…",
-   "published": "2026-11-03T23:13:45+00:00"
-  },
-  {
-   "category": "ai_workflow",
    "title": "No-code automation with AI agents, what you can really get done",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tam1pWEVUX3Z1TktpbUwyWjVKdHRMRlhDLW1ZZlNXc2Z4ZTNQeVNTeWhFSFdCdWFyVzkteUVzX0l1ZDh6MkZuRFhFMXlyeDdVdzFPYlU1WS1VVGEtVm1mQzRkY05nNTB0ZHV1akpoS29kOU1YNEs4?oc=5",
    "source": "Pasquale Pillitteri",
@@ -984,22 +992,6 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-03T16:35:36+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "AI for Founders: Chatbots vs AI Agents vs Automation Explained",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nMVJvN2ktNUw1ODZndmRualJQQjRLYm5mMWVjUm9RQUVuckhaSmJTXy1VWEI2NzNRbHpxLVlaYVJ3NDhfMjM3Z0tjc1pQZWtL?oc=5",
-   "source": "YouTube",
-   "summary": "",
-   "published": "2026-11-03T12:00:21+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Progress on provable inference for large language models",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5",
-   "source": "Anthropic",
-   "summary": "",
-   "published": "2026-11-03T04:43:45+00:00"
   },
   {
    "category": "ai_workflow",

@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-10T01:24:34.801409+00:00",
+ "updated": "2026-11-10T04:10:02.934360+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+   "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+   "source": "CoinDesk",
+   "summary": "Bitcoin trades below $75,000 ahead of the October inflation data. Analysts warning that sustainable recovery depends on improving liquidity and spot ETF demand rather than temporary macro relief.",
+   "published": "2026-11-10T03:22:26+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+   "link": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Control Room cuts off model output for internal research jobs when people or automated monitors flag safety or security concerns.",
+   "published": "2026-11-10T03:04:54+00:00"
+  },
   {
    "category": "ai_creative",
    "title": "AI Account Rips Off Animated Short To Promote Filmmaking Classes",
@@ -11,19 +27,19 @@
   },
   {
    "category": "web3",
-   "title": "HIVE’s Bitcoin output jumps 49%, but mining revenue still falls",
-   "link": "https://cointelegraph.com/news/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+   "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
-   "summary": "HIVE’s mining revenue fell 7.4% despite higher production, while its AI hosting business grew 71%.",
+   "summary": "Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses.",
    "published": "2026-11-10T00:42:39+00:00"
   },
   {
-   "category": "ai_general",
-   "title": "Anthropic announces Claude Fable 5.2 and Mythos 5.2. They'e already solved black hole physics problems.",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGw3UFZ0ZUxYWk1VSm9nMXJUNkVIamQxQ1VsVlMtOElpV3ozckEwRWRlVkdrZUdDSkZwV1ZpODQtV1RYR2MxM0Z1UUo1LW9fSXBtZ3RJZ1RkT2hJRnJMQU5KRVZiQ3ZVSFBvM09sNG4taThSb3VKcjdiaEtGTWRDXw?oc=5",
-   "source": "Mashable",
+   "category": "ai_creative",
+   "title": "Disney Partners With Adobe On AI Tools That Turn Artists’ Sketches Into Finished Concept Art",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY3J4Nm9oX21nd0pIVzF5MUtFOEE1Q2JRb3dha2xrMXN1c205U0NmOWF0ME5zZUxaemk2ek85ckxmOVpQdVQ4MWtlTG8wblJTZHdxR0wyeEwweWJEclBQNkxGV0VxVXAxNHBGVE9UbTBxSGRBVVQwbVNXVEpkSHFxLXFlV2h0eXdKZGJaNXFpY1VfRDhnc1lwczBQeFlsTFU3bVZ3cw?oc=5",
+   "source": "Cartoon Brew",
    "summary": "",
-   "published": "2026-11-10T00:08:54+00:00"
+   "published": "2026-11-10T00:25:56+00:00"
   },
   {
    "category": "ai_workflow",
@@ -76,18 +92,18 @@
   {
    "category": "ai_creative",
    "title": "Lawsuit accuses generative AI company of illegally profiting from Elvis Presley’s music",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcTd4YjVjdzBCb2ZVWnhEMDA4elBrNWVCNlJvdHA2ZkJyY1FuYTV5UVo3QzR6cE51NDhRdDJjY1VoUUNUUW84WjM2TXJmbGl2eXVIWUJ4ekl1M1Ewdl9PUTNYUy02OXVOZzRtUVRfRGoxeHVod2lobENmbXZ5eVJkTDI1X1oyU2VQYlVSV1pDN2dBd0JDSXh3NXQ2SVZSc2wyb2NLekNSNGNBOU9iVDI1ZW5sdUZsMHZUckE?oc=5",
-   "source": "Action News 5",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVlpuZ0NlMzlQU2xkWDJTWFdNM3NvRnd0SWI3QUtNakdqUVZNOFd2YlFLaVNycnVsYnYyejJpdTZ4TGhLNjRpUFB3enhPemlVVklJY2lkUDNyc2w2YW5GNUJoUHdEdDVQU1J6RGE4dmltWVIyYVVMNDVQX3NmakhuUEk1WWxST2lKR0FxVVN3ODVrTlJhYnhwUXEzMkJUMlY0YzIwejRHSkViS1N6NHdEQXdybw?oc=5",
+   "source": "KFVS12",
    "summary": "",
    "published": "2026-11-09T21:37:00+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "Disney Partners With Adobe On AI Tools That Turn Artists’ Sketches Into Finished Concept Art",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY3J4Nm9oX21nd0pIVzF5MUtFOEE1Q2JRb3dha2xrMXN1c205U0NmOWF0ME5zZUxaemk2ek85ckxmOVpQdVQ4MWtlTG8wblJTZHdxR0wyeEwweWJEclBQNkxGV0VxVXAxNHBGVE9UbTBxSGRBVVQwbVNXVEpkSHFxLXFlV2h0eXdKZGJaNXFpY1VfRDhnc1lwczBQeFlsTFU3bVZ3cw?oc=5",
-   "source": "Cartoon Brew",
+   "category": "ai_general",
+   "title": "Anthropic announces Claude Fable 5.2 and Mythos 5.2. They'e already solved black hole physics problems.",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGw3UFZ0ZUxYWk1VSm9nMXJUNkVIamQxQ1VsVlMtOElpV3ozckEwRWRlVkdrZUdDSkZwV1ZpODQtV1RYR2MxM0Z1UUo1LW9fSXBtZ3RJZ1RkT2hJRnJMQU5KRVZiQ3ZVSFBvM09sNG4taThSb3VKcjdiaEtGTWRDXw?oc=5",
+   "source": "Mashable",
    "summary": "",
-   "published": "2026-11-09T21:32:10+00:00"
+   "published": "2026-11-09T21:27:07+00:00"
   },
   {
    "category": "web3",
@@ -130,14 +146,6 @@
    "published": "2026-11-09T20:16:02+00:00"
   },
   {
-   "category": "ai_general",
-   "title": "Anthropic Ships Mythos and Fable Models Days Before IPO",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelYxZlZJVWl4amFBYnc4Zk9PTFZVY1RFWFNaR1ZRX09kQXQxMzViQ19fNnJaS1B2VFYzb004dTlqbjk1MGY1OFVsb2V4V1dqT3FLNnRIbWM4WS1lMjZXaGZlSHA5WFB1b210cjBCZm5SNHh3RTl5R1l2TENlX3VwTEh6XzB3WDVCZWFIZzFfQnJmdw?oc=5",
-   "source": "The Tech Buzz",
-   "summary": "",
-   "published": "2026-11-09T20:07:49+00:00"
-  },
-  {
    "category": "web3",
    "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
    "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -168,6 +176,14 @@
    "source": "Quartz",
    "summary": "",
    "published": "2026-11-09T19:35:35+00:00"
+  },
+  {
+   "category": "ai_general",
+   "title": "Anthropic Says Its New AI Model Can Solve Black Hole Mysteries. What Could Go Wrong?",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUpwNENsd2F4ZThIYnFmRTZBNk55UFQ1dk1ZdG00REZINnF3ZTRpcThWNFlDY3ZsWUdKZDJmWVZRRWt1UDBfem9zelA5Y2xYWkpuNEpPNHBqaUxxbmp3UUtLQTc1cm1nVjYxNzlDQ1dSZXRCeHoxaGhhNXBiVGdZR0MtaUtvbWV3ejNVemZleHBCd0Q4T2JEVnZ4emp2VExicmdOamtnZVY5N0NmMHRyc2dpY3U?oc=5",
+   "source": "Gizmodo",
+   "summary": "",
+   "published": "2026-11-09T19:32:15+00:00"
   },
   {
    "category": "ai_general",
@@ -338,14 +354,6 @@
    "published": "2026-11-09T15:00:44+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "AI agents test and improve robot code in virtual worlds before deployment",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTRHl4RnpwREUzVlJickl4TzRSRGZ1WGVXaUF5LVBBcndESTM4UzhqMGpKOVVCUEhKakxsbW9mQUQyWkVYT01HbTZsZExkRkYyZHhjbzdOUUpBU25MbkhaZktuaDd5YVl0YnhJbThic19JR3pfOWhPZA?oc=5",
-   "source": "Tech Xplore",
-   "summary": "",
-   "published": "2026-11-09T14:11:30+00:00"
-  },
-  {
    "category": "web3",
    "title": "PNC to offer stablecoin payments to clients in Coinbase partnership",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVdjV2lHeWNUbU1tbm4tVlhFZ1dreUc5QWdQaE9wdXpTaURqdnFWZWh4RkFaNEp1czBNUFUweHFaMlVMQ2ZDdk9xYWJ5eGdldy1oY2NYd0xaU3dWRzR0ZmZQWEUtcVZvbVNOUHBMU0VraTJBdllIMzBnc3ZsSE94QzNQNDJVaElGQUllWjkyTS1qX0ExQ2IyZTVDdEdyVU93NVJWVGVmdFR5ZGhJSklJWWJrQVM?oc=5",
@@ -376,14 +384,6 @@
    "source": "Cointelegraph",
    "summary": "The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of listing coins.",
    "published": "2026-11-09T13:30:00+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
-   "link": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing.",
-   "published": "2026-11-09T13:29:47+00:00"
   },
   {
    "category": "web3",
@@ -472,14 +472,6 @@
    "source": "CoinDesk",
    "summary": "Early data shows Zcash's orphan-block rate holding close to pre-upgrade levels despite blocks arriving three times faster, encouraging developers to push for another reduction.",
    "published": "2026-11-09T10:52:49+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Live news: Crypto prices give ground even as stocks and gold surge, oil plunges",
-   "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-   "source": "CoinDesk",
-   "summary": "The Nasdaq, S&P 500, and DJIA all closed more than 2% higher despite Nvidia's steep decline on CEO Jensen Huang's personal issues.",
-   "published": "2026-11-09T10:51:48+00:00"
   },
   {
    "category": "ai_workflow",
@@ -723,14 +715,6 @@
   },
   {
    "category": "ai_creative",
-   "title": "AI in the Workplace: 5 Ways Companies Are Using Generative AI",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13VUlCWi16QTc1QjRMTS1JbTlDVUxkdzlRT3p6aWhHTVBfZWxoZ29OWnBHVXpUQ01YZnY0d2hfUWU5anRWMF84cEVkMlVrTnlLVGd4ZUNJR1J2QVFKYV95SFM5bVlsMGotY2RzX0ZYMVI1Zw?oc=5",
-   "source": "Britannica",
-   "summary": "",
-   "published": "2026-11-06T08:00:00+00:00"
-  },
-  {
-   "category": "ai_creative",
    "title": "Best AI Music Video Generators for Rappers in 2026: Realistic Lip Sync and Storytelling",
    "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxONGpuUktsYmMza3VEN1RvYzZyOXc2ZjhzY0U0WVF2RGxQdGMwN0U4TENfZWp0bkRfaTVpSzVwaXpaRS1NdkpibWpjRUZManpMTGFlcnM3S09VblNkWndIeV9uQVQ1VVVja1gxcDFFVGt1SDA4b3FQVVFrdWw3Y0F2WGJ5U1VFWkpPeUMzUW5RLXRlYndZa1BDaU5Fek5Wb2Fwa0M5a0RlU2ZCMmktTWx6VzAwdWt5T1dSbl9CakoteF9obUJuN2gwWVJGTnZKNTQ0eEhCQjJHamFEeWlSbVlLRUJJand3MkkyVGdmLTZtWlpQUzZoM3ZkOTFBOFVrZ3h6bmNPaFZhQ0FBdHp6WEU5emNtay1OS0FaTHNlQ3A2SUUtTHRoNDlHR19FeFRfRmJqZjhnLUtwa09Sc1g1SzJRM29NSXg1anpvS3R2N0EtaGJ2a2F0YXpqTDg1cDhkNVpQb01COEFmaW9QQQ?oc=5",
    "source": "The Source Magazine",
@@ -888,6 +872,14 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-04T17:50:10+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "Your AI Agents Are Fast. Your Process Isn’t. Here’s How to Fix It.",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DLVJEUTFKRTZORnBOcUFDTWJaRWJZSWRvYU9ZNnF4ZVVtU3owZUFCbmR2enBybGFQSXVUdFhCRUpYcm15XzZheDFfV1JpM3NHb0Z3SmdVd2JXRTNtaVFqMGh4T0huSDNWbXpPT1FleDE4MFVVZHhyelhLdzZ0SzQ?oc=5",
+   "source": "Salesforce",
+   "summary": "",
+   "published": "2026-11-04T17:27:03+00:00"
   },
   {
    "category": "ai_workflow",

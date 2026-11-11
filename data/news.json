@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-11T07:35:49.560831+00:00",
+ "updated": "2026-11-11T10:17:43.883258+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
+   "link": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "The wallet flagged about 37,000 signing requests a week for phishing in Q3 and said better monitoring likely contributed to the increase.",
+   "published": "2026-11-11T10:00:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
+   "link": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether’s supply.",
+   "published": "2026-11-11T09:58:15+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "ECB warns legislative delays could postpone digital euro launch",
+   "link": "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "ECB Executive Board member Piero Cipollone warned EU lawmakers that delays in finalizing digital euro legislation could push back its potential 2029 rollout.",
+   "published": "2026-11-11T09:03:49+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
+   "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "US spot Bitcoin ETFs have lost $1.6 billion in November, while stock funds attracted billions of dollars from investors buying the dip.",
+   "published": "2026-11-11T08:55:31+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Disney Partners With Adobe On AI Tools That Turn Artists’ Sketches Into Finished Concept Art",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY3J4Nm9oX21nd0pIVzF5MUtFOEE1Q2JRb3dha2xrMXN1c205U0NmOWF0ME5zZUxaemk2ek85ckxmOVpQdVQ4MWtlTG8wblJTZHdxR0wyeEwweWJEclBQNkxGV0VxVXAxNHBGVE9UbTBxSGRBVVQwbVNXVEpkSHFxLXFlV2h0eXdKZGJaNXFpY1VfRDhnc1lwczBQeFlsTFU3bVZ3cw?oc=5",
+   "source": "Cartoon Brew",
+   "summary": "",
+   "published": "2026-11-11T08:44:52+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "SEC enforcement actions fall 24%, crypto cases in spotlight",
+   "link": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "The SEC filed 348 actions in fiscal 2026, down from 456 a year earlier. Cases included alleged Bitcoin mining fraud and an FTX audit settlement.",
+   "published": "2026-11-11T08:43:30+00:00"
+  },
   {
    "category": "web3",
    "title": "Here’s what happened in crypto today",
@@ -98,36 +146,12 @@
    "published": "2026-11-10T21:36:03+00:00"
   },
   {
-   "category": "web3",
-   "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
-   "link": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Crypto custodians are moving into a market handling billions in daily settlements, but regulatory relief and a shift in congressional control leave questions over their long-term role.",
-   "published": "2026-11-10T21:34:40+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
-   "link": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "The protocol is investigating a potential security incident affecting its domain, while several users have reported losing funds after interacting with the platform.",
-   "published": "2026-11-10T21:24:36+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "Can AI Really Review a Schematic?",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX1ZTUTEyRmhUYmFuYmgwN0NLdkdUOE9fR01nWE5JVjNCbzJXNElPamgzYjZDYmdaNzNsRkpLT1hkc2JqTUo5VDlYVFZRaEg2Y2FFTnRpekNybWlCcWVKNUk1RUVZWGNsMmJ1dWZKWWQ2ZEhpcXRMY1RSRXVWaENvNE1WNmZCSWdXYzFQc3JDcEl5MlQyTkQyTzZEWDNuaUNpc1NlSzBNbkhIU3d3TExwRTZXRmFjaE9tWjFiOUZPei1EcjhqVXdFZnZWcjFFVFZMTmZONEFNS3ljd3dvZEE?oc=5",
    "source": "Electronic Design",
    "summary": "",
    "published": "2026-11-10T21:13:28+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’",
-   "link": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Ava Labs’ John Nahas said the collaboration with the NYSE shows institutions moving past pilots toward purpose-built onchain market infrastructure.",
-   "published": "2026-11-10T21:07:44+00:00"
   },
   {
    "category": "ai_workflow",
@@ -152,14 +176,6 @@
    "source": "CoinDesk",
    "summary": "U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action was sufficient.",
    "published": "2026-11-10T20:36:33+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
-   "link": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "The Plume affiliate plans to offer tokenized US stocks, ETFs and bonds through self-custodial wallets, with traditional shareholder rights preserved.",
-   "published": "2026-11-10T20:26:02+00:00"
   },
   {
    "category": "web3",
@@ -224,14 +240,6 @@
    "source": "Mashable",
    "summary": "",
    "published": "2026-11-10T18:22:58+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
-   "link": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Starting next week, customers can deposit and withdraw money through Brazil’s instant payment system. Crypto transfers remain suspended.",
-   "published": "2026-11-10T18:12:07+00:00"
   },
   {
    "category": "ai_workflow",
@@ -546,14 +554,6 @@
    "published": "2026-11-09T20:21:57+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "Disney Partners With Adobe On AI Tools That Turn Artists’ Sketches Into Finished Concept Art",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY3J4Nm9oX21nd0pIVzF5MUtFOEE1Q2JRb3dha2xrMXN1c205U0NmOWF0ME5zZUxaemk2ek85ckxmOVpQdVQ4MWtlTG8wblJTZHdxR0wyeEwweWJEclBQNkxGV0VxVXAxNHBGVE9UbTBxSGRBVVQwbVNXVEpkSHFxLXFlV2h0eXdKZGJaNXFpY1VfRDhnc1lwczBQeFlsTFU3bVZ3cw?oc=5",
-   "source": "Cartoon Brew",
-   "summary": "",
-   "published": "2026-11-09T19:56:21+00:00"
-  },
-  {
    "category": "ai_general",
    "title": "Anthropic releases two new Claude models and cuts prices 20%",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01NDJDcTRySFdTOUUxTnNXOXF1YU95ZFV6S2NLNEZTbFgwUEtGdFQ5bmtNZEF1MFRGU1NyczZGcFBiRDgtSWxoVmJsUV9acjQ0Yjl3SFN6OFhwaFpDbmk3aUVBZG1PZVZWdG5PSFVXWndEWnM?oc=5",
@@ -667,7 +667,7 @@
   },
   {
    "category": "ai_workflow",
-   "title": "Claude Code settings.local.json Secrets: GitHub, Docker Hub",
+   "title": "Claude Code settings.local.json Secrets: 17 months of exposure on GitHub, & Docker Hub",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdFZaOThqNmVrQVBCVkRzTzdqU0dOX2c2UFc3b2pmRWhodVk1d2x1Y0kyaGxKbzZ3R2IySTlFR1MzMURtSTdjRC15ZmQwNllaRTdMMUgzUUkzYmtuRUdtdEFpdmpGRTV0UEdPNjZxdVJMNEhab0Q1Njg0OEQ2enkzUGlnTXpSR1k?oc=5",
    "source": "GitGuardian Blog",
    "summary": "",
@@ -696,14 +696,6 @@
    "source": "Simon Willison",
    "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature…",
    "published": "2026-11-09T04:25:05+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "EXCLUSIVE: Nile Rodgers Hits Back at Critics Over AI Music Video Row",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOHFFdkYzTWdwN050eGFQMVRHOTFrUjdxTmlMUWFtcXhmVmx6S2Z0eUREalRUNjhWNS1pZ2owaUxxT1BKb0lCbUU3dzdmbU1zS21STkVZWm1pNV9tNWlBM3gxNXNpNGt5YXlFLXJEdXpCRWpsTHRuc2JxbFBhS1pCeHZR?oc=5",
-   "source": "AOL.com",
-   "summary": "",
-   "published": "2026-11-08T23:12:38+00:00"
   },
   {
    "category": "ai_workflow",
@@ -760,6 +752,14 @@
    "source": "Simon Willison",
    "summary": "My comment on Terry Pratchett's Study — Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money on rich people stuff - yachts and suchlike. Horizontal…",
    "published": "2026-11-07T19:34:24+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "What are they talking about? AI agents are developing odd dialects humans struggle to follow",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hNTJhTlZXaHB1THJZZ3cydDBSMk5wSzlZUlJrVlczMV96dWVyb2x2SDZKaHU5aU91SHBXYmVhY1Z4TDBzM3VqdUFoUjZXSU1vTWNvSDdiTlBYLUNhYS01MEJDWnZlaklDSzFmdkFLMHEzRjdJQnRSZ0sxSGFCalE?oc=5",
+   "source": "Northeastern Global News",
+   "summary": "",
+   "published": "2026-11-06T21:03:40+00:00"
   },
   {
    "category": "ai_workflow",
@@ -835,6 +835,14 @@
   },
   {
    "category": "web3",
+   "title": "What Is ETH Gas? Ethereum Fees & Gwei Explained",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9INkxaMnF5dFRveERwaVBBRnVYcE9LRDZTSkQzNzRQZVVfTkthcDUycXh4SjVHaDFGejVfcVRQMjMzY21Ydzc3YVRkX3lfbzlKZGtOaDZQcVp3dmx4U1I1WWd6Q2k?oc=5",
+   "source": "Britannica",
+   "summary": "",
+   "published": "2026-11-06T08:00:00+00:00"
+  },
+  {
+   "category": "web3",
    "title": "Stablecoin-Backed Cards: New Payment Experiences",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTnFMTkpweWFrc1E0Unp5YlFGMG5IYmJLUU9fOEs5blY2ektESlVmMDYySllmVGZkeXZybTVfbzR0Vy1qUkRQVmIyYXhiNmtOa25lRXZpOTZfakVUSlFJUHBNR3NUN2dGTGY1Q3Z3WW03Z0lVMGJPeE9DTlBtV3dYODc1R2I5NTI0cmtfa3l3cmlDeW1DUkVhem41alBwRGVHeGRXZlJKeF9UUQ?oc=5",
    "source": "Marqeta",
@@ -848,6 +856,14 @@
    "source": "YouTube",
    "summary": "",
    "published": "2026-11-06T01:00:17+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Nile Rodgers Fires Back at AI Music Video Critics: “Hypocritical”",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEljRkdnR1B2R0NmSW5IaFVhbWR4Nm5POWZ3dDJhWGZ1ZDQxMFpxMkhxNWd2Tmh2S1c4QVRnTWU5dE1memNXQW5GbnRzOTJpcjRjc055dzJLNGFRUXQ3TmZpWndOa1ViYUhXLVBZdFBxN3hpcVk4V1k1T0tfVzk2TWhyazBrYVh2MElpd3l5UURScGhSRW1qNTk4ZEQza1HSAaQBQVVfeXFMTWZoeFIxT2FkUHR3dmZJdUxVWDZzaTZwWVRneEw1MVNFaVhXa2dXWktkNDhtaHpDdU92bUZkZWpzZFF4Zk1pX05yM09kTGtGZmxaeGUyVlM2TkIyU3ZEa1B2SVNjUDVZU2RsR3lLWjZpLTRTQW5yejg5Y2gzaVkwMVc0Z2huWklpdnRoX0pPODZUbWxTMnBvRjZUdldDNUhpMmJxOUs?oc=5",
+   "source": "That Grape Juice.net",
+   "summary": "",
+   "published": "2026-11-06T00:24:54+00:00"
   },
   {
    "category": "ai_workflow",
@@ -896,14 +912,6 @@
    "source": "Stereogum",
    "summary": "",
    "published": "2026-11-05T14:13:00+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Box expands Nvidia partnership, unveils AI workflow builder",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2lEWV9lOTI0YTVOWDFYeGtCeEkzUThubC1qdlY3Qmdpc1NsVVZUSnNBdlR2WGdKSm1pcWprVnVQN0Y4d1N1OXRnU0h4a05wYlZyNEtLRDBDUkJ4M19qTmxQbkQ4dkVSOU9heVdIY2NPTVRHZ1pvTFYySlN4MkpoSGhNNm5KR3JBZmRXMmVjNFN4SGdBNm5kT3RuS0JiZnRHSlhnZnpB?oc=5",
-   "source": "Reuters",
-   "summary": "",
-   "published": "2026-11-05T14:06:25+00:00"
   },
   {
    "category": "ai_creative",
@@ -976,14 +984,6 @@
    "source": "USA Today",
    "summary": "",
    "published": "2026-11-04T12:44:30+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "28 Ethereum ETFs (Plus Their Fees, Holdings and Promotions)",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5eF9FN29MUmNWR2M5TDBBdE5pZ2VqSFhramwxb2p2QVg5c3ZkODliVUhGdERHaDNHeVczRXRZRGh0alc1RVdJbi1yS19XZ0RieTZCaEpBRHUyOTBVWmpyV0dMZFVIUG8?oc=5",
-   "source": "NerdWallet",
-   "summary": "",
-   "published": "2026-11-04T08:00:00+00:00"
   },
   {
    "category": "ai_workflow",

@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-14T01:28:49.889755+00:00",
+ "updated": "2026-11-14T10:37:37.608980+00:00",
  "items": [
+  {
+   "category": "ai_creative",
+   "title": "New awards show celebrates AI music and its creators",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYXRQRkRsVzRmZGczTjBVTkZmNV92TWVDcFc0ZE1qRTZMbVl6LVExV3dQSjR0dVNJNEVBQzFSUFUwYVYzOHdBX2hwRGk0NVJmM3VQazZhNVVhNndwRnpIRldGNWZDbVhQTjRNbmJEWnRoTEt2dHhCYmpKVFlPSU16c1dMTXpQMmx5?oc=5",
+   "source": "KFGO",
+   "summary": "",
+   "published": "2026-11-14T09:22:21+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+   "link": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem.",
+   "published": "2026-11-14T08:12:30+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+   "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.",
+   "published": "2026-11-14T06:33:13+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+   "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+   "source": "CoinDesk",
+   "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
+   "published": "2026-11-14T04:30:00+00:00"
+  },
   {
    "category": "web3",
    "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
@@ -66,6 +98,14 @@
    "published": "2026-11-13T21:36:03+00:00"
   },
   {
+   "category": "ai_creative",
+   "title": "Best AI Music Video Generators in 2026",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVduVi1rWTJObXNJQXpxZ3p3eFNQTTRCU1RzX080ejFtRDV4Skc3cENET1JaWDB0elkxU0FMRFFkbUdiOGlaUkVQY2t2cHNMdjF4dDJLWklUUWhCQ2ZyU1Roai1kQlc5U1dCOHZvOWQ3TExjWk5yeGl2VjdOLTJUcFIxN1I2TEhGdFE?oc=5",
+   "source": "The Edinburgh Reporter",
+   "summary": "",
+   "published": "2026-11-13T21:18:09+00:00"
+  },
+  {
    "category": "web3",
    "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
    "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -107,6 +147,14 @@
   },
   {
    "category": "web3",
+   "title": "Claude AI Predicts What Bitcoin and Ethereum Could Be Worth by 2030",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUzdTTmdsREU3WWdrVlZIRUFCa1ZrVm0tTWdOdHc2d2tYbkhVQUpPclc4aXpYQXU3VGU5MTRjaUxpaU0td0VUZllBbDRPNFl3SUZHaEJJYk1hQWZwcmdrT25KY2RhOTY1V2dvblBjNGtJbGVVZkVuWW45S1NWcnV6Z3dBemhHYjctdExWQnJqd0ZMSm1SSEdZWmVJbUFTamxndXc?oc=5",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "published": "2026-11-13T18:43:26+00:00"
+  },
+  {
+   "category": "web3",
    "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
    "source": "CoinDesk",
@@ -128,14 +176,6 @@
    "source": "Cointelegraph",
    "summary": "Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company’s earnings despite higher revenue and operating profit.",
    "published": "2026-11-13T18:28:29+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "AI Account Rips Off Animated Short To Promote Filmmaking Classes",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVZ4cmpWODFEUlhtZEh6RGR3dU1tbjltQU1PTVpJOVJsbzdaVnhEUG1QZzVHeGRpYkNiYzRGQ19ZX2lHX3dvQW8ycDBYelBFdlR2QVFLQzlqVHA0c29vblBlUmstdHRXU2ZKQUpRSEhDdEUtTnpDZEtLOF9Zc1Q1cnFxcXlPRTJCMXdBVkluWHhHclVSTFNVQkd1UjA?oc=5",
-   "source": "Cartoon Brew",
-   "summary": "",
-   "published": "2026-11-13T18:17:19+00:00"
   },
   {
    "category": "ai_workflow",
@@ -187,7 +227,7 @@
   },
   {
    "category": "ai_workflow",
-   "title": "Should Multiple AI Agents Collaborate Under Governance, Auditability, and Regulatory Constraints in a Global Financial Institution? – Communications of the ACM",
+   "title": "Should Multiple AI Agents Collaborate Under Governance, Auditability, and Regulatory Constraints in a Global Financial Institution?",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZG5WNWFQem5XUktlZTRST0ZlaE5FbUNmd212ZDdtYU1KZ25feF9GT2RZZmlrWFp1X2ZtQnNSM3FCVmVpaXFfcG5Jbi05Y0w5eFU2d2J2U3UzY1Y2T3kteDRLd2RHY3lPZTBkQWFSSlBNNkRnSnQtemZuNjhfcnR5OFpNck0zd3dVSC1kU0tnZzZxSXhrOGZ3ekNpbFlwbUdLZVdib29GMXJ1WVVhZXBwZDZYVnJPQVpXUDduTFVMT3FoWk9aeHlvSC16NTdRVFNLaGdFV0EwQVc1dzFNYjAtNEViOXhPUDdyZml1QUVjbV8?oc=5",
    "source": "Communications of the ACM",
    "summary": "",
@@ -298,28 +338,12 @@
    "published": "2026-11-13T11:52:25+00:00"
   },
   {
-   "category": "web3",
-   "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
-   "link": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Unocoin said the transfers were signed and broadcast outside BitGo’s platform, and BitGo said the account freeze worked as intended.",
-   "published": "2026-11-13T09:58:21+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "Bloomway AI Introduces 3D Director Studio, Build Worlds and Direct AI Films with Natural Language",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWlVVVHA5YWM4Q2g3YWtJR3VQTjdqamVPRWR5NHpEWEJKN1dqdEF3ZTNFSzQ0RzF5ald1X1RfcTBTa3dra3ZjNFZBNXlFc2JKX090R3VkbEJYaGtJcXdWdGhzWlFEM001TlRWTTJhcGRobVlrT3ZMR29GdEt5cC1CMlVLTS1ubk9XMzQzRkpMNDM2QjFBYlJZWFV2UWRsRG55bEdoZFE3SHhwNkhnWTE5UEVLR1F4Q1AtX3ZRYXFyN3Rod1hXM0tUOVlNcVMySUF1R3BHc21hQ09razg2VGNqNXdIYkRPRGF2TU1F?oc=5",
    "source": "markets.businessinsider.com",
    "summary": "",
    "published": "2026-11-13T09:44:10+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-   "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000.",
-   "published": "2026-11-13T09:39:05+00:00"
   },
   {
    "category": "web3",
@@ -338,6 +362,14 @@
    "published": "2026-11-13T07:05:29+00:00"
   },
   {
+   "category": "ai_workflow",
+   "title": "United bans AI agents from booking flights",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2JUZGFvWVg4ZnB5OEM5R0tUaFpnUndmTVhMU05NNV83bDZBTmNLMzFBeHRIT00wOTluMGM0TzBCVmpZRlI1VEJMcDJsTUJqU3pXT3hWTmNLZXFKbF9xd0NmNm4zaGJaSnM4Q3RRM0FRMVp6SzVoWTdOM1VrZG9XcTNITzY?oc=5",
+   "source": "Morning Brew",
+   "summary": "",
+   "published": "2026-11-13T06:05:48+00:00"
+  },
+  {
    "category": "web3",
    "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
@@ -352,14 +384,6 @@
    "source": "CoinDesk",
    "summary": "Recent rapid redemptions explain the market swoon. Bitcoin's spot price fell below $70,000 on Friday, the lowest since August.",
    "published": "2026-11-13T05:45:26+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
-   "link": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
-   "source": "CoinDesk",
-   "summary": "A deal could be announced as soon as December, putting $2.1 billion of bitcoin under one roof, a sliver of what the combined group would be worth.",
-   "published": "2026-11-13T05:08:59+00:00"
   },
   {
    "category": "ai_workflow",
@@ -394,6 +418,14 @@
    "published": "2026-11-12T21:29:00+00:00"
   },
   {
+   "category": "ai_workflow",
+   "title": "4 insights from Block Builderlab Launch Event 2026: AI agents join the team as working colleagues",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDdoeFZ5WjJiUW5qNnNHWFlVTDFPRlEydG5hXzQ3VkFHcEJxejh3aXoxRmlaLXZQOEhCZ1lRVmVuVXFFakpwTTBUZHBMd2YwNUtROEE0d3BGY2E2ZFJHNHR3WGw4TE1VZnZaclBPNjRoRUFiTFVKYmxJZUd3ZnVOcURCeHNua2RWWVpaYnVFNEQtNFU2X3c?oc=5",
+   "source": "SiliconANGLE",
+   "summary": "",
+   "published": "2026-11-12T20:48:00+00:00"
+  },
+  {
    "category": "web3",
    "title": "Visa Expands Stablecoin Services With Anchorage Partnership",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRmU4N2N1XzZRSTh3YkhtdkxCSjlMVFM3SDBKR01WU3pqbk0wUk16eG9Sb1F3NHdaczZTMW9YSVVXemxFT180SGV1VXVtTE1WQ0V3SVRESUZVU3JzdG1YSG9KUXhxUzFHdm9Ya3p1eVhpR3hZMFVVb2lvNDB1SVZONTZZdzk2S1dRdF9TOXBCRHVoOHg5a2JXbS1TRlpVcXItTEc1N1BFcldIdw?oc=5",
@@ -408,6 +440,14 @@
    "source": "CNBC",
    "summary": "",
    "published": "2026-11-12T20:24:59+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "What Happens to Human Creativity in the Age of AI",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5McVhpZHFxWGs2anRtUldSWnIxX195UnhuVVdac242djUtV3l6cmdrWl8zX2NLdjhqX1JYd1ByMlIzTEswczRCWUFLODFReUgwb05WQzBmRjFKbFRCY2Y2Tmp3UFRESjZ2eEhNajZKWG1mR0RGU3c?oc=5",
+   "source": "Duke Today",
+   "summary": "",
+   "published": "2026-11-12T20:05:35+00:00"
   },
   {
    "category": "ai_workflow",
@@ -443,27 +483,11 @@
   },
   {
    "category": "ai_workflow",
-   "title": "How Block powers collaborative AI agents with Buzz and Unity Gateway",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSjhTTzE3UGQwaVV3NXBTZzgtZENIaU1ZaXhyZHlQbG5NRXBiX2EtZnlpSXFrQnFNZW9VWF8zMTh2cTZ3V0hPZ1piZmNfQ1p4Y0ljZ2VUQ3dhdkMzcW5RalczUzNsem43VVhYeTRBSERWV2l2Um9sWFctUHdfLTgxVVQxRU9lbVU0SkdkcUpDZWhYdlVnUDFuWmttbw?oc=5",
-   "source": "Databricks",
-   "summary": "",
-   "published": "2026-11-12T16:43:50+00:00"
-  },
-  {
-   "category": "ai_workflow",
    "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI | Amazon Web Services",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjMtUXdRbkMzdnVCelA1ZGJXZkdmWEZITXRxMkVQelJSdUJtby1ucFRTVmRsRExGbGg2RHJJV3Q3MzUwQ1B4cUNPbFpNVUhHdk13cVBveFlUclBuQ2tXbktzQjRwQlBOcF9NdzRxWU9FU0lhNFJUZm5GSFBycEd3bllQRi1JODVOTFVoNk1zQ3VBZ245LU1DSGF2ZkNjSml6dWw5R3F0ZnN4MGc?oc=5",
    "source": "Amazon Web Services (AWS)",
    "summary": "",
    "published": "2026-11-12T01:18:23+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "The New Indie Wave: How AI is reimagining filmmaking",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXpUQWZRS1VqTlBfRmNhSHY1RkVGaFlySllsY1R3RUE0MlhmMDNPd3p4UDVNcFBhMmtCN3N1Mm1iQUFlSGhnSE1GRS1uOXZ2dUJ0WWlNUW1pYUFFaGxNU3h4Zmw5bkIzSjh2NmRkMlVJRDZTNFlmVDlSYjdHSXhLb0kweG5UM1BVQXVjbHp3TUFzM3NZNjhYZEJfQk1CNHlHdVMyeDFFeXpXWVh5TVl4X9IBvgFBVV95cUxOb3c1QkgzT3pkLWlzbk1NZU05RzFNbzRrYUU3czVuZmhjZVk0enJhelVBbHZ2X3JiZUtJMi1wYTk5WDkteVc5dkI0WXZ2UXBCcnlPZnhEdXZtSUx4LUljYXJUZHFidFNOdUttZnNNUEMyR2ppZ2VZTVpWNFZpU1BCUjhiQ2lMc0hBZldtcVZreGVYbS1WUm80LVM3ajI5M2lUd1o5Vm03Sl96NGl5ZHVCN1hlM0JCa0RISExUUlFB?oc=5",
-   "source": "The New Indian Express",
-   "summary": "",
-   "published": "2026-11-12T00:34:00+00:00"
   },
   {
    "category": "ai_workflow",
@@ -483,6 +507,14 @@
   },
   {
    "category": "ai_workflow",
+   "title": "United Airlines Blocks A.I. Agents From Booking Flights on Customers’ Behalf",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTVycnZoZS1nNU50eTQ2MGY3RUdNOXpTbi1vRGlWT2VsUTZ0QW1sYnY0amNTdjFDcW9zZ0NuVU5ua0dvS2VFUURrb3IxVGZBVk1lbjJUOExtQWl2a28teDB5RDkzdUJ1RFhwNkJqSTdEZTJTR3Q1X3plUnpSbndiTG9WV0pMMEx0UzRUMmpZcFZpSnJn?oc=5",
+   "source": "The New York Times",
+   "summary": "",
+   "published": "2026-11-11T23:15:31+00:00"
+  },
+  {
+   "category": "ai_workflow",
    "title": "Gemini Decisions API",
    "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
    "source": "Simon Willison",
@@ -496,14 +528,6 @@
    "source": "Simon Willison",
    "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of…",
    "published": "2026-11-11T21:18:30+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVFvenpLcDRGbGZZOVpDSXB1dVJRcHJZM0JXeDNoV2o1cklrLW5DUjI1clZFYTdUb3FKZWlWWFFySkFVWGhLbThaZGpHam12ZV8yRWE5MWotQVJzWVJOS2VyX1ZEMllYeFhIN1RTcU9RQnRfYkVuQ2tRZkxVMTlCaFlXSmZkZUU?oc=5",
-   "source": "Decrypt",
-   "summary": "",
-   "published": "2026-11-11T20:16:02+00:00"
   },
   {
    "category": "ai_general",
@@ -530,14 +554,6 @@
    "published": "2026-11-11T19:31:54+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "Adobe Gives Sneak Peek at Real-Time Generative AI Video Editing Feature",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVdIOHBlcWdZNnUzZ3V5Q1BMWkpuQVJ1c2FWZk1HVUJWX0dIMGVtcC0tOGM5YmVfZ2tJdFg1dmFRMXAzQUczY1N4elpWNkVyb2Y4cDJwbkticDFWU0k2SkFIeF9BaDk5TEtaLU0tY21XcWt4UENpU1lSNEh1LTdmMkxCSEh5MnNCNFhXa3ZwQVB3b08wa1JaWnNBb1BCdUxYZ0RBZ1poZ2ZKdw?oc=5",
-   "source": "www.wtyefm.com",
-   "summary": "",
-   "published": "2026-11-11T19:23:23+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Browse tools.simonwillison.net by tag",
    "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
@@ -562,28 +578,12 @@
    "published": "2026-11-11T17:34:06+00:00"
   },
   {
-   "category": "web3",
-   "title": "Trump Stablecoin Scrubbed From UAE-Linked Prediction Market Site",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX1lpYUxicjlnZU90YzZSQlF4VmRSNDFxdHFIN1FJQWx5SDluTHZEWEhPS0Z1NVc4VkY3Rk1rTEltQmo5UzhYMXR0Ymw1aEwtT3VjU1p4REthRmJkQ0NjUm9CN1lxeTdqLUZycG95dWNZczI1cFU1b1dlOTFQU0J3TEw4djZ4NFNvdW5hZUtNZ2xTQnJ0c2FLUmcwQy1FR2RVc0JjTlJPby1ZMGdBZFNaQzZuYi1aUQ?oc=5",
-   "source": "Bloomberg.com",
-   "summary": "",
-   "published": "2026-11-11T17:20:48+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "llm 0.37.2",
    "link": "https://simonwillison.net/2026/Nov/11/llm/",
    "source": "Simon Willison",
    "summary": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai…",
    "published": "2026-11-11T17:19:52+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Can Visa's Monad Integration Boost Its Stablecoin Strategy?",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM05CTzh1a2h1QUpEV24xQ3VpbFZlTDAxTDUyMFNfZlhpRVV1enVjZldpSjFqdjhCWjV3NzYxYVZLbERmR05qRVV2TW5pR2ZQTmtiNFBNOXlzLWt5SHdiaG1VcVl3S1EzMnp0Z0U3VWtPSDdMdzV5U0NmMEtWS0cxWUNSNWdqcU9uSVByZmg3MmJfSW5SLTUwRDJSSV84LUdTX29rMEphVU8?oc=5",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "published": "2026-11-11T17:17:00+00:00"
   },
   {
    "category": "ai_general",
@@ -594,12 +594,28 @@
    "published": "2026-11-11T16:30:00+00:00"
   },
   {
+   "category": "web3",
+   "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORmRoZkxZR1hZb1ZINTdlOXdNOWJTVDJOVGdhcjdhOEN0OFB5aHVvVW51OFVBNndKWUJpTHFuVW9IMjdwVXVSM0JOYTZteHNYanEya1pWbVJHWUQteTJaOHZxbnUwVVNMUUV2Z0lmRXUxVm8wOGpKYmItdFM2SjB1WTh3ZGN3b052LXR3eXpGRjlTdWxQd09GbDE1UDBidDhWazlqeHNKUXppMXAtUXFJTlBadkR1Y3ZDOGUwVVMzRTViME5DVlE?oc=5",
+   "source": "CoinDesk",
+   "summary": "",
+   "published": "2026-11-11T16:02:48+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "Anthropic's IPO roadshow video",
    "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
    "source": "Simon Willison",
    "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\"…",
    "published": "2026-11-11T15:11:59+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Adobe Gives Sneak Peek at Real-Time Generative AI Video Editing Feature",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUVXTm1ZQjhMWV9HUU13MkR0WmhlMmh0RHgyR0gzQURadTRlUlluRHAzSVcwTXRPakFWbkFKNng3UE5Dd1J5WlFhYkRIVXhLdUlLRHZCZllYV2YzeF9XQncyLXg5UjBtbVZGd1JFVmFXNmd2SC1QbERYcjd5UGVwX2R4MDh1QTVTRDRwVjA3R213dGFpanNoczNCSVNTYWsxNnFXek9nNk9jbVk?oc=5",
+   "source": "Variety",
+   "summary": "",
+   "published": "2026-11-11T14:00:00+00:00"
   },
   {
    "category": "ai_creative",
@@ -709,7 +725,7 @@
    "category": "web3",
    "title": "Goldman, Citi Among Banks in $270 Million Stablecoin Backing",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcV9UemExa2pjNzdiRXhQb1BqQTd3SEZpMjdRY1ZYRWFIWG5UYVl5cUZsb3dfdmJQX1czNmxmNFlOMk1HUlRDaDZlZmtTcVByajFueDBUeDVyaG41MDNMSDliQ29FV21uM3NvWXpCMXRuNEUzNjRqVjd2UkFtbVZXNl9DalFWb09wVXUzenpvcFNKM3BFc21SM0JSSzdSV2hpRWIyZFBOME9MQlFzSnc?oc=5",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "summary": "",
    "published": "2026-11-10T16:12:55+00:00"
   },
@@ -763,25 +779,9 @@
   },
   {
    "category": "ai_workflow",
-   "title": "Best AI Agents in 2026: 30 Tools Tested and Compared",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJWEF6NXdfZVZqYkVIdlF4cTBKdThTUFdvS3RHc0o1cnlRcEJ4MVFyem5jeXQ2bi13aWVDM0FyX05HaXl6UklNOVVqZw?oc=5",
-   "source": "Fello AI",
-   "summary": "",
-   "published": "2026-11-10T08:00:00+00:00"
-  },
-  {
-   "category": "ai_workflow",
    "title": "What is Hermes Agent? Definition, features, and how it works",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aazE2d0NyX0F4SDg2eHZZVDlmRGpia05nV3p5Y2xUVVBUdE5uclBjcE90QkxRWm9nM3VIYVV2eWpocFo4UzNnUi16MlZEX0ZzalVFSHY2ck95SGR1dFR0YlgyeXlpMExFZWFLVw?oc=5",
    "source": "Hostinger",
-   "summary": "",
-   "published": "2026-11-10T08:00:00+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "10 Risks of Generative AI & How to Mitigate Them",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54U1U4WXhZSGFKdDNYcEFqUWxxSjRRQUE4NkpHVFJIRldoU0kweG9xSW5WLTE2NFg2OHVKOUtwMlVaN0dNYkFpT25uYXQzb1lXYTg5U0FiNm4?oc=5",
-   "source": "AIMultiple",
    "summary": "",
    "published": "2026-11-10T08:00:00+00:00"
   },
@@ -826,12 +826,12 @@
    "published": "2026-11-10T02:08:56+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "Meta introduces Muse Ember to power cost-efficient AI agents",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM2gwdGRieGNSWTRIQlMwVlB4dm5NMFN4VE1xU1FtdjAzeFdXLWxLdnBIQVBXTVFIWUxUaHBmUG9NYThLVWc4amFFTE5zTDQ1clFyZDdzWXg4cVNBM2NYQ2djTmo1YWhUazRxdEttRHVkSkw1c0UzSGFOWFh2aEZpdjZPTVBNam1Zb3ZzcnZZNWstS0hWRW9DSGY2LTJCZw?oc=5",
-   "source": "SiliconANGLE",
+   "category": "ai_creative",
+   "title": "AI Account Rips Off Animated Short To Promote Filmmaking Classes",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVZ4cmpWODFEUlhtZEh6RGR3dU1tbjltQU1PTVpJOVJsbzdaVnhEUG1QZzVHeGRpYkNiYzRGQ19ZX2lHX3dvQW8ycDBYelBFdlR2QVFLQzlqVHA0c29vblBlUmstdHRXU2ZKQUpRSEhDdEUtTnpDZEtLOF9Zc1Q1cnFxcXlPRTJCMXdBVkluWHhHclVSTFNVQkd1UjA?oc=5",
+   "source": "Cartoon Brew",
    "summary": "",
-   "published": "2026-11-10T01:38:00+00:00"
+   "published": "2026-11-10T00:46:58+00:00"
   },
   {
    "category": "ai_workflow",
@@ -909,14 +909,14 @@
    "category": "ai_general",
    "title": "Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaGNFTXptZ1NYTjh3SWxCeUlTQmZ2elFyZG80bW9hdG94NGszVXE5cmxjRV83QVg5UGEwTGVLVjlzXzBKT0xPdVAwc1NCMlhUcEVOY2tBNGxQRHJPQW80bkNvbGp4cW1OazY2NU5IRXRraG93RUhmbzdGMmlVZDU5LVpoczVFOWE0NkNnQjl0eGNCTUpabk1lLTFUa3ItNUQ5MmhvS25IZ1loaG9Q?oc=5",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "summary": "",
    "published": "2026-11-09T19:00:20+00:00"
   },
   {
    "category": "ai_general",
    "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ19OSTNSY1dhR3hRS1h5MWdBMnQtbDBZRG9lNUl6c2Z3Sy1hYlh2LUY2elVFd1BzbUVrYkdHcC1XQVBuTFZ3d2p3ME9uTkRRb0k5NE1OdjB1eU5XNFFWb3pTcTd1OUw0cTF2Ynd4M25tSGFQaHdhVFFoZVZyR1U?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ19OSTNSY1dhR3hRS1h5MWdBMnQtbDBZRG9lNUl6c2Z3Sy1hYlh2LUY2elVFd1BzbUVrYkdHcC1XQVBuTFZ3d2p3ME9uTkRRb0k5NE1OdjB1eU5XNFFWb3pTcTd1OUw0cTF2Ynd4M25tSGFQaHdhVFFoZVZyR1XSAYQBQVVfeXFMUHM4SERGeXRSNlBIRUgzQ0g3Ul9VdGZZcEtQejlTZHhoMjk1MUJ2NEVGT0ZtRndGb3BmWEZxTmVXdjJxSjZ2c3E5YUpMUDc0WTRmaDVXTUoyMVJJWG5BcGNzQXpXSnVrWHVBNnR1UXVzc3F0UGpFaU1BZ2RPbEtPejdQNDJ4?oc=5",
    "source": "CNBC",
    "summary": "",
    "published": "2026-11-09T19:00:01+00:00"
@@ -936,6 +936,14 @@
    "source": "OpenAI",
    "summary": "",
    "published": "2026-11-09T18:30:12+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "PNC Opens USDC Stablecoin Payments to Corporate Clients",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3ZfWHItM1BBNVZ4dkdLVi1uSW13RkZhdlJSOV9xMUFZZXpHaXJsUUFPVzVibHp5RUp5S1FDOUdaQlVXVjVlajN0eHhkQlVhakZwUG1aMDUtcXhtN1FoZE4xTUNMZ1NzMTgyajZJQ1hBcUFrbDNGZllQRmphZG9rQjZyelpvakxsVnlNVFA0QjVaNXZpb2JITFkwZm9Vdw?oc=5",
+   "source": "PYMNTS.com",
+   "summary": "",
+   "published": "2026-11-09T17:52:04+00:00"
   },
   {
    "category": "ai_workflow",
@@ -1010,20 +1018,12 @@
    "published": "2026-11-08T07:38:36+00:00"
   },
   {
-   "category": "web3",
-   "title": "Visa Direct Launches Stablecoin-Powered Money Movement as Pilots Move to Production",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lRVVmZGhVX2VQc2I4anBBODFlWmU3Y0QycFFja3JlTldJblNNTU5KaFJLY3JlZlF6TV9jYkNpN2RnbEtNOUdHNG9sNA?oc=5",
-   "source": "AFP.com",
+   "category": "ai_creative",
+   "title": "Elvis Presley’s music owners file new lawsuit against AI music generator",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQekNGZnpHX3dIUllxN3dXYm1mTGVzaWNfaGhyd0U2NHgtek41THpzY3ZfVGoxYnZJc1ZpMXJBeFRocVRrb0VlenV0UlpUMUR4YTJNbzFyU3dYRGJybnBfWnJ1M1lmNmI2WWFyRTBpLWZSZm1pMDJid3QyNkRLQ0ctaUlPNzZGLWRoaXlsQjhCY0FkTUJhYkYxaFFYRWNidzlvVlZXQnl1NHFOelZ5Xy1KVjR2bjZ3Y3PSAbwBQVVfeXFMTTNGUnBwYm1sdDFNVWZCcVhBdjNYc1gzdHo1RGU3d09CSU5hYkNpbE13dUhGNmpqQTZ5U0k3YnQ5b3p2aWlPdkpKSmFXN1g0SEpDVXRCWlNhcjF4b1Vyd1R0djJjY1RlVDRLbDVoQk1TdjhEWUtpRE1YQmhhY0ttZ1JLeU44Zm5BaU9lMndVbUR0M0hseDhOdHZtSzBSY1N3dHN2dEMxT2lMLVlndm1RUWxJLThyVzhOYzBJZm8?oc=5",
+   "source": "WFRV Local 5",
    "summary": "",
-   "published": "2026-11-07T06:22:54+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Securing AI Agents: Lessons From Real-World Deployment",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SWEZYcVhDYW9ERDRqS25sLUxCcS1xRWFqaGZCTXlLaDFaaXVITWlKUEtZVmZYUjNGaGZjbjNsWHZOUDUtMkU3NUFiVjV4emw1bmxNbm5XdnBkcFdMSkIzUQ?oc=5",
-   "source": "Uber",
-   "summary": "",
-   "published": "2026-11-07T02:31:31+00:00"
+   "published": "2026-11-08T01:20:26+00:00"
   },
   {
    "category": "ai_workflow",

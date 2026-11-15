@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-14T22:34:18.195975+00:00",
+ "updated": "2026-11-15T06:44:42.522925+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+   "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
+   "published": "2026-11-15T06:27:26+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+   "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+   "source": "CoinDesk",
+   "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
+   "published": "2026-11-15T02:50:57+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "From geometry to function: towards context-aware generative AI for engineering design",
+   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPeXlhVWl6UTZFQ0FlM0F6bUZOc0tudjlBN0FJZ0w4ZkdmSm5FWTFzMTNHbElVaWRVTTlsWjRYa1N1Z014X0lwT3BMMVh3NlV1b253VmFJSmZaOVlIR2dmdjdiS1RFTkhRRVExTlZjV2RTb3NYOWlNUWs1alpfZlV3TjJwVExtVDROMG9wTHJ6eWZoOUJNb3Ezd2JTTUZwR0p4d1JPY2hMTWNNazduRDlfTVdMb0lQVGlvSjB6bE1CYW1nTnlkY083SDYzdVZwV0w1TDFRU1FxYmZsVEd0bWpNRmJQc2hBRFl6ODFjek5fWWQxenc3LVZuRzVOMmFmc1dOVjFhN3Z1ZF9LVlk1bS1DTExpTXZxenUwYXJSZ29od3RZS0N4?oc=5",
+   "source": "Cambridge University Press & Assessment",
+   "summary": "",
+   "published": "2026-11-15T00:06:27+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "datasette-llm 0.1a11",
+   "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+   "source": "Simon Willison",
+   "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so…",
+   "published": "2026-11-14T23:59:28+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Inside the First AI Music Awards, a Chaotic Evening Attempting to Normalize Tech-Assisted Tunes",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUlxT0puLTlsaHQ1UkdmXzlPd1dwNkhNbS15Y0hSVDJESlRQWFU3LTVTR0d3dmlpeXlJcjVhYTktblN5VE5Dd3hlVnRkU0NnQkg5WTEzUF8xelBlQXBUMkJwWlJqb0NtbTk4cVY4RDQ0VDlrVUFwU1RkaXRMbHNyeHI5SDBaTENtdmhoalA1TmRFT0hSYkFEUDB6N3QySVVXWjZPQS0yVThqSlE?oc=5",
+   "source": "Variety",
+   "summary": "",
+   "published": "2026-11-14T23:39:00+00:00"
+  },
   {
    "category": "ai_creative",
    "title": "Burbank council bans generative AI art in city’s published content",
@@ -18,6 +58,14 @@
    "published": "2026-11-14T18:01:02+00:00"
   },
   {
+   "category": "ai_workflow",
+   "title": "datasette-vega 0.7",
+   "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+   "source": "Simon Willison",
+   "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it…",
+   "published": "2026-11-14T17:09:09+00:00"
+  },
+  {
    "category": "web3",
    "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
    "link": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
@@ -27,7 +75,7 @@
   },
   {
    "category": "web3",
-   "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+   "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
    "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
    "source": "CoinDesk",
    "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
@@ -355,27 +403,11 @@
   },
   {
    "category": "web3",
-   "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
-   "link": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
-   "source": "CoinDesk",
-   "summary": "While earnings and the company’s newly introduced financial performance measure remained below year-earlier levels, there are signs of improvement from the second quarter.",
-   "published": "2026-11-13T14:02:00+00:00"
-  },
-  {
-   "category": "web3",
    "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
    "link": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
    "summary": "Arthur Hayes said he was “flattered” by Coinbase’s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps.",
    "published": "2026-11-13T13:41:26+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
-   "link": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "A $5.8 million Bitcoin options loss pushed Nakamoto’s quarterly operating revenue below zero, while the company extended repayment of $60 million in Kraken debt to 2027.",
-   "published": "2026-11-13T13:04:19+00:00"
   },
   {
    "category": "ai_workflow",
@@ -400,6 +432,14 @@
    "source": "Simon Willison",
    "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding…",
    "published": "2026-11-12T22:55:19+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "NFON Adds AI Agent Studio to Its AI portfolio",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZHR5SlRodXFsTXl0UGNLU2ZRVVpkSnpMbGcwRlp1SXJoUzVLNUhwOV8xVW5McFk3Q3BMbjRMVEIxbUgwRzktRkgzQ3RnV3FROFY2dFZlSGRnU01nSUVnODJBYjBoZWNndDdyVHMzRHo0cGsybGRQdHI1QmVjeC1HbFlKbjdNenZDYzA3SlE5YnJPdW8?oc=5",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "published": "2026-11-12T22:36:21+00:00"
   },
   {
    "category": "ai_creative",
@@ -427,14 +467,6 @@
   },
   {
    "category": "ai_workflow",
-   "title": "AI Automation Safety: When to Keep a Human in the Loop",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNURZZG94cVRQaFhfWW4zZ0I4MGcydV9wUUtnakFQeHZNcy1tcWJWRFpLdXRXdERTNmR4SmtYZmNFUDV3bV9KRlZhRnZQSmR0WW9Xckh6RGNyc0tPR0V3SDl4YkNOXzI2THRPWnlNVFFETFNTUEpoX2FSRVB4enduZGtn?oc=5",
-   "source": "HackerNoon",
-   "summary": "",
-   "published": "2026-11-12T19:40:52+00:00"
-  },
-  {
-   "category": "ai_workflow",
    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
    "source": "Hugging Face",
@@ -459,6 +491,14 @@
   },
   {
    "category": "ai_workflow",
+   "title": "How Block powers collaborative AI agents with Buzz and Unity Gateway",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSjhTTzE3UGQwaVV3NXBTZzgtZENIaU1ZaXhyZHlQbG5NRXBiX2EtZnlpSXFrQnFNZW9VWF8zMTh2cTZ3V0hPZ1piZmNfQ1p4Y0ljZ2VUQ3dhdkMzcW5RalczUzNsem43VVhYeTRBSERWV2l2Um9sWFctUHdfLTgxVVQxRU9lbVU0SkdkcUpDZWhYdlVnUDFuWmttbw?oc=5",
+   "source": "Databricks",
+   "summary": "",
+   "published": "2026-11-12T16:43:50+00:00"
+  },
+  {
+   "category": "ai_workflow",
    "title": "5 Top Workflow Automation Solutions",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhMXF1VTJBMi1Gbk9WSXI4NUQ2X0JzWE9sQXVkNUdXOXJCaWF6X3dWRE1VQlZDd3ZiZU1xOUVTVWtDcVpvUFJQZHNxRkRrYmJoM3JMamV4OHdjSi1qRVJucV93M2ZMd3Rt?oc=5",
    "source": "Small Business Trends",
@@ -472,6 +512,14 @@
    "source": "Amazon Web Services (AWS)",
    "summary": "",
    "published": "2026-11-12T01:18:23+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "The New Indie Wave: How AI is reimagining filmmaking",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXpUQWZRS1VqTlBfRmNhSHY1RkVGaFlySllsY1R3RUE0MlhmMDNPd3p4UDVNcFBhMmtCN3N1Mm1iQUFlSGhnSE1GRS1uOXZ2dUJ0WWlNUW1pYUFFaGxNU3h4Zmw5bkIzSjh2NmRkMlVJRDZTNFlmVDlSYjdHSXhLb0kweG5UM1BVQXVjbHp3TUFzM3NZNjhYZEJfQk1CNHlHdVMyeDFFeXpXWVh5TVl4X9IBvgFBVV95cUxOb3c1QkgzT3pkLWlzbk1NZU05RzFNbzRrYUU3czVuZmhjZVk0enJhelVBbHZ2X3JiZUtJMi1wYTk5WDkteVc5dkI0WXZ2UXBCcnlPZnhEdXZtSUx4LUljYXJUZHFidFNOdUttZnNNUEMyR2ppZ2VZTVpWNFZpU1BCUjhiQ2lMc0hBZldtcVZreGVYbS1WUm80LVM3ajI5M2lUd1o5Vm03Sl96NGl5ZHVCN1hlM0JCa0RISExUUlFB?oc=5",
+   "source": "The New Indian Express",
+   "summary": "",
+   "published": "2026-11-12T00:34:00+00:00"
   },
   {
    "category": "ai_workflow",
@@ -499,14 +547,6 @@
   },
   {
    "category": "ai_workflow",
-   "title": "United Airlines Blocks A.I. Agents From Booking Flights on Customers’ Behalf",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTVycnZoZS1nNU50eTQ2MGY3RUdNOXpTbi1vRGlWT2VsUTZ0QW1sYnY0amNTdjFDcW9zZ0NuVU5ua0dvS2VFUURrb3IxVGZBVk1lbjJUOExtQWl2a28teDB5RDkzdUJ1RFhwNkJqSTdEZTJTR3Q1X3plUnpSbndiTG9WV0pMMEx0UzRUMmpZcFZpSnJn?oc=5",
-   "source": "The New York Times",
-   "summary": "",
-   "published": "2026-11-11T23:15:31+00:00"
-  },
-  {
-   "category": "ai_workflow",
    "title": "Gemini Decisions API",
    "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
    "source": "Simon Willison",
@@ -520,14 +560,6 @@
    "source": "Simon Willison",
    "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of…",
    "published": "2026-11-11T21:18:30+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVFvenpLcDRGbGZZOVpDSXB1dVJRcHJZM0JXeDNoV2o1cklrLW5DUjI1clZFYTdUb3FKZWlWWFFySkFVWGhLbThaZGpHam12ZV8yRWE5MWotQVJzWVJOS2VyX1ZEMllYeFhIN1RTcU9RQnRfYkVuQ2tRZkxVMTlCaFlXSmZkZUU?oc=5",
-   "source": "Decrypt",
-   "summary": "",
-   "published": "2026-11-11T20:16:02+00:00"
   },
   {
    "category": "ai_creative",
@@ -586,6 +618,14 @@
    "published": "2026-11-11T16:30:00+00:00"
   },
   {
+   "category": "web3",
+   "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORmRoZkxZR1hZb1ZINTdlOXdNOWJTVDJOVGdhcjdhOEN0OFB5aHVvVW51OFVBNndKWUJpTHFuVW9IMjdwVXVSM0JOYTZteHNYanEya1pWbVJHWUQteTJaOHZxbnUwVVNMUUV2Z0lmRXUxVm8wOGpKYmItdFM2SjB1WTh3ZGN3b052LXR3eXpGRjlTdWxQd09GbDE1UDBidDhWazlqeHNKUXppMXAtUXFJTlBadkR1Y3ZDOGUwVVMzRTViME5DVlE?oc=5",
+   "source": "CoinDesk",
+   "summary": "",
+   "published": "2026-11-11T16:00:45+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "Anthropic's IPO roadshow video",
    "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
@@ -635,6 +675,14 @@
   },
   {
    "category": "ai_workflow",
+   "title": "Google rolls out Gemini 4 Carbon to AI Ultra subscribers",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHX0tlbER3VjBGQ0F2eHYyY2RhcXVmUV9RRzN0VTR3d1U3MTduRnBSMENDeE9KTFpXeG11blo4NlN3UEFVbUFFc2E2SWNFUFdKYXo5S2VOTjg2YWlKdzdoVEhhR3FxdlJuLTd2T3JsNFB1UC1ubzFpcV93bzE?oc=5",
+   "source": "Android Authority",
+   "summary": "",
+   "published": "2026-11-11T06:11:00+00:00"
+  },
+  {
+   "category": "ai_workflow",
    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
    "link": "https://huggingface.co/blog/qvac/botpsy",
    "source": "Hugging Face",
@@ -667,27 +715,11 @@
   },
   {
    "category": "ai_workflow",
-   "title": "Hostinger AI Automation Applications: overview",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVndGYVhVOTg0c09Ic3BmaGN3Zm5qTFBSMmJXWldtcEhrX1RsbzBzS1kwcHJKM1NVVTdHbXRBOEF6dFljTGhqLVNIbjQteHlhLUc2SWVteUZrM2NZVnN0SmtWa2x4WkZlSEEzLVJXRTVIcnNxVWxMaXRiazJkbVNJci15c3pqLWs?oc=5",
-   "source": "Hostinger",
-   "summary": "",
-   "published": "2026-11-10T20:14:36+00:00"
-  },
-  {
-   "category": "ai_workflow",
    "title": "llm-gemini 0.36",
    "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
    "source": "Simon Willison",
    "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and…",
    "published": "2026-11-10T20:09:44+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Scalestack Raises New Funding Led by Leonis Capital, Acquires Alysio to Build the Autonomous Infrastructure for Enterprise Agents",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVTFiOVY0ZVFhdm56dkFlaVl1alYweFhfaFZQNnlBWVM1aWZhd29xc3o4SGRQcUJ2cWphQl9TMmNNUkkyZy1hUktBUm1XZVJnT01odmVaTVhEamVrQlAzRjhRbGFJalF5U3JaSGNXcWNKb2dSYndjQTAwckFNWDQ1V1RPRXlpckRFTnQ5ZEJmcDlXUVJqY2VVNGpCNWtpb29TRktFbFBrb0t6ZVo5UGowWmZ1NXRlODc1enZMUy1NTUhBTl92Wkl2dS1ZMGpvZDd4aHFCOWNMRXhwS0VOeE9fNnF0enFGak5SNnY2VzlUeWtHUHRpLWt4Q2ZnR1k2WFBiYWhNcHU4NlFKZ3lDdW9aWXRMNGEwZW9FT2c?oc=5",
-   "source": "StreetInsider",
-   "summary": "",
-   "published": "2026-11-10T18:23:52+00:00"
   },
   {
    "category": "ai_creative",
@@ -770,18 +802,10 @@
    "published": "2026-11-10T10:48:37+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "10 Risks of Generative AI & How to Mitigate Them",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54U1U4WXhZSGFKdDNYcEFqUWxxSjRRQUE4NkpHVFJIRldoU0kweG9xSW5WLTE2NFg2OHVKOUtwMlVaN0dNYkFpT25uYXQzb1lXYTg5U0FiNm4?oc=5",
-   "source": "AIMultiple",
-   "summary": "",
-   "published": "2026-11-10T08:00:00+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "What Is Asset Tokenization? Meaning, Examples, Pros, & Cons",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByZUthN0pZWUQxdDkxbmk3RElkTzBxcmc2T2t1LV9EWTRMMTlsQnRhOVRiQk1vSGw5cjB1bGg4NWprYlcwRWFVQV9fb0FFX3BDc2VTQ2p2MTlYbURzTGRIeUtVZ2xpYlN1cGZjd3lvNA?oc=5",
-   "source": "Britannica",
+   "category": "ai_workflow",
+   "title": "What is Hermes Agent? Definition, features, and how it works",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aazE2d0NyX0F4SDg2eHZZVDlmRGpia05nV3p5Y2xUVVBUdE5uclBjcE90QkxRWm9nM3VIYVV2eWpocFo4UzNnUi16MlZEX0ZzalVFSHY2ck95SGR1dFR0YlgyeXlpMExFZWFLVw?oc=5",
+   "source": "Hostinger",
    "summary": "",
    "published": "2026-11-10T08:00:00+00:00"
   },
@@ -792,22 +816,6 @@
    "source": "Simon Willison",
    "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model…",
    "published": "2026-11-10T07:28:21+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Quoting Prompting Claude Fable 5.2",
-   "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-   "source": "Simon Willison",
-   "summary": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or…",
-   "published": "2026-11-10T05:34:14+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Yonkers Rises",
-   "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
-   "source": "Simon Willison",
-   "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation…",
-   "published": "2026-11-10T03:53:04+00:00"
   },
   {
    "category": "ai_creative",
@@ -858,20 +866,20 @@
    "published": "2026-11-09T21:02:00+00:00"
   },
   {
+   "category": "ai_creative",
+   "title": "29 Rappers on Using AI in Music: What They Really Think",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JR0JkbWJDZGt2eW5JQlZrX25XMFZUUkVJd212dUZyX19DRU15bmFaUG5aVnNmQW1vUUluT1BiNFBBdzVXSXB3ZGZsY1ROZXVscUxfemE0cjZlRTVqWGZka3BHZUpVYVZiN1d6Z0VWSGQyc1Q3WXlr?oc=5",
+   "source": "Complex",
+   "summary": "",
+   "published": "2026-11-09T20:52:15+00:00"
+  },
+  {
    "category": "ai_general",
    "title": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzhYdUhsNzNPQkZ3aVh2eGJ4NEgtNlpiX0tRaDA3UFpFclkzMWRycGVrQlhaZVRNSnVoSlFBY2tWR0dyV2JTWWRBcy1qVnZyQ0VFWWE4SkozSFgyMmdzSXdQMkVLaXVJS0dFUUh5WXd6N1UyRjFGczJvU2VycHVEemxlZkRKQk5PRWtyakNiM0dSdzllZ1ItcjlJRzcyWnhkVE0zTy1paTZpWmJhLWZPaFVpeVFvWjMwNDdn?oc=5",
    "source": "Reuters",
    "summary": "",
    "published": "2026-11-09T20:21:57+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Anthropic Ships Mythos and Fable Models Days Before IPO",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelYxZlZJVWl4amFBYnc4Zk9PTFZVY1RFWFNaR1ZRX09kQXQxMzViQ19fNnJaS1B2VFYzb004dTlqbjk1MGY1OFVsb2V4V1dqT3FLNnRIbWM4WS1lMjZXaGZlSHA5WFB1b210cjBCZm5SNHh3RTl5R1l2TENlX3VwTEh6XzB3WDVCZWFIZzFfQnJmdw?oc=5",
-   "source": "The Tech Buzz",
-   "summary": "",
-   "published": "2026-11-09T20:07:49+00:00"
   },
   {
    "category": "ai_creative",
@@ -896,6 +904,14 @@
    "source": "TechCrunch",
    "summary": "",
    "published": "2026-11-09T19:24:51+00:00"
+  },
+  {
+   "category": "ai_general",
+   "title": "Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaGNFTXptZ1NYTjh3SWxCeUlTQmZ2elFyZG80bW9hdG94NGszVXE5cmxjRV83QVg5UGEwTGVLVjlzXzBKT0xPdVAwc1NCMlhUcEVOY2tBNGxQRHJPQW80bkNvbGp4cW1OazY2NU5IRXRraG93RUhmbzdGMmlVZDU5LVpoczVFOWE0NkNnQjl0eGNCTUpabk1lLTFUa3ItNUQ5MmhvS25IZ1loaG9Q?oc=5",
+   "source": "Bloomberg.com",
+   "summary": "",
+   "published": "2026-11-09T19:00:20+00:00"
   },
   {
    "category": "ai_general",
@@ -1018,28 +1034,12 @@
    "published": "2026-11-08T16:15:00+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "Elvis Presley’s music owners file new lawsuit against AI music generator",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDZ5MEM0Q0tXVWR1NHRrLW1ja2RuSWpRRFdqdGE5eHRFWkE5REFyZWpmNG1LQTBoS2oxYzJhSWR4TDBDSjFTUmV6TmdTZTMtbWxTRzRNQngxQmoxelZDTHUtY1RCd0o0dHJQREVjRnF4T29WNDhvaUdPOU8xWVJDa1p4UHRjc3dTRlBOVHdFcFpHNElIc0Jtanc0NzBUWGczb0xvQzZRVk93RFRFUV93WlQxSQ?oc=5",
-   "source": "WREG.com",
-   "summary": "",
-   "published": "2026-11-08T04:16:42+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-06T00:00:00+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-   "link": "https://huggingface.co/blog/phonon-tts",
-   "source": "Hugging Face",
-   "summary": "",
-   "published": "2026-11-05T00:00:00+00:00"
   }
  ],
  "errors": []

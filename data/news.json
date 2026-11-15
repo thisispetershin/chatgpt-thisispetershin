@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-15T16:26:41.674926+00:00",
+ "updated": "2026-11-15T22:55:55.168068+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest",
+   "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate NVIDIA boss Jensen Huang.",
+   "published": "2026-11-15T22:50:59+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+   "link": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+   "source": "CoinDesk",
+   "summary": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
+   "published": "2026-11-15T19:30:00+00:00"
+  },
   {
    "category": "web3",
    "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
@@ -299,14 +315,6 @@
   },
   {
    "category": "web3",
-   "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
-   "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ compliance and potential conflicts of interest.",
-   "published": "2026-11-13T20:53:20+00:00"
-  },
-  {
-   "category": "web3",
    "title": "China’s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
    "link": "https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts",
    "source": "Decrypt",
@@ -362,14 +370,6 @@
    "published": "2026-11-13T18:00:39+00:00"
   },
   {
-   "category": "web3",
-   "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-   "link": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
-   "source": "CoinDesk",
-   "summary": "The committee that needs to advance President Donald Trump's nominees responded quickly to set his SEC picks for review next week.",
-   "published": "2026-11-13T17:05:43+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "XYBench: Helping with the problem behind the question",
    "link": "https://huggingface.co/blog/allenai/xybench",
@@ -384,14 +384,6 @@
    "source": "Communications of the ACM",
    "summary": "",
    "published": "2026-11-13T16:12:50+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Introducing GPT-6 Sol and Luna",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-   "source": "OpenAI",
-   "summary": "",
-   "published": "2026-11-13T15:00:00+00:00"
   },
   {
    "category": "ai_workflow",
@@ -426,6 +418,22 @@
    "published": "2026-11-13T06:05:48+00:00"
   },
   {
+   "category": "ai_workflow",
+   "title": "Google Launches Gemini 4 Hydrogen in Search and API, Matching Pricier Model in Zapier Automation Test at Half the Cost",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BMFlhUnl0cTdXUENTOWFrUmdXOERZVm9QNEg4NWNCNU9kT2lQaXFiRnNvVGhJQXBaU21TNVNvWEhJR09sSVU2TmtIeE9MbGc1LXYwX2dxT2UycWpBVkJmXzNTTzljRVJEUW9LSXA3M3NicEE?oc=5",
+   "source": "XenoSpectrum",
+   "summary": "",
+   "published": "2026-11-13T03:02:28+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Ethereum price today, ETH to USD chart, marketcap and volume",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhSXdGODUyaVUzcnVzZWVDbWpabzJNVUE4Sm5MQUJkRnkzMzd4X2F2V3AySjIzbzNkWEhSaXhGcFdfNFJkUmN6c0hESVBmWTV1?oc=5",
+   "source": "CryptoSlate",
+   "summary": "",
+   "published": "2026-11-13T01:17:48+00:00"
+  },
+  {
    "category": "ai_general",
    "title": "Anthropic’s Claude Tops AI Rankings as OpenAI Limits Cyber Model",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYlczWW5CYUlhR3h6QzBPcDk2aEZyMjhHZWMtYjJSTWtESjlQRmJBRUJvR0hrc2NfZGxDRDFrWjhaN0llbkhWVkdCdlU5WFhoVmhHUF9sX0U4WW1abWxrd2Rya25XRVdiaGFqZ0VodmhWWWZDMWZpYzBVdXAzbktKejlpQS05S1pYRjJfc3FaaGtxYk9XTzIwV3hlemFOX3hvclhsamFGNFdpM2FBLXczclZseDVpQnppOUNVd0tR?oc=5",
@@ -440,14 +448,6 @@
    "source": "Simon Willison",
    "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding…",
    "published": "2026-11-12T22:55:19+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "Disney and Adobe Partner on Artist-Led Generative AI Models",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTVrdnRBaDNqeEhQdVJBcV84VXczR3VYWjJWc29WWXJiRWJ2Uy01SDJMLURIRDNDWTF6TWFpaDNaMlFmQjFudnpnYnZrR3QtMmxxaFI4VE4yUVY1VHVTUjBXQTFlNGE3UmI4dklaY1FwSFpEdzBsenN4LTdEcFJ1d05HV0J1MUNpOHNsbDI2MjdDTEsyN1c3NEpiVQ?oc=5",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "published": "2026-11-12T21:29:00+00:00"
   },
   {
    "category": "ai_workflow",
@@ -482,6 +482,14 @@
    "published": "2026-11-12T19:07:35+00:00"
   },
   {
+   "category": "ai_workflow",
+   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHJBWXhNR29UYzZjcTVBaS1YT1dYRnd3clBFN3hObnZ2MElMMDlvZEh1czA2RkU5YXJMN3gwbF9GUzNOdk5Dcy1oSTNzd09NbG9ObGZTbHQwWng5UmRkWUptSlRLbWxVUWdUeGZWLXhza1ZzS3RuZ0RYN1Zkd2d0VkZsLUFYdFJRcXZBV1BwamtQZlFucE5MSS1qb3NRUkdkZnFTb19ZUDkyaThJc1Jxd0p5MExodw?oc=5",
+   "source": "TechCrunch",
+   "summary": "",
+   "published": "2026-11-12T17:17:58+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "Pathfinder publisher disputes claims of AI art in its latest book, Feybound",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQ0VZcGRzYWgwMDFqd1UyalU2MzBzY1dwUUhmS0VWN2wtc0RpX1hPWFR5eHpvSS1MRGI2VTRIWVprdXZRZ3FGc3lEMndGcFdHMHc1OEZmQ1Z5emd2UWRXTw?oc=5",
@@ -504,14 +512,6 @@
    "source": "Databricks",
    "summary": "",
    "published": "2026-11-12T16:43:50+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "5 Top Workflow Automation Solutions",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhMXF1VTJBMi1Gbk9WSXI4NUQ2X0JzWE9sQXVkNUdXOXJCaWF6X3dWRE1VQlZDd3ZiZU1xOUVTVWtDcVpvUFJQZHNxRkRrYmJoM3JMamV4OHdjSi1qRVJucV93M2ZMd3Rt?oc=5",
-   "source": "Small Business Trends",
-   "summary": "",
-   "published": "2026-11-12T16:31:00+00:00"
   },
   {
    "category": "web3",
@@ -547,19 +547,11 @@
   },
   {
    "category": "ai_workflow",
-   "title": "Get a Head Start: 10 Undiscovered AI Tools You’ll Wish You Knew About – Set to Dominate in 6 Months",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RTllYbHM2ejhIVXBjQXBvdDY2SHltTThzMG1hVHd1Q09kTWV1QlJSWG1VekZaSmZQNVRKbk5RX19Cc0d3RXdLOXBaZUVZSHhpQUQ4?oc=5",
-   "source": "36Kr",
+   "title": "United Airlines Blocks A.I. Agents From Booking Flights on Customers’ Behalf",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTVycnZoZS1nNU50eTQ2MGY3RUdNOXpTbi1vRGlWT2VsUTZ0QW1sYnY0amNTdjFDcW9zZ0NuVU5ua0dvS2VFUURrb3IxVGZBVk1lbjJUOExtQWl2a28teDB5RDkzdUJ1RFhwNkJqSTdEZTJTR3Q1X3plUnpSbndiTG9WV0pMMEx0UzRUMmpZcFZpSnJn?oc=5",
+   "source": "The New York Times",
    "summary": "",
-   "published": "2026-11-11T23:40:17+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Can AI Agents Help Los Angeles Evacuate Faster During Wildfires?",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX21Ubml2cnpTMDNzWkdfWXZlVXFPb1Ixd1NFb1pMdjJ6WF90LTNlVldFTEpKSUQ5aTByaGdNbEhTcXNpVkRWS0dUY2FkNGJ3TlpTeE5KMjJxZ0d5VkFtR3NHSjRhNlpVZl9mQ0lHTk1qRkhOakE2WGcxalFNdWl5MmFlUzdzOFVyd1l0MjFwTzVIT2dXSzFrVGNMY3AxNlZMN0hDRURjem8xcTg?oc=5",
-   "source": "USC Viterbi School of Engineering",
-   "summary": "",
-   "published": "2026-11-11T23:21:11+00:00"
+   "published": "2026-11-11T23:15:31+00:00"
   },
   {
    "category": "ai_workflow",
@@ -592,6 +584,14 @@
    "source": "Google Open Source Blog",
    "summary": "",
    "published": "2026-11-11T19:31:54+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Adobe Gives Sneak Peek at Real-Time Generative AI Video Editing Feature",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVdIOHBlcWdZNnUzZ3V5Q1BMWkpuQVJ1c2FWZk1HVUJWX0dIMGVtcC0tOGM5YmVfZ2tJdFg1dmFRMXAzQUczY1N4elpWNkVyb2Y4cDJwbkticDFWU0k2SkFIeF9BaDk5TEtaLU0tY21XcWt4UENpU1lSNEh1LTdmMkxCSEh5MnNCNFhXa3ZwQVB3b08wa1JaWnNBb1BCdUxYZ0RBZ1poZ2ZKdw?oc=5",
+   "source": "www.wtyefm.com",
+   "summary": "",
+   "published": "2026-11-11T19:23:23+00:00"
   },
   {
    "category": "ai_workflow",
@@ -643,14 +643,6 @@
   },
   {
    "category": "ai_creative",
-   "title": "Adobe Gives Sneak Peek at Real-Time Generative AI Video Editing Feature",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUVXTm1ZQjhMWV9HUU13MkR0WmhlMmh0RHgyR0gzQURadTRlUlluRHAzSVcwTXRPakFWbkFKNng3UE5Dd1J5WlFhYkRIVXhLdUlLRHZCZllYV2YzeF9XQncyLXg5UjBtbVZGd1JFVmFXNmd2SC1QbERYcjd5UGVwX2R4MDh1QTVTRDRwVjA3R213dGFpanNoczNCSVNTYWsxNnFXek9nNk9jbVk?oc=5",
-   "source": "Variety",
-   "summary": "",
-   "published": "2026-11-11T14:00:00+00:00"
-  },
-  {
-   "category": "ai_creative",
    "title": "Generative AI Has Taken Work From Almost Half of UK Illustrators, Survey Finds",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2ZFam02b0Zmd1FfTXM4VmlGcmFNTEwwNlN4bG54MDdWNTNVV1VFUVpPOXo3a2RoUmx6YmlCWlE5cTBtVk5LR2pwVmxNV1R1TzNLMTFzenhRbzRPM25VbjBENDVwVFA3ZVVRYkpXOTZYWW9mSzJLZXBlV3p4OU1NMjYtQlNqOVprOXU2UA?oc=5",
    "source": "Ocula",
@@ -659,11 +651,11 @@
   },
   {
    "category": "ai_workflow",
-   "title": "Obsidian expands AI agent security with runtime policy enforcement",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS3JsMjJVdEVka3FrSWZyN0ZMeDZTUG9TS0ZUY3lubEw5OVdvVFVYaWxieUFYR0VCdU5ZYks1cHRFMjVwY0RKV3VUdkZ4M21KN3BObXk4Q1EzS3lxbFp0NWtwUVRzOWZ3NThueWVCb1pEbk81eWhrS2RoTFZYYU02QWo5V2Jmd281SFFOS05zTm5qVVJPVGlJ?oc=5",
-   "source": "Help Net Security",
+   "title": "Top 10 Best AI Productivity Tools In 2026",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xRWZ1TXVrWE90bGNlN0pIbkZYWGFHMlVEWi1VdFBlNHJsc3k5dHhzTXJxME0wZ1JiZVVnN0xDLTNfLUsyWDBWa1VFRVRFSzFMSkFQTVR2UUNtN0QtUWRockk1WjNocTQ?oc=5",
+   "source": "Nubia Magazine!",
    "summary": "",
-   "published": "2026-11-11T08:44:50+00:00"
+   "published": "2026-11-11T12:35:00+00:00"
   },
   {
    "category": "web3",
@@ -691,14 +683,6 @@
   },
   {
    "category": "ai_workflow",
-   "title": "45% of execs limit human AI oversight to high-stakes work, or don't have any oversight at all",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdjFWalJIUkszSWVTMzlOMmRJMk51eW9yUmtVaVBoUmlZcTdkdlV1OHExR3ZVSlNUeGkwVXQ5emJzV3dMS0FPejhYX2xPX2xYOGxUUW53QlJ1RjBHXzhWNHljVWlkWHBsQW5lVW51SnIxeWY2emlodkdyU0ljUl83QVYyQ3NWNFBhQXU5a2JhVFBBRmlGX1EyUjBGU1JtOGNJd0l4WWR6dGw3ZkZsUkRBV0FUMkpsR1FZenc5VUlfUlFzdDZ6V1RxMXpjcndvNWdNdDRZRFAtV3NMOUVF?oc=5",
-   "source": "KRDO",
-   "summary": "",
-   "published": "2026-11-11T03:10:10+00:00"
-  },
-  {
-   "category": "ai_workflow",
    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
    "link": "https://huggingface.co/blog/token-pooling",
    "source": "Hugging Face",
@@ -722,14 +706,6 @@
    "published": "2026-11-10T20:09:44+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "Scalestack Raises New Funding Led by Leonis Capital, Acquires Alysio to Build the Autonomous Infrastructure for Enterprise Agents",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVTFiOVY0ZVFhdm56dkFlaVl1alYweFhfaFZQNnlBWVM1aWZhd29xc3o4SGRQcUJ2cWphQl9TMmNNUkkyZy1hUktBUm1XZVJnT01odmVaTVhEamVrQlAzRjhRbGFJalF5U3JaSGNXcWNKb2dSYndjQTAwckFNWDQ1V1RPRXlpckRFTnQ5ZEJmcDlXUVJqY2VVNGpCNWtpb29TRktFbFBrb0t6ZVo5UGowWmZ1NXRlODc1enZMUy1NTUhBTl92Wkl2dS1ZMGpvZDd4aHFCOWNMRXhwS0VOeE9fNnF0enFGak5SNnY2VzlUeWtHUHRpLWt4Q2ZnR1k2WFBiYWhNcHU4NlFKZ3lDdW9aWXRMNGEwZW9FT2c?oc=5",
-   "source": "StreetInsider",
-   "summary": "",
-   "published": "2026-11-10T18:23:52+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "SwitchBot AI Art Frame 2 Review: The Future Of Art? Not Quite",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iWHBCdjl2TUN6YzdVaHFQaXJDZ0xyb1EzTVV3N0h1ZV9pZnlKRlRJakhlSkM4MTA4V0d5VFpleWNLZFlkSERXLUhKYUswSmoyWUhKdmFnN2NDWTJyalV6R0ZTa3kzRmE1cWNSZw?oc=5",
@@ -746,20 +722,28 @@
    "published": "2026-11-10T17:32:22+00:00"
   },
   {
+   "category": "ai_creative",
+   "title": "Is ArtStation's new AI art policy good enough?",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSjM5ZzlqVGlrSlU1YmZZaWNDRjdPWEVFUUY1UHEyTDRHaGdqNExGQXVUeEg3YTBKUW1qbTBKelRLQ0ZOQ3B3Mm1EZDdRdkRhT3dQUlRQcldRMnhoNUJxNzNqTVEtVEo3bjR2Q1V6WWphY0k0eDE4X0o5bUxKbWctNUhERUZDMkJTQ2tjOEVreXRPdw?oc=5",
+   "source": "Yahoo Tech",
+   "summary": "",
+   "published": "2026-11-10T17:00:00+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "45% of execs limit human AI oversight to high-stakes work, or don't have any oversight at all",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTEIwV2NLNEZobzkxOHZrR1BibHF4SWRZei1PMlNwTzFHcFJCNkFlaFBLWkhqYUExTldIaE1RdUMybnhSdWI3YThPMkNFLXJzdnRsTmNIRlJtdFZNbTZaWV9GclFtRTR3U1ctM3lVTmZXWTdHeGt4UEFrcDIxREhHZ0U0U19OcjNFZjNmU2laTlRPRzJRbl9XMWpvMlRnZjMxLV9qWVVxNWw?oc=5",
+   "source": "Richmond Times-Dispatch",
+   "summary": "",
+   "published": "2026-11-10T16:13:00+00:00"
+  },
+  {
    "category": "web3",
    "title": "Goldman, Citi Among Banks in $270 Million Stablecoin Backing",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcV9UemExa2pjNzdiRXhQb1BqQTd3SEZpMjdRY1ZYRWFIWG5UYVl5cUZsb3dfdmJQX1czNmxmNFlOMk1HUlRDaDZlZmtTcVByajFueDBUeDVyaG41MDNMSDliQ29FV21uM3NvWXpCMXRuNEUzNjRqVjd2UkFtbVZXNl9DalFWb09wVXUzenpvcFNKM3BFc21SM0JSSzdSV2hpRWIyZFBOME9MQlFzSnc?oc=5",
    "source": "Bloomberg.com",
    "summary": "",
    "published": "2026-11-10T16:12:55+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Scalestack raises early VC round led by Leonis to govern enterprise AI agents",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFQtNUE4RHNsdUQ4Zm0zSnE2ajA2WGVsa1RUUmo5MjRxSWtpYXl5aVg1RktvdzZPUVlZaEc0RTlMUG8wbG1WRzdkaFJPQXFvaHNvdHBseVQ2aGY5MDZjTDhlYmpELWs3cVZmcTVrNzFsRHJOb0lDcWQzTmIxVV9wUnIzazFrRE9fTVVwRXJFb212MVFiRHM5bkFNcU1Od0xIeGZzMWFGSWVIbUNFOVpnMw?oc=5",
-   "source": "Dealroom",
-   "summary": "",
-   "published": "2026-11-10T13:30:55+00:00"
   },
   {
    "category": "ai_workflow",
@@ -834,22 +818,6 @@
    "published": "2026-11-10T07:28:21+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "Comparing the best AI chatbots for work in 2026",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFNWJkTmF1cHJPUkdfZ21uVDZiVEh4bGRUU3BmajM4a0hLMkFNUEpDTndEd0tpSTZoa3Z2d3ptSVdJcnFybVoxWnE0blpfbjdEZjBaWENDdzVYdVlmR1ZkZjc0MA?oc=5",
-   "source": "Slack",
-   "summary": "",
-   "published": "2026-11-10T07:06:09+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Winners and Losers From AI Agents",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnREUS0wZXpCVi1hVkJqR2paMFZMZ1c3Y2l2RjVNSzBBOUFRanVvSjJsUDRjdEdTMmZaWE1wNjVYWFlRN0VXNmxhM0tPWFlIXzBtUl90eEJEaGlvR3F2LVdTZWRMR3FJQnQzSmJxVDYydnZyLVpJTDhRUF9fQllrcS1hMzZTbkFNMG1xT1BkR2l1enhva2F4RjE5TG8xQXlaRUFZVHlUSQ?oc=5",
-   "source": "Morgan Stanley",
-   "summary": "",
-   "published": "2026-11-10T01:22:26+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "AI Account Rips Off Animated Short To Promote Filmmaking Classes",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVZ4cmpWODFEUlhtZEh6RGR3dU1tbjltQU1PTVpJOVJsbzdaVnhEUG1QZzVHeGRpYkNiYzRGQ19ZX2lHX3dvQW8ycDBYelBFdlR2QVFLQzlqVHA0c29vblBlUmstdHRXU2ZKQUpRSEhDdEUtTnpDZEtLOF9Zc1Q1cnFxcXlPRTJCMXdBVkluWHhHclVSTFNVQkd1UjA?oc=5",
@@ -896,6 +864,14 @@
    "source": "Fortune",
    "summary": "",
    "published": "2026-11-09T21:02:00+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "29 Rappers on Using AI in Music: What They Really Think",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JR0JkbWJDZGt2eW5JQlZrX25XMFZUUkVJd212dUZyX19DRU15bmFaUG5aVnNmQW1vUUluT1BiNFBBdzVXSXB3ZGZsY1ROZXVscUxfemE0cjZlRTVqWGZka3BHZUpVYVZiN1d6Z0VWSGQyc1Q3WXlr?oc=5",
+   "source": "Complex",
+   "summary": "",
+   "published": "2026-11-09T20:52:15+00:00"
   },
   {
    "category": "ai_general",
@@ -962,12 +938,20 @@
    "published": "2026-11-09T18:33:45+00:00"
   },
   {
-   "category": "web3",
-   "title": "PNC Opens USDC Stablecoin Payments to Corporate Clients",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3ZfWHItM1BBNVZ4dkdLVi1uSW13RkZhdlJSOV9xMUFZZXpHaXJsUUFPVzVibHp5RUp5S1FDOUdaQlVXVjVlajN0eHhkQlVhakZwUG1aMDUtcXhtN1FoZE4xTUNMZ1NzMTgyajZJQ1hBcUFrbDNGZllQRmphZG9rQjZyelpvakxsVnlNVFA0QjVaNXZpb2JITFkwZm9Vdw?oc=5",
-   "source": "PYMNTS.com",
+   "category": "ai_general",
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5",
+   "source": "OpenAI",
    "summary": "",
-   "published": "2026-11-09T17:52:04+00:00"
+   "published": "2026-11-09T18:30:12+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin and Ethereum Just Hit Their Lowest Prices Since August After $1 Billion in Liquidations. Where Do Analysts Say They Bottom?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVNEeFpkbjRXWUFQbU1mVEtKYk5PSWNlYm9qM0U4aGtUcVd1NzA4Yzl2QzczcWJFdFAtS2lQeENFdUVpUGtzRl9UMjdkMFFXUWJ5X19BWTA5SFpCcS1rRzZCX2JLWU1WTHN1dDZFSmZZaVZnVm5rNnV3UmpFNFVSOTI1aEtNZEJ5al9kcXdSMFlaaDkzVWRPRzZvLUtEdw?oc=5",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "published": "2026-11-09T17:01:15+00:00"
   },
   {
    "category": "ai_workflow",
@@ -1010,28 +994,12 @@
    "published": "2026-11-09T11:06:08+00:00"
   },
   {
-   "category": "web3",
-   "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZm9aVmM0Mzlnb2FPS1k3ZmU2YXNFNi1sdlJBeW8xS1otS2ZGRkloWXhId1oxTFM0N2NrZkJzNnNSeUwwSjAzX1lVTXJEcVgtekFJTmVLODNfSng1MmZWQlYzR2ZvcHl4S0sxX1hBR2tSb1VqMFhGdFRUdTJ3WkdBMWkzYUNQM0pEUUNWdG00WDdnWUxIYUhwX0pwYk5qRnlWTkRfTC1rMEhHcnlqR0xWbGlqb1dmbWJGZFJIVzNvMm1PUmRacV9vZmtyaC1mY1V0LV9MZA?oc=5",
-   "source": "The Block",
-   "summary": "",
-   "published": "2026-11-09T09:05:00+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "ClickUp vs Zapier - 2026 Comparison",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0dPN05oSTR4QzlLZ2VQWF80LTNZejlaQXBuSkdKeGxyckc1dWxjNmFKa1AxMGpYWGx2RmhpVmxDRldYQ2NRVHNJUzFTbEs5OU1iREh6WDJNblRlMXFSWXJzaWM5ZXFERHh4cmk4QXVZekI4NmFmNll3aDZxcjNRTVNR?oc=5",
    "source": "Software Advice",
    "summary": "",
    "published": "2026-11-09T08:00:00+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "All the latest in AI ‘music’",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXl2XzVuUmRDck92VFVjRTNRSkthcnZiakEzMnY0T01qMHpmMGduS2ZaUHJiOVFETy12SHBGelNCZlpRN2twVFJRaDM1ZzROWGJkcHhUNUFJUWU1Z1Y4bFBQRzIyeU1EVjdieDhNWXNPdUZaR0Y4VlVZTHJqcFdfU0NXVF9kUWF4NzBIMjNpbHRXQUE?oc=5",
-   "source": "The Verge",
-   "summary": "",
-   "published": "2026-11-08T17:23:19+00:00"
   },
   {
    "category": "ai_workflow",

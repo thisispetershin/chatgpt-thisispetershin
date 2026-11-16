@@ -1,13 +1,117 @@
 {
- "updated": "2026-11-15T22:55:55.168068+00:00",
+ "updated": "2026-11-16T06:43:51.571423+00:00",
  "items": [
   {
    "category": "web3",
-   "title": "US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest",
+   "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
+   "link": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
+   "source": "CoinDesk",
+   "summary": "Toto Finance’s 22 million ADA treasury request expired Sunday with about 20 million ADA in favor, and none of Cardano’s seven constitutional committee members voted yes.",
+   "published": "2026-11-16T06:27:42+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "AI music used in UK's oldest carnival 'disappointing'",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaDZGRXNwWEtJOHc3dUpmNVBkQU4xMEE0RkRMVlN2UWYyVHRSb3JmSl91dzRCLWFSR0ZwR3hhak0waGIxNGdnR24wNzNZSWFFOTZXc25BbDlCalFtaVFHa2tFeVAxb1JLTFNSbE9qSWxhVmpmYllNdExjQTl5RXhodjlFYldsRmZvdU5VSEVsVFFFcjlLVnZaS1dCMXdOYl8tQU9xVUlBSUEtWl81RW11MnhfSkFOb1dqRjVSel93VWdiRmszWVRkQnY0cUhyZFRiQXZTSldJVWE3c0lrM0JsRVV6dw?oc=5",
+   "source": "BBC",
+   "summary": "",
+   "published": "2026-11-16T06:25:12+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+   "link": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+   "source": "CoinDesk",
+   "summary": "The Wall Street Journal reported that the move aims to help the firms expand overseas and compete with global rivals, though nothing has been confirmed.",
+   "published": "2026-11-16T06:01:41+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Here’s what happened in crypto today",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "published": "2026-11-16T06:00:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+   "link": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Aster’s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational.",
+   "published": "2026-11-16T05:28:40+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+   "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+   "source": "CoinDesk",
+   "summary": "The $60,000 put has replaced the $100,000 call as bitcoin’s biggest options bet on Deribit, with $900 million in open interest after the recent slide.",
+   "published": "2026-11-16T05:01:17+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+   "link": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "The weakness came amid a wider sell-off in regional equity markets, with Japan’s Nikkei 225 down 2% and South Korea’s Kospi losing 2.6%.",
+   "published": "2026-11-16T04:42:07+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
+   "link": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses.",
+   "published": "2026-11-16T02:33:07+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "datasette-maplibre 0.1a0",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+   "source": "Simon Willison",
+   "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you…",
+   "published": "2026-11-15T23:58:36+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+   "link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support.",
+   "published": "2026-11-15T23:47:45+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "datasette 1.0a43",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette/",
+   "source": "Simon Willison",
+   "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output…",
+   "published": "2026-11-15T23:20:27+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "datasette 0.65.6",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+   "source": "Simon Willison",
+   "summary": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be…",
+   "published": "2026-11-15T23:18:17+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
    "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
-   "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate NVIDIA boss Jensen Huang.",
+   "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
    "published": "2026-11-15T22:50:59+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mTC1pcW45ak1kSVRFNUxLQ3RBZnktaWNXZm5oWUVTSFNjRnFYR3hEaDQ5MFRHSTF1YXdIUVZKZ3BCQ3RSZVZjcktnb2NSbS1pM0hfMmpxaFBLRWljZFU1a0N4eFFCT1lwUk9TeA?oc=5",
+   "source": "infoq.com",
+   "summary": "",
+   "published": "2026-11-15T20:00:11+00:00"
   },
   {
    "category": "web3",
@@ -51,15 +155,7 @@
   },
   {
    "category": "web3",
-   "title": "Here’s what happened in crypto today",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "published": "2026-11-15T11:18:48+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+   "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
    "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
    "summary": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
@@ -75,11 +171,27 @@
   },
   {
    "category": "web3",
-   "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+   "title": "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak",
    "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
    "summary": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
    "published": "2026-11-15T06:27:26+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "datasette-apps 0.4a0",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+   "source": "Simon Willison",
+   "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support…",
+   "published": "2026-11-15T04:02:45+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "datasette-agent 0.6a0",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+   "source": "Simon Willison",
+   "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette…",
+   "published": "2026-11-15T03:49:47+00:00"
   },
   {
    "category": "web3",
@@ -226,36 +338,12 @@
    "published": "2026-11-14T08:12:30+00:00"
   },
   {
-   "category": "web3",
-   "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-   "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.",
-   "published": "2026-11-14T06:33:13+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-   "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
-   "source": "CoinDesk",
-   "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
-   "published": "2026-11-14T04:30:00+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "NiCE's next-generation Cognigy bets the hard part of AI agents is running them, not building them",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlNBVlZFaElpMF8yenlzZzlLRE53THl4a19EZE5PX3UtUlVYeDUxQWk3OFZ6NzhLOG1HR3BTT2NMdXh5Y3FQM3lMaUUxam5ySjlIVnppaWRBWVl6MW9XY253Z1J2a0dWbks2VV9EaXltTTBGX3B0c3BXUmtyemNUcWhlYjRUNUpMRGNPa0FPQ3Q5TTN2a01XU3ZKY0RSLTZoWHRRQ2J0TURqMHc2TjYxQTg0eVlqbDFveUtkRFFMODV6RVFGSE9DZVdWV2M?oc=5",
    "source": "SiliconANGLE",
    "summary": "",
    "published": "2026-11-14T00:49:00+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-   "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-   "source": "CoinDesk",
-   "summary": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a…",
-   "published": "2026-11-13T23:30:00+00:00"
   },
   {
    "category": "ai_workflow",
@@ -283,35 +371,11 @@
   },
   {
    "category": "web3",
-   "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-   "link": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.",
-   "published": "2026-11-13T22:01:03+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
-   "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.",
-   "published": "2026-11-13T21:49:27+00:00"
-  },
-  {
-   "category": "web3",
    "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
    "link": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
    "source": "Decrypt",
    "summary": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betting on platforms like Kalshi and…",
    "published": "2026-11-13T21:36:03+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
-   "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded.",
-   "published": "2026-11-13T21:01:39+00:00"
   },
   {
    "category": "web3",
@@ -347,14 +411,6 @@
   },
   {
    "category": "web3",
-   "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-   "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-   "source": "CoinDesk",
-   "summary": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move.",
-   "published": "2026-11-13T18:39:58+00:00"
-  },
-  {
-   "category": "web3",
    "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
    "link": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
    "source": "Decrypt",
@@ -386,6 +442,14 @@
    "published": "2026-11-13T16:12:50+00:00"
   },
   {
+   "category": "ai_general",
+   "title": "Introducing GPT-6 Sol and Luna",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+   "source": "OpenAI",
+   "summary": "",
+   "published": "2026-11-13T15:00:00+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
@@ -411,11 +475,11 @@
   },
   {
    "category": "ai_workflow",
-   "title": "United bans AI agents from booking flights",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2JUZGFvWVg4ZnB5OEM5R0tUaFpnUndmTVhMU05NNV83bDZBTmNLMzFBeHRIT00wOTluMGM0TzBCVmpZRlI1VEJMcDJsTUJqU3pXT3hWTmNLZXFKbF9xd0NmNm4zaGJaSnM4Q3RRM0FRMVp6SzVoWTdOM1VrZG9XcTNITzY?oc=5",
-   "source": "Morning Brew",
+   "title": "OpenAI’s Daybreak brings AI agents to security testing and vulnerability fixes",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWxESklzMUdSWThlNHJVS2ViM2M3b2R2RjduTXFXN05OaXhzRzRZTFJ0UzFycWV0UnBST1dFbllRWk5GNTJQSnhXd3hMQV9pN1M4RkFuRU11dU5nb1ZqeG1qSnNsWFp4bWJRZDliaUIxQlU2RTVsX0dCdmpZYVBzZl9DN2JGclVqcVRQY1FHcmktRHdBd2JaNWR6c2U0TjY5RkZXbXlKY2h0SVk5MTRnZ3lUNHdES2VZ?oc=5",
+   "source": "Help Net Security",
    "summary": "",
-   "published": "2026-11-13T06:05:48+00:00"
+   "published": "2026-11-13T09:31:07+00:00"
   },
   {
    "category": "ai_workflow",
@@ -458,14 +522,6 @@
    "published": "2026-11-12T20:24:59+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "What Happens to Human Creativity in the Age of AI",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5McVhpZHFxWGs2anRtUldSWnIxX195UnhuVVdac242djUtV3l6cmdrWl8zX2NLdjhqX1JYd1ByMlIzTEswczRCWUFLODFReUgwb05WQzBmRjFKbFRCY2Y2Tmp3UFRESjZ2eEhNajZKWG1mR0RGU3c?oc=5",
-   "source": "Duke Today",
-   "summary": "",
-   "published": "2026-11-12T20:05:35+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "AI Automation Safety: When to Keep a Human in the Loop",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNURZZG94cVRQaFhfWW4zZ0I4MGcydV9wUUtnakFQeHZNcy1tcWJWRFpLdXRXdERTNmR4SmtYZmNFUDV3bV9KRlZhRnZQSmR0WW9Xckh6RGNyc0tPR0V3SDl4YkNOXzI2THRPWnlNVFFETFNTUEpoX2FSRVB4enduZGtn?oc=5",
@@ -482,14 +538,6 @@
    "published": "2026-11-12T19:07:35+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHJBWXhNR29UYzZjcTVBaS1YT1dYRnd3clBFN3hObnZ2MElMMDlvZEh1czA2RkU5YXJMN3gwbF9GUzNOdk5Dcy1oSTNzd09NbG9ObGZTbHQwWng5UmRkWUptSlRLbWxVUWdUeGZWLXhza1ZzS3RuZ0RYN1Zkd2d0VkZsLUFYdFJRcXZBV1BwamtQZlFucE5MSS1qb3NRUkdkZnFTb19ZUDkyaThJc1Jxd0p5MExodw?oc=5",
-   "source": "TechCrunch",
-   "summary": "",
-   "published": "2026-11-12T17:17:58+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "Pathfinder publisher disputes claims of AI art in its latest book, Feybound",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQ0VZcGRzYWgwMDFqd1UyalU2MzBzY1dwUUhmS0VWN2wtc0RpX1hPWFR5eHpvSS1MRGI2VTRIWVprdXZRZ3FGc3lEMndGcFdHMHc1OEZmQ1Z5emd2UWRXTw?oc=5",
@@ -504,6 +552,14 @@
    "source": "Respect My Region",
    "summary": "",
    "published": "2026-11-12T17:10:22+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "More game developers are starting to use generative AI",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTUZfa0JfcllfZ2Voem5BS0c0aUNINHlwaWRmTWg4WGl6QnplOTYzTjA1TldGS2N1OXBLcFZUZ1p2THhNSER1RlNka0NGVGhFdG55OXBWbi1VdjlmenNMaXdJLXU4ckE5M25Ka1pKdHpDcmtwX2VzUW5OQkpkUGdqanNKdW5DMTRtYlF6SXZtRQ?oc=5",
+   "source": "The Verge",
+   "summary": "",
+   "published": "2026-11-12T17:00:00+00:00"
   },
   {
    "category": "ai_workflow",
@@ -595,14 +651,6 @@
   },
   {
    "category": "ai_workflow",
-   "title": "Browse tools.simonwillison.net by tag",
-   "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-   "source": "Simon Willison",
-   "summary": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set…",
-   "published": "2026-11-11T18:42:50+00:00"
-  },
-  {
-   "category": "ai_workflow",
    "title": "KT ‘Meisters’ and Microsoft engineers build AI agents to spot network issues before customers do",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRmlHa010N1huTWRDb2xmYS1JcDVPMFBDdS1lV0pQSG5RNUxKOVdwNEUxbjV5NkxRaklPU1J0MTRMT3BWcGFUMURoRERaellDblY0M2tQM2x1OVBDSEFrdlFYaVcwWW90dm5RalFmbk4ya3NJbE1NdE1Za21qdi00T09veHRyNTdPUGMtM3JEQlRaY1lPQ0RWZy1hbG9aLXJHM3VnV3JvYWFEWHdTaVhHaXNPUy02R2FUMm0xS3hJck9ZSDl0U2dNbzVEUnhjNkRBdkhkejczd2lJdmx1R0JyMmVPV2wwVXdGdFotb3BvaGJQNUE?oc=5",
    "source": "Microsoft Source",
@@ -618,28 +666,12 @@
    "published": "2026-11-11T17:34:06+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "llm 0.37.2",
-   "link": "https://simonwillison.net/2026/Nov/11/llm/",
-   "source": "Simon Willison",
-   "summary": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai…",
-   "published": "2026-11-11T17:19:52+00:00"
-  },
-  {
    "category": "ai_general",
    "title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRWk4aHJ6dlBrb2g2aVVXMXpGSFZ1TUVod3lfS3ExYndhY2NIUDZIbGw4MHhFYzJqSGlSa19xREZEdXM2Y3Jya05lMzFzTEdsbEZ6djV4b3JLNW9oQk10a05rVnZlQ2tsV0s5S2xDdUxyM3I4TGNuZ3FUWTh3LVVDa0JzR0tQNFoxNzBDRVg2RHNCdGNFbXJtWnY3NVlYN1NMaTNFaS1Cak93SHEyNG1iYzRqZkFCUnlhczhXNjVrVUtqRmc3Ql9BS2tfakd4aWs?oc=5",
    "source": "SiliconANGLE",
    "summary": "",
    "published": "2026-11-11T16:30:00+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Anthropic's IPO roadshow video",
-   "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-   "source": "Simon Willison",
-   "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\"…",
-   "published": "2026-11-11T15:11:59+00:00"
   },
   {
    "category": "ai_creative",
@@ -698,14 +730,6 @@
    "published": "2026-11-10T21:44:32+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "llm-gemini 0.36",
-   "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-   "source": "Simon Willison",
-   "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and…",
-   "published": "2026-11-10T20:09:44+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "SwitchBot AI Art Frame 2 Review: The Future Of Art? Not Quite",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iWHBCdjl2TUN6YzdVaHFQaXJDZ0xyb1EzTVV3N0h1ZV9pZnlKRlRJakhlSkM4MTA4V0d5VFpleWNLZFlkSERXLUhKYUswSmoyWUhKdmFnN2NDWTJyalV6R0ZTa3kzRmE1cWNSZw?oc=5",
@@ -741,9 +765,17 @@
    "category": "web3",
    "title": "Goldman, Citi Among Banks in $270 Million Stablecoin Backing",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcV9UemExa2pjNzdiRXhQb1BqQTd3SEZpMjdRY1ZYRWFIWG5UYVl5cUZsb3dfdmJQX1czNmxmNFlOMk1HUlRDaDZlZmtTcVByajFueDBUeDVyaG41MDNMSDliQ29FV21uM3NvWXpCMXRuNEUzNjRqVjd2UkFtbVZXNl9DalFWb09wVXUzenpvcFNKM3BFc21SM0JSSzdSV2hpRWIyZFBOME9MQlFzSnc?oc=5",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "summary": "",
    "published": "2026-11-10T16:12:55+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "Scalestack Raises Funding Led by Leonis Capital, Acquires Alysio to Expand Enterprise AI Platform",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbzZhOGNRV1RuNDFNRXl2VDhzMnlKS2FldjA5XzlQcmgydmUzdkc5VjZWUzU1d3M2djZEQVFKV09aX3ZRRDJBNDdxVDduNkhjdU10TFEyOHlNYjdsMDZQUEhNWGg0bGNLWFBHR2w4M2UtaThZZmNodUxmNVBFdHI5RktxNHhrWWQyWWs3cDcxZjBGWDJZb0xvZkpuTFNMRkV4dGEtWlY3OU8yNXdPTW9seC14bXJmMWVxWWtObk5fUDhzWEFJekwzTE5xOVdkQTdL?oc=5",
+   "source": "citybiz",
+   "summary": "",
+   "published": "2026-11-10T14:50:11+00:00"
   },
   {
    "category": "ai_workflow",
@@ -810,14 +842,6 @@
    "published": "2026-11-10T08:00:00+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-   "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
-   "source": "Simon Willison",
-   "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model…",
-   "published": "2026-11-10T07:28:21+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "AI Account Rips Off Animated Short To Promote Filmmaking Classes",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVZ4cmpWODFEUlhtZEh6RGR3dU1tbjltQU1PTVpJOVJsbzdaVnhEUG1QZzVHeGRpYkNiYzRGQ19ZX2lHX3dvQW8ycDBYelBFdlR2QVFLQzlqVHA0c29vblBlUmstdHRXU2ZKQUpRSEhDdEUtTnpDZEtLOF9Zc1Q1cnFxcXlPRTJCMXdBVkluWHhHclVSTFNVQkd1UjA?oc=5",
@@ -864,14 +888,6 @@
    "source": "Fortune",
    "summary": "",
    "published": "2026-11-09T21:02:00+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "29 Rappers on Using AI in Music: What They Really Think",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JR0JkbWJDZGt2eW5JQlZrX25XMFZUUkVJd212dUZyX19DRU15bmFaUG5aVnNmQW1vUUluT1BiNFBBdzVXSXB3ZGZsY1ROZXVscUxfemE0cjZlRTVqWGZka3BHZUpVYVZiN1d6Z0VWSGQyc1Q3WXlr?oc=5",
-   "source": "Complex",
-   "summary": "",
-   "published": "2026-11-09T20:52:15+00:00"
   },
   {
    "category": "ai_general",
@@ -938,28 +954,20 @@
    "published": "2026-11-09T18:33:45+00:00"
   },
   {
-   "category": "ai_general",
-   "title": "CodeRabbit scales agentic software development and ships 20x more",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5",
-   "source": "OpenAI",
-   "summary": "",
-   "published": "2026-11-09T18:30:12+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Bitcoin and Ethereum Just Hit Their Lowest Prices Since August After $1 Billion in Liquidations. Where Do Analysts Say They Bottom?",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVNEeFpkbjRXWUFQbU1mVEtKYk5PSWNlYm9qM0U4aGtUcVd1NzA4Yzl2QzczcWJFdFAtS2lQeENFdUVpUGtzRl9UMjdkMFFXUWJ5X19BWTA5SFpCcS1rRzZCX2JLWU1WTHN1dDZFSmZZaVZnVm5rNnV3UmpFNFVSOTI1aEtNZEJ5al9kcXdSMFlaaDkzVWRPRzZvLUtEdw?oc=5",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "published": "2026-11-09T17:01:15+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Can We Trust AI Agents When Zero Trust Isn’t Really Zero",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wV2JYWGRRNkE0Si1hLW5mVHFhbjNPd245VkRaOTB0SGdoMzh2UThxSU1LZFlXczBWelBnYkd1VWszZVpxWHhoeUxNN0VfbmhNaW83cHNuWGtnT0pXeFNTZUhsV21UTnA0Wlg4UQ?oc=5",
    "source": "IEEE Spectrum",
    "summary": "",
    "published": "2026-11-09T16:35:04+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "CLAUDE Code Course Starts Today at 8 30 PM EST",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcHk0RjFIRmlseEwzS2JmTUJPNWhpN0pjQUdUclJuS1ZBMDlhZGJhSUt3d1FZZVF4cVRxai0tMEswVndnelI4cXJ3UWg0T3hRQVpFeHRhVE14RGZjSS0tNDM5dUFfbS0zdWduWXFoTkdNMDJpS3FpNTBDaWpVdFE1RVZUSFI1S083VzdSLUhjNGJFaFk?oc=5",
+   "source": "GreatAndhra",
+   "summary": "",
+   "published": "2026-11-09T15:31:55+00:00"
   },
   {
    "category": "web3",
@@ -994,20 +1002,20 @@
    "published": "2026-11-09T11:06:08+00:00"
   },
   {
+   "category": "web3",
+   "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZm9aVmM0Mzlnb2FPS1k3ZmU2YXNFNi1sdlJBeW8xS1otS2ZGRkloWXhId1oxTFM0N2NrZkJzNnNSeUwwSjAzX1lVTXJEcVgtekFJTmVLODNfSng1MmZWQlYzR2ZvcHl4S0sxX1hBR2tSb1VqMFhGdFRUdTJ3WkdBMWkzYUNQM0pEUUNWdG00WDdnWUxIYUhwX0pwYk5qRnlWTkRfTC1rMEhHcnlqR0xWbGlqb1dmbWJGZFJIVzNvMm1PUmRacV9vZmtyaC1mY1V0LV9MZA?oc=5",
+   "source": "The Block",
+   "summary": "",
+   "published": "2026-11-09T09:05:00+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "ClickUp vs Zapier - 2026 Comparison",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0dPN05oSTR4QzlLZ2VQWF80LTNZejlaQXBuSkdKeGxyckc1dWxjNmFKa1AxMGpYWGx2RmhpVmxDRldYQ2NRVHNJUzFTbEs5OU1iREh6WDJNblRlMXFSWXJzaWM5ZXFERHh4cmk4QXVZekI4NmFmNll3aDZxcjNRTVNR?oc=5",
    "source": "Software Advice",
    "summary": "",
    "published": "2026-11-09T08:00:00+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-   "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-   "source": "Hugging Face",
-   "summary": "",
-   "published": "2026-11-06T00:00:00+00:00"
   }
  ],
  "errors": []

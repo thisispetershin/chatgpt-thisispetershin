@@ -1,13 +1,213 @@
 {
- "updated": "2026-11-19T02:38:28.180306+00:00",
+ "updated": "2026-11-19T11:50:10.398232+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+   "link": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
+   "source": "CoinDesk",
+   "summary": "Blockchain investigation traced $518 million in illicit-linked activity, including the 2025 Bybit hack, through a key reserve backing DAI and USDS tokens, putting Sky's institutional finance ambitions and open design…",
+   "published": "2026-11-19T11:30:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
+   "link": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Shareholders will vote Dec. 7 on whether H100 can buy back up to 10% of its shares, potentially using a Bitcoin pool that lost about 30 BTC in Q3.",
+   "published": "2026-11-19T11:19:58+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "GameStop CEO Says Digital-Only Games Have ‘Hurt Consumers’ as GTA 6 Skips Discs",
+   "link": "https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs",
+   "source": "Decrypt",
+   "summary": "Ryan Cohen said publishers are cutting out trade-ins, as he backs a U.S. bill that would guarantee gamers keep access to games they buy.",
+   "published": "2026-11-19T11:15:08+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction",
+   "link": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
+   "source": "CoinDesk",
+   "summary": "The maker of Claude priced its Nasdaq debut at $83 a share for a $1.5 trillion fully diluted valuation, with the Nasdaq 100 down 14% from record highs.",
+   "published": "2026-11-19T11:06:13+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "‘Highly advanced’ quantum computers could crack financial encryption in five years",
+   "link": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
+   "source": "CoinDesk",
+   "summary": "No quantum computer can yet break widely used cryptography, but the securities watchdog says banks and blockchains face a yearslong security overhaul that many have barely begun.",
+   "published": "2026-11-19T10:55:29+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
+   "link": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
+   "source": "CoinDesk",
+   "summary": "Nasdaq futures jumped nearly 2% with Anthropic shares indicated as much as 24% higher, and one analyst said IPO money could flow back into crypto.",
+   "published": "2026-11-19T10:48:26+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
+   "link": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
+   "source": "CoinDesk",
+   "summary": "The central bank aims to expand this digital settlement network and test wider collateral use in 2027.",
+   "published": "2026-11-19T10:39:36+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
+   "link": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.",
+   "published": "2026-11-19T10:32:05+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+   "link": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
+   "source": "Decrypt",
+   "summary": "Bitcoin is down 13% in a week as investors pull money from spot ETFs and brace for another Federal Reserve rate hike.",
+   "published": "2026-11-19T10:25:05+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
+   "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+   "source": "CoinDesk",
+   "summary": "Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized strategies.",
+   "published": "2026-11-19T10:22:12+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+   "link": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.",
+   "published": "2026-11-19T08:54:58+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+   "link": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000.",
+   "published": "2026-11-19T08:26:19+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "BTCPay Server issues emergency update for 5 security flaws",
+   "link": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "The EU’s cybersecurity service said the flaws could let attackers to run malicious code remotely on vulnerable servers without logging in.",
+   "published": "2026-11-19T08:04:37+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
+   "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share.",
+   "published": "2026-11-19T07:55:56+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Fed's rate hike push may be a mistake. Here's why",
+   "link": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
+   "source": "CoinDesk",
+   "summary": "Experts argue that the Fed is looking at the wrong data as it pushes for more interest-rate hikes, with falling gasoline and energy prices suggesting inflation pressures are already easing.",
+   "published": "2026-11-19T06:23:19+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+   "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026.",
+   "published": "2026-11-19T06:00:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Here’s what happened in crypto today",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "published": "2026-11-19T06:00:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQclI2UlBqalhoUmgtUzlLUmJaRHNvbUxiay1mQTJzWkNnaXBKcF9oNjY0U0JkRjhDX0JHSnNhUXlRQ191OFIzbTVENVU3dWNGWG1NbTYxVTlaUkxDQjFMcllHang0ZlA0YndQS0NtSHh6QjhpSUo2eF8wS3NKODFXcEFBYlgzMFdaTThxZGRXY1oyLVVSUGEzbFMydEZsRWM0ajJlQjd6cE5pQlE1OE9jcXR6SnNtQlV4a01RRExIV3J4dw?oc=5",
+   "source": "CoinDesk",
+   "summary": "",
+   "published": "2026-11-19T05:47:26+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+   "link": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.",
+   "published": "2026-11-19T05:27:45+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Support Small Artists, Avoid AI Music",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMRldRRmR1eGlyRGVYT3JrX2U3TG55Vk9hektwcENTb1NTeF9LWUhkNTg5UGxqNmJRUG5DUy1zUDJaUkZLdWZwLUI4SVJfM3dCRVk5clRpVnZrWW94cDRvSW5kdU1BY2JrX1BLVHcyTUFwUUk?oc=5",
+   "source": "The Hoya",
+   "summary": "",
+   "published": "2026-11-19T05:19:16+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
+   "link": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Stablecoins accounted for at least $3.46 billion of the $6.3 billion stolen, while the hackers also took memecoins, tokenized gold and gaming tokens.",
+   "published": "2026-11-19T05:09:45+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "AI agents inherit employee access, and nobody’s watching how they use it",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWkwb1Q5cXNIV3BiRzVOamRIa1RvdEF1OExOejhTVVBON3NUZFdjd2k5c0N0ZmEwSkxxQlpjSWZkaDkzUWNyUWg1UWRjUmpfYjBZQnBoSy14VGJyQW5lMXZkeEZ4VEMxa0YzSjMtX2xMa2MyRUt3Y0hwMVgwMTZvcnBUUkdvcnUwU1VtVnpDTU5RZ3FoMFlSeUlMTlg?oc=5",
+   "source": "Help Net Security",
+   "summary": "",
+   "published": "2026-11-19T05:00:37+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
+   "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
+   "source": "CoinDesk",
+   "summary": "Hyperscale Data needs another $74.8 million to complete its Michigan data center project, even after selling its remaining bitcoin and raising fresh debt.",
+   "published": "2026-11-19T04:46:10+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "UAF artist explores the future of authorship",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDdGOXg5Q05QQ21RMEV2emZNelB1V0VGbTJRR1k2Wmw3Mk95ZFJETEIyOGNpX05wZy04b19SYmdmNWp1VGlybzhrSXY2QXFVSHl1Vzg0d3duZTZvQ3VSMmN5LTRINW5qSjdOSXJmNEpwVzFuWEFNQlhGVEtiSHpHcWxNa2lSbmxv?oc=5",
+   "source": "The Sun Star",
+   "summary": "",
+   "published": "2026-11-19T04:37:25+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+   "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+   "source": "CoinDesk",
+   "summary": "Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant’s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with notable fine print.",
+   "published": "2026-11-19T03:40:48+00:00"
+  },
   {
    "category": "ai_creative",
    "title": "Deezer survey finds widespread support for AI music labeling",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZThoNVh3dVFCbmgtSEZoVF9vQjBQdll1eng1Q1RKUkFNN0c5N2FJYjJFNWtYVzdDQ2Fad2VYV2FQMUxLQ1l4emtCLS0xbjRVZG5PMDBqcGNCVmNkaFUzN1dSRHpDUlptc3d5UXoxbHVDUmlPT0MxYjJFUkF6djU2eURGc1lsWjZkZUNHX2tEZmNXWjBm?oc=5",
    "source": "Electronic Groove",
    "summary": "",
-   "published": "2026-11-19T02:15:00+00:00"
+   "published": "2026-11-19T02:16:24+00:00"
   },
   {
    "category": "web3",
@@ -34,12 +234,28 @@
    "published": "2026-11-19T00:33:46+00:00"
   },
   {
+   "category": "ai_workflow",
+   "title": "HPC meets AI agents as Google Cloud targets time to discovery",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSUhXMXNYNFRKRm52elJzRTUtNm0xNTlCdnlzT0k5RUNCQ2p5MGZzWnNaWXRzQlA5RHZlNFg5M2FVTVh1U2czNmtGYloxR1FLQ2JwWmp3MDZ0ZnBIR3ZTd2R1V2FjRkppQWE3YUh0WFpJdDEzQkFGYW1qcXdETlFPSjNESmo5ZEdvXzIyQzV1TDk5dHVGN3VlaDB6TE9JQQ?oc=5",
+   "source": "SiliconANGLE",
+   "summary": "",
+   "published": "2026-11-19T00:23:00+00:00"
+  },
+  {
    "category": "ai_general",
    "title": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1ZjWGY0QTNQeDhqM2lfazJKT2FVWXRPNkk0VzIwRnJOWFdpQmJvdGRSU0I5WTRXblE2NVZIV1RlYVlZMnpvSFJOUzhvZEFhYlRRaXdCTUl1OWdyeFZIcjQzZU5yMmJQZXNXUFpDTkRNMlBEV19QR1NnRTU1OUppaG16LU8?oc=5",
    "source": "CalMatters",
    "summary": "",
    "published": "2026-11-19T00:15:00+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "llm-gemini 0.38",
+   "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+   "source": "Simon Willison",
+   "summary": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was…",
+   "published": "2026-11-18T23:59:20+00:00"
   },
   {
    "category": "ai_creative",
@@ -75,27 +291,11 @@
   },
   {
    "category": "web3",
-   "title": "Here’s what happened in crypto today",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "published": "2026-11-18T22:09:15+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Vault: Lummis, Gillibrand boost state stablecoin powers",
+   "title": "Lummis, Gillibrand boost state stablecoin powers",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWkZmT3REZlFYQ1hBek9fQkdJanEzZ0NlSjBnM3pLaGh6RlN4YzR1OU1KMGZOT01BcnNqNy1YLXFjS3Y4NmJjQ3A0dGxSVWxlaXhralU1S2tnSTRMMmhiZE1KY0Noc0lJa3NFSXRPT3gyNlZsSmxNdjFKdmVlX1JDT3hETEdiOFdvcWU0?oc=5",
    "source": "Punchbowl News",
    "summary": "",
    "published": "2026-11-18T21:59:28+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
-   "link": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "S&P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest available score.",
-   "published": "2026-11-18T21:57:35+00:00"
   },
   {
    "category": "web3",
@@ -114,36 +314,12 @@
    "published": "2026-11-18T21:16:02+00:00"
   },
   {
-   "category": "web3",
-   "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
-   "link": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Ledger advised customers who purchased devices in Berlin since January 2026 to contact support as it investigates suspected hardware implants in Germany and Dubai.",
-   "published": "2026-11-18T21:13:58+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
-   "link": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Variational raised $110 million at a $1.5 billion valuation to expand Omni’s derivatives markets and increase trading limits.",
-   "published": "2026-11-18T20:32:06+00:00"
-  },
-  {
    "category": "ai_general",
    "title": "OpenAI Ties Frontier Model Releases to Lifecycle Safety Reviews",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYzR6QWxhOXEzdTZtczhuaUpvbE1BQzMxZTBUb0hwU25sTDNCQ19IR29uZjVpVTBDVnN6cU5rTERBMGpXTVJ2TEVWaHNyRmFaTDJsOW1tSmQ4YnJOU2M2a25fd0s1elJXTjB2Y0N5d3JLT2NVMVZiZHpzSUFuenJYREZjNEdEYmsydHZYa3d3?oc=5",
    "source": "Unite.AI",
    "summary": "",
    "published": "2026-11-18T20:24:06+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
-   "link": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "The court orders allow legal notices to be served via blockchain and provide for a continuously updated list of 26,000 wallet addresses linked to stolen assets, Binance’s lawyers said.",
-   "published": "2026-11-18T20:20:37+00:00"
   },
   {
    "category": "web3",
@@ -211,14 +387,6 @@
   },
   {
    "category": "web3",
-   "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
-   "link": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "The Bitcoin miner is taking on new debt to finance its AI infrastructure expansion, with the Long Ridge acquisition adding nearly $69 million in annual interest costs.",
-   "published": "2026-11-18T18:27:52+00:00"
-  },
-  {
-   "category": "web3",
    "title": "Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
    "link": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks",
    "source": "Decrypt",
@@ -251,43 +419,11 @@
   },
   {
    "category": "ai_workflow",
-   "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRHNqd0hod1hNMEdGRTMwTHU3cS1NbVZ4dlBYamVFQ1lLa0oxSUVkd3BFSzJpS05rZ05VVV9BQkRvSlpxaS1STmZKVUNlRGpWZmRUV2hPVTlJdHZpSzNUR2pYYWpGTk5BcHhrQkhUY0ducUZSd2VBWS1VQklsajBFR3cxbmM1VUo0OWFMeElKSzUwWkFFQjlQVm43QnA2WkRxTms4RW1kVGdJemV1YU15QUZGVnpScHRB?oc=5",
-   "source": "TechCrunch",
-   "summary": "",
-   "published": "2026-11-18T17:32:10+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "OpenAI Releases GPT-6.2 Astra and GPT-6.2 Sol",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5OGhpMTltamRYZFlFODgzXzhKMERsdHJ4cDhUeFJoUXhnOGk5cldRMXVDYVZteS1yQkhIX1NDWDBjaVlBZWEzRVE1cF8tV1c0Rzg5c0xqMnRHTkxTX2RkaE56T1lhTUww?oc=5",
-   "source": "CASRAI",
-   "summary": "",
-   "published": "2026-11-18T17:30:07+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
-   "link": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
-   "source": "CoinDesk",
-   "summary": "Variational and its investors are betting that the future of onchain trading will look more like a traditional brokerage than a crypto exchange.",
-   "published": "2026-11-18T17:22:03+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
-   "link": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "BlackRock’s staked Ether ETF earns a cut of what traders pay for priority on Ethereum, the acquittal left the legal risk to that income unresolved.",
-   "published": "2026-11-18T17:05:04+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Polymarket US takes rapid-fire crypto trading format to oil, natural gas",
-   "link": "https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Polymarket US said it attracted more than 300,000 traders to its short-duration crypto markets in six weeks and is now expanding the format to energy commodities.",
-   "published": "2026-11-18T17:00:00+00:00"
+   "title": "datasette-arrows 0.1a0",
+   "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+   "source": "Simon Willison",
+   "summary": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a…",
+   "published": "2026-11-18T17:09:59+00:00"
   },
   {
    "category": "web3",
@@ -298,44 +434,12 @@
    "published": "2026-11-18T16:57:53+00:00"
   },
   {
-   "category": "web3",
-   "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
-   "link": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Bitcoin price action dropped below $63,000 after fresh hawkish comments from the Fed as Nvidia earnings optimism faded.",
-   "published": "2026-11-18T16:34:20+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
-   "link": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
-   "source": "CoinDesk",
-   "summary": "A single breach moved billions out of Binance in minutes, exposing how much client money sits with the venue that trades it. Darren Jordan of Komainu argues institutions should keep trading and custody separate, as…",
-   "published": "2026-11-18T16:02:54+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Quoting Daniel Stenberg",
    "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
    "source": "Simon Willison",
    "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more…",
    "published": "2026-11-18T15:58:27+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
-   "link": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
-   "source": "CoinDesk",
-   "summary": "Prosecutors estimate the defendant still holds 56,000 BTC, meaning the proposed deal would leave him with roughly $1 billion.",
-   "published": "2026-11-18T15:38:38+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
-   "link": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
-   "source": "CoinDesk",
-   "summary": "As Hong Kong pushes banks to use AI to combat crypto crime, experts say the technology must detect suspicious transfers without putting customer funds at risk.",
-   "published": "2026-11-18T15:23:18+00:00"
   },
   {
    "category": "ai_workflow",
@@ -371,27 +475,11 @@
   },
   {
    "category": "web3",
-   "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire",
-   "link": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
-   "source": "Decrypt",
-   "summary": "A German judge has offered to drop the charges if the alleged operator of the piracy site gives up most of his remaining Bitcoin.",
-   "published": "2026-11-18T14:20:52+00:00"
-  },
-  {
-   "category": "web3",
    "title": "OCC Issues Final GENIUS Act Rule, Establishing a Federal Framework for Payment Stablecoin Issuers",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZkw5T1FpOUozZlhSZ0JCQnBjdFJDeVpPM00yelg1ZFZDY3pnWFZUTGhfVGhFUm1lTVkwaXJ0NVlkSHEtVzJ3c1VMS0hkVlpnaFNEOEQ4SHBhSmZpejFNOUVyMjQ2R3psV3VfczBUOWdqNjZBSTgwXzgtUExvXzk4X3hERldBeWhaZWp6d1ZsQ2RBYkVILUc1VFZ1SVhxS1ZxN1c0ZU4xNDJXVklhbDMyMjk4dzNjUjVIQzk5eF9iM09KbHNGZ0tnNlQ0S1d4bmVyYmxyTlQtaXlpM3Z5Mlk3Yg?oc=5",
    "source": "Consumer Finance Monitor",
    "summary": "",
    "published": "2026-11-18T14:18:54+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
-   "link": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "FE covenants encode spending constraints into the signing key, so only transactions that satisfy a predefined condition can be signed.",
-   "published": "2026-11-18T14:04:50+00:00"
   },
   {
    "category": "ai_workflow",
@@ -400,14 +488,6 @@
    "source": "Cybercrime Magazine",
    "summary": "",
    "published": "2026-11-18T13:58:14+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Morning Minute: Nvidia Beats, Board Says ‘No’ on Jensen",
-   "link": "https://decrypt.co/383530/morning-minute-nvidia-beats-board-says-no-on-jensen",
-   "source": "Decrypt",
-   "summary": "Nvidia delivered its best earnings ever and raised forward guidance. And yet, the market mostly shrugged. What does it mean?",
-   "published": "2026-11-18T13:37:20+00:00"
   },
   {
    "category": "ai_creative",
@@ -419,22 +499,6 @@
   },
   {
    "category": "web3",
-   "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
-   "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
-   "source": "CoinDesk",
-   "summary": "The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shifts more of its business toward AI infrastructure.",
-   "published": "2026-11-18T12:53:34+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
-   "link": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
-   "source": "CoinDesk",
-   "summary": "Bullish’s institutional focus may have shielded the company from the decline in activity experienced by rivals catering to retail traders and offers some insight to its revenue beat.",
-   "published": "2026-11-18T12:41:09+00:00"
-  },
-  {
-   "category": "web3",
    "title": "Vitalik Buterin Just Gave Ethereum Investors a Wake-Up Call. Here’s Why It Could Be Time to Sell.",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3hfQTYwLUN3a0ozck5qNXM0YldBR2hTalJrekhLdkJCY3FxVWFhWVczME12OF9keGpqbGh1b3dYREVPeTEwbVBGVTR1N1RKTFdaS3RvMV9oeXk3T3FtVXRCZ255eFpXZUhfZTMxTXhJRTBSdkZRQkUzLVRrTlBCMDVPWVM5X095MkZRb2JqUWowSkNOWXFqRHR5bERaY1VQ?oc=5",
    "source": "Yahoo Finance",
@@ -443,19 +507,11 @@
   },
   {
    "category": "web3",
-   "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
-   "link": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
-   "source": "CoinDesk",
-   "summary": "The Singapore bank will let institutional clients buy and redeem USDC directly as banks across Asia develop their own blockchain payment systems.",
-   "published": "2026-11-18T12:25:14+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
-   "link": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
-   "source": "CoinDesk",
-   "summary": "Your day-ahead look for Nov. 18, 2026",
-   "published": "2026-11-18T12:15:00+00:00"
+   "title": "OCC finalizes regulations implementing the GENIUS Act",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSnhKNjFTbHNKMkVXX0VoWW9Ld213QUVGVy1HWU9DckowRmRTU2NqWkstVm1GWFZabWVWeFA4T1Fuc0ZOVXdLUGlfeElQWVRGQ3Jodkoxenp5X294WWZzclVNU0U0aElVcHMzY1NHcnp4U0dJWWFtSmZYWDFuQWtjWFJJUW1lb1o4Mlh4eXEtdC02MWM?oc=5",
+   "source": "White & Case LLP",
+   "summary": "",
+   "published": "2026-11-18T12:00:00+00:00"
   },
   {
    "category": "ai_workflow",
@@ -466,28 +522,12 @@
    "published": "2026-11-18T11:59:34+00:00"
   },
   {
-   "category": "web3",
-   "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
-   "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
-   "source": "CoinDesk",
-   "summary": "Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep pace with rising stock index futures after Nvidia beat earnings.",
-   "published": "2026-11-18T11:42:52+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "Suno now lets you make AI videos for your AI music",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVh3djJ4NHdxd01DeUpybHdQejBaYUpoYzJ0UG5yOUVZbkVIdjk4N3oxNU84UUs4S2xyMURRamVYX2E4ek9NQXhSQU9nV1c4MmtSUTFkODRpVFU0RHZpWGlrZi1ZakY0R3dDYXA4aVRCN2VHQ2JPcnN1ZXNpTmN4QUVfNGJ6dzIyZGJzOTQzUlQxRi10ZWh3TVR0M0Z2dTJOLXNzWEp3M1lfUQ?oc=5",
    "source": "The Verge",
    "summary": "",
    "published": "2026-11-18T11:16:53+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
-   "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
-   "source": "CoinDesk",
-   "summary": "Bitcoin held near $64,000 as gold fell 2%, lifting the ratio between the two above its 200-day moving average and extending a series of higher lows since March.",
-   "published": "2026-11-18T10:58:36+00:00"
   },
   {
    "category": "ai_creative",
@@ -498,36 +538,20 @@
    "published": "2026-11-18T09:59:38+00:00"
   },
   {
+   "category": "ai_general",
+   "title": "Anthropic says its AI models hacked 3 organizations on their own during tests",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "summary": "",
+   "published": "2026-11-18T07:45:01+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "Salesforce starts another round of job cuts as AI pressure mounts",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vYWw1UDFvaXl6dDdXWlYxSlUtOWVjZ0VGX1cyci16aWdmNU1vRjBFOGJqdnZWaEhDM2hMZFltZnp1SU5qTkdtUDR5YzVOdjlBd0RVbVhQUVlOT1VIX3RXekJkdGNEWHpFeGktTUwxd3BOQmFQbmhWRGFpeldwUQ?oc=5",
    "source": "Wocult",
    "summary": "",
    "published": "2026-11-18T07:29:25+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "OTCC urges US policymakers to bolster OT cybersecurity, fund resilience, govern AI agents as threats accelerate",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONE9BS1R5N1QwcUdQMWdxcW50cWVrRU9tMzRicURZei1UV2luaTd6WU5WNllwRW9zWnBxM0h4NlBIMzFZUThnRW01Ukl3NFRDRjZJOWsweE1PaTVrUlpza3BhZUpRamFZME9xcWt3aUZzTTNoZzc5NkVnbjliaUNaaDNxemgxR010a2JuUS1GamZRaFB6eEg3QlFTeDJzOHJMWDVmZmhXOVBRZ0o0ckN0UlRxSmhnZ2NldUhDSXN6b2pfUFY1SWRyQWVkUkVMUzJEVjhfWjBxUQ?oc=5",
-   "source": "Industrial Cyber",
-   "summary": "",
-   "published": "2026-11-18T07:26:59+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZmd6RmdaUFVzbXpzNXZyQVV1UWdaUU52UTY0QXZaS0UxbFBubUVIY2llMnFjckowMU52c2FYWmpyY3oxVDBnVEh6LWpmZVMxNUlIZ0dZOENNc1dBTFNKQkt2WTI5amJxLTUxRGtPM25xTGFHVkx0TXVBaHhKX08zazdHeGJmQ0tkNHQ5OGVpMHlaY0J3eDdnZHdFMkNrRXU0dng5aUxR?oc=5",
-   "source": "The Block",
-   "summary": "",
-   "published": "2026-11-18T04:21:00+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "Suno Visuals turns AI music into images and short videos",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOE8tbTFWS3Q2LURzaWNBVUtna1luWEs0NXNUbVpHRnRjYnhES1RMcXBkRVRkSnVyTHlISWZmTm9abFNKQ2J4a1JEemt6MmFsSHh6MzdaV0oxVm1qY3BSMDNqZ0NYTHhTWFl6ZXNzdjNYdlFlNHZUX0Q3WktPTk9EaVVYQTZ5dG5lRUJOUTR0Mm81MUdRSDd6bjZZRHFCcHhNU0VYblhHNDFNaTdNaGpTTzY5ei1pbDQ?oc=5",
-   "source": "KarloBag.eu",
-   "summary": "",
-   "published": "2026-11-18T02:47:14+00:00"
   },
   {
    "category": "ai_workflow",
@@ -554,14 +578,6 @@
    "published": "2026-11-17T23:32:49+00:00"
   },
   {
-   "category": "ai_general",
-   "title": "Anthropic says its AI models hacked 3 organizations on their own during tests",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "summary": "",
-   "published": "2026-11-17T23:06:35+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "External sandboxes for coding agents",
    "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
@@ -584,14 +600,6 @@
    "source": "VentureBeat",
    "summary": "",
    "published": "2026-11-17T22:33:40+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "California sues OpenAI over AI agents hacking a software platform",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON2tNN2FfbWktOWJTVU1ZdUl6eVJkSnQ2azVvZjI5SG1QeWRXdGJjOXNuN3FyLXVXNkVSRGgwdWR2MGZqMldrdnNuQW44bUtheG1RQUN5LV9fVFExWk5PWi1TYlJxVHJSd3A5Rmg4U0c2U2M0aFBGVi1YTE4tbEF1bUZyYTJibWpaQ1lHY3BXdXpaWHVFUEpJQnBBOTEwUkRkWEFWdmxweWRZLVNzcGI0?oc=5",
-   "source": "NPR",
-   "summary": "",
-   "published": "2026-11-17T22:25:11+00:00"
   },
   {
    "category": "ai_creative",
@@ -618,12 +626,12 @@
    "published": "2026-11-17T19:59:14+00:00"
   },
   {
-   "category": "ai_general",
-   "title": "OpenAI releases updated Astra AI model with new safeguards",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTzNuRWRCOUx3UllMTV81WWJHOWZxM0ZOVUNhdUlKT3dacFRDeXVoU2g4MEtkNGZ0a0hZUE1vcUVHZFE5MGpvSWFjMTNUamJBaERGcEtHNFpiOC1VTU5yUUIxX1ItdEF4R0dFVlkyRUtyT0RiOEtWUEVlbTdOangtb0tVWWpSdV9uU1g1bnBNM3NndUNEUkg5dDB1Sklxd1dqTThhMk5WZ2RQVy13S0RXNDRn?oc=5",
-   "source": "StreetInsider",
+   "category": "ai_creative",
+   "title": "AI Music Company Claims It Owns a Musician’s Recording, and YouTube Takes Her Video Down",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeWt1S2pDbDI4OHE1RURmcFNxOXE2OGxKLTVvMUgxLTdoS0dZNzQ1dTI1Yk45OXRHanVZNC1VcHI4bldBNzl0eU00blJCY0hPX3RwVHpnYUplNHpHeVEyNl9hVS1NRVdlajVzdVFUemJJT04xR2dfN2xjdlVoZ25xTl82X05ZZDZmelE?oc=5",
+   "source": "Yahoo",
    "summary": "",
-   "published": "2026-11-17T18:18:44+00:00"
+   "published": "2026-11-17T19:12:03+00:00"
   },
   {
    "category": "ai_general",
@@ -669,17 +677,9 @@
    "category": "ai_creative",
    "title": "AI Music Generator Suno to Let Users Create Music Videos",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdnpHaGdtSS1QSnNMekFIc3daQzJ5UTljaWZiazhKS2h4WlRnXzM0ck5aM1hWUm9RZERtSlhIbENRV1hvS0Rub3ZMX3RoNXJwVDZ5cUpIS19jNG83T3ZyQWNobW5ELUpFcTNDMHJORjNUZVZfekx4dHAwWUN4WFhZQW12LTFpdGlsR2JsRE9UVGJieVlRVVFacWd6ZVhlcE5FbGJrUWJnOGVmZms?oc=5",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "summary": "",
    "published": "2026-11-17T15:00:00+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "IWGB Game Workers Union leads manifesto on generative AI use in the industry",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZjNPaC1wb2pWT3B6alBwOHVUUjdjeXp1M3RIQU44OW12bkVFNzZfNHFXNXNmaXZmaURaSUV0djNBdmJmMk9SRzhTVEZCSXhWSlhGX2xHZW5ONzg0ci1Ubzc2VkoxdlNvVjhVU2RPYjVXNDdHc1RMX3JJWmg0VndZOU5TRzRna0pubjkyWUNIME9rZTAxUEFtSWNaQjRSRld1OERXWi0yMEtqZw?oc=5",
-   "source": "GamesIndustry.biz",
-   "summary": "",
-   "published": "2026-11-17T14:28:00+00:00"
   },
   {
    "category": "web3",
@@ -754,14 +754,6 @@
    "published": "2026-11-16T23:00:00+00:00"
   },
   {
-   "category": "web3",
-   "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmszM1lzclB2RFRmdXhEOE54WUJHUUUwNnl5MzVPVXpRS2hIS0t3Xy02dExtRnFUb21aWmNmc3pWTDBYb1ZpVWZMQUdLU01xQndwOEV0THZhWGp4bUZhX19tUnlmNGszYjF3a1ItVGhJRlNrR2ZlTVJ3ZzJZNG01MnNucnRkS0xwN3NnOUZFTTVTLXZ5bzRkVkUzSW4?oc=5",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "published": "2026-11-16T20:36:03+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "AI agents promise a life free from friction. The cost could be human judgment.",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXR6dGhSMTlEYmNxLXhveU1KUGQ3ajZlWWI3aERTb25xYjZjcnd3NkVFZ1pfaDVYdHJfNnhXREZZWlRlS25xNTNjUnJsZzM1Nl9sZ1pMZ3hsMDJ5MWVxZXN5VnhrazRRdUlYVGhPNkNPNFRHUFY2Q1M0S1o0YksxekZPLVRuUHltdHEyX0xVZW9leVJtcnJ1ZXZPcnA2OGd4N3NmcHhjc1N5YmJLeU5ITExqbHRQeDJwN3pJYw?oc=5",
@@ -792,6 +784,14 @@
    "source": "shattered.io",
    "summary": "",
    "published": "2026-11-16T16:27:54+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "2026 State of Cloud Security Report: Beyond Human Scale - How AI Agents Reshape Cloud Risk",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3BIZG1VbmNFZ2YzNHQwT0RQTFVWSmxqOUduWExkenotdFM1NUNNSjN2NmdwZjZOSTFnbGhTUUNqTXEyMklLaGxyUDZmQW1zQ1RBNUdhakFQd1BRR3NWSy1kVnJGdlo0OU1kQ00yYnQxazlVNjZQSXM2Zi1Lb05icTNad1ZKS3VObzgtWG0zSEtZRWhoOFV0aF9GYVhheWEtRlJEOWpOZzBVNFFsNUh3?oc=5",
+   "source": "Palo Alto Networks",
+   "summary": "",
+   "published": "2026-11-16T12:59:04+00:00"
   },
   {
    "category": "web3",
@@ -866,20 +866,12 @@
    "published": "2026-11-15T20:00:11+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "datasette-apps 0.4a0",
-   "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-   "source": "Simon Willison",
-   "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support…",
-   "published": "2026-11-15T04:02:45+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "datasette-agent 0.6a0",
-   "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
-   "source": "Simon Willison",
-   "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette…",
-   "published": "2026-11-15T03:49:47+00:00"
+   "category": "ai_general",
+   "title": "Anthropic’s giant IPO puts the heat on OpenAI",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTd6eHRac3JHWEQ5TElWUXZZUWRsMHdXckRQbjJ6X3ZvOFUtVHZDcjFBVWVqOE9LVnNPS3NWeDROZUtsRFdEdklzRzctYlpWbWszbElsMU94VWxtUm5OZ1ozdUxWWnVGRlpGM3ozYWxISG5fS1Y5QlB1bVQ0Z09sVGphWmgzMlpKMWduNkZYX0N1b1Br?oc=5",
+   "source": "The Economist",
+   "summary": "",
+   "published": "2026-11-15T19:49:20+00:00"
   },
   {
    "category": "ai_creative",
@@ -920,6 +912,14 @@
    "source": "Yahoo Finance",
    "summary": "",
    "published": "2026-11-13T20:07:43+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Accelerate design space exploration with AI on AWS | Amazon Web Services",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDFfU1RyZ2hMRHM4azhZQzFaWTExXzBGekJyTjgwWUZobnBydG5XMFg0LXVtM3ZiRk9HRE1nSF9zamhTM3djNjU2NU1tcy1zZkhVdXlvbndSa1JUYjhrRkw1UG9aU0hfQ2hESTVxZnBsR0RWa2l1QXpxVXVLS0FtOWlxZ2lqN3lMQjBieHNaM2FwWXctb2c?oc=5",
+   "source": "Amazon Web Services (AWS)",
+   "summary": "",
+   "published": "2026-11-13T19:01:19+00:00"
   },
   {
    "category": "ai_workflow",
@@ -963,6 +963,14 @@
   },
   {
    "category": "ai_general",
+   "title": "PARDIG & SatWeave: Foundational Datasets for Earth Science",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckY4Q2FjR0xaUnRTcUJCQThiUW5YZ1J2aElualNEbTFPSFlWalBvT2l5cTBYbVU2cnZTU2pqMGFrNzVGOXRoZmlmRTl4YkxhYVFwTlgwSGNTa1k1cnZtbU5YXzR2aHhQWDRHc3FyT2VxQ2R0SDk0cnhmV1BzNnpjOE9FWmVnQQ?oc=5",
+   "source": "Google DeepMind",
+   "summary": "",
+   "published": "2026-11-13T12:04:28+00:00"
+  },
+  {
+   "category": "ai_general",
    "title": "Anthropic’s Claude Tops AI Rankings as OpenAI Limits Cyber Model",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYlczWW5CYUlhR3h6QzBPcDk2aEZyMjhHZWMtYjJSTWtESjlQRmJBRUJvR0hrc2NfZGxDRDFrWjhaN0llbkhWVkdCdlU5WFhoVmhHUF9sX0U4WW1abWxrd2Rya25XRVdiaGFqZ0VodmhWWWZDMWZpYzBVdXAzbktKejlpQS05S1pYRjJfc3FaaGtxYk9XTzIwV3hlemFOX3hvclhsamFGNFdpM2FBLXczclZseDVpQnppOUNVd0tR?oc=5",
    "source": "PYMNTS.com",
@@ -970,12 +978,20 @@
    "published": "2026-11-13T01:14:49+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "Researching education: 5 further readings on Generative AI",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUWlTVEFMRG1EQkdVTVZPa1NTY2VvR3duU2dNcVgxZ18xZ3FnUncyT0xOaUV3elQ2M2x5eHBDUm9DR2RndGdNc3ZqNElqc2h4ZHFiUERNT2Ita2UtZGMzWG5lQWVRYkVDZEFtY1FNWnVNdkJxSUVudzE0eWJlZVhIendsQjlkVnBmdWRkaW9tWVZhNUs4bmlRS1Q2YlR0bDJaUE9NOVc0VQ?oc=5",
-   "source": "Teacher Magazine",
+   "category": "ai_workflow",
+   "title": "NFON Adds AI Agent Studio to Its AI portfolio",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZHR5SlRodXFsTXl0UGNLU2ZRVVpkSnpMbGcwRlp1SXJoUzVLNUhwOV8xVW5McFk3Q3BMbjRMVEIxbUgwRzktRkgzQ3RnV3FROFY2dFZlSGRnU01nSUVnODJBYjBoZWNndDdyVHMzRHo0cGsybGRQdHI1QmVjeC1HbFlKbjdNenZDYzA3SlE5YnJPdW8?oc=5",
+   "source": "Yahoo Finance",
    "summary": "",
-   "published": "2026-11-12T21:39:17+00:00"
+   "published": "2026-11-12T22:36:21+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Visa Expands Stablecoin Services With Anchorage Partnership",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRmU4N2N1XzZRSTh3YkhtdkxCSjlMVFM3SDBKR01WU3pqbk0wUk16eG9Sb1F3NHdaczZTMW9YSVVXemxFT180SGV1VXVtTE1WQ0V3SVRESUZVU3JzdG1YSG9KUXhxUzFHdm9Ya3p1eVhpR3hZMFVVb2lvNDB1SVZONTZZdzk2S1dRdF9TOXBCRHVoOHg5a2JXbS1TRlpVcXItTEc1N1BFcldIdw?oc=5",
+   "source": "PYMNTS.com",
+   "summary": "",
+   "published": "2026-11-12T20:34:56+00:00"
   },
   {
    "category": "ai_creative",
@@ -1002,14 +1018,6 @@
    "published": "2026-11-12T17:17:56+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "More game developers are starting to use generative AI",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTUZfa0JfcllfZ2Voem5BS0c0aUNINHlwaWRmTWg4WGl6QnplOTYzTjA1TldGS2N1OXBLcFZUZ1p2THhNSER1RlNka0NGVGhFdG55OXBWbi1VdjlmenNMaXdJLXU4ckE5M25Ka1pKdHpDcmtwX2VzUW5OQkpkUGdqanNKdW5DMTRtYlF6SXZtRQ?oc=5",
-   "source": "The Verge",
-   "summary": "",
-   "published": "2026-11-12T17:00:00+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "How Block powers collaborative AI agents with Buzz and Unity Gateway",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSjhTTzE3UGQwaVV3NXBTZzgtZENIaU1ZaXhyZHlQbG5NRXBiX2EtZnlpSXFrQnFNZW9VWF8zMTh2cTZ3V0hPZ1piZmNfQ1p4Y0ljZ2VUQ3dhdkMzcW5RalczUzNsem43VVhYeTRBSERWV2l2Um9sWFctUHdfLTgxVVQxRU9lbVU0SkdkcUpDZWhYdlVnUDFuWmttbw?oc=5",
@@ -1024,22 +1032,6 @@
    "source": "Small Business Trends",
    "summary": "",
    "published": "2026-11-12T16:31:00+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSG5nQ21keXQ0VlB5TDhaYThnMlBRcFdOYXpPZFdLOHEtYkhCWUtXbjJMWGNGZW1ZSUVkRnZHdFFaX3g3YVE3RWJQR1VJamhmOHJnZkdhVE9RNGJtdGNtRkY4TWRLSUEtMTFudTRISDBBZDJkS0xBZU5BRTZPWUdSYzl0WkV4dzljeDcxb2d2N0psOGktc2FmNDFPSkJmRGc3NERYQzBvb1BsNHlHdnNrdndFaEZIb1MtZ1ZMaQ?oc=5",
-   "source": "CoinDesk",
-   "summary": "",
-   "published": "2026-11-12T11:43:41+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "AI SEO: how to use AI for search engine optimisation",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QZzlnWjVsLWh4ckYzazk3U3ZKVGdZS01VOWlPckZtS1V6dFBNRVBNQmUzaENXZ05EVmtWSENBQzhxX1JaakJSSENqOHNSMnB1T0o0?oc=5",
-   "source": "One.com",
-   "summary": "",
-   "published": "2026-11-12T08:00:00+00:00"
   },
   {
    "category": "ai_workflow",

@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-21T19:25:09.877086+00:00",
+ "updated": "2026-11-22T01:23:56.190420+00:00",
  "items": [
+  {
+   "category": "ai_workflow",
+   "title": "Muru",
+   "link": "https://simonwillison.net/2026/Nov/21/muru/",
+   "source": "Simon Willison",
+   "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide…",
+   "published": "2026-11-21T23:56:28+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "If There’s Generative AI in ‘The Mis-Adventures of Cliff Booth,’ It’s Not the First Time David Fincher’s Used It",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM01KZXA1b1QybUVLQXZxUDMxa1MyVFFUQnZjdjVDdUo5bHNsN1RFMVIzRXNQS0YyR1hKa0E5ZUp6V2E5RExOX3JDanBVLTBOc1I5V3VMRm5QLXI1c2JFR09IMDFpaV9GckpxZDIwUnM3aHE1YUFsZG1GVk5ySWdxVjZuSV9XWGtBSWhGZnV6dlpwSGloMXIxc1hqUWNTLTA?oc=5",
+   "source": "IndieWire",
+   "summary": "",
+   "published": "2026-11-21T23:45:00+00:00"
+  },
   {
    "category": "web3",
    "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
@@ -11,10 +27,10 @@
   },
   {
    "category": "web3",
-   "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+   "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
    "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
    "source": "CoinDesk",
-   "summary": "The sell-off wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+   "summary": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
    "published": "2026-11-21T17:50:00+00:00"
   },
   {
@@ -32,14 +48,6 @@
    "source": "CoinDesk",
    "summary": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts.",
    "published": "2026-11-21T16:41:00+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Musk Calls Google’s Gemini 4 Neon “a Banger” After Its Third Zapier Record. Bad Timing for Anthropic",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWExObS03dl9hQkNQanpBdkVESmtCSVU3ZTdVdXl5UzRtMFVnc2tWZjdJc2UzY0pNRjh0Z1dkenhnM3Bhdk1HWFV0cmhraUVEeEd3LXB6M3Z1U1Z5TEJ4NFc5QmFad05GUWtxck02N2JlSzZ4a0dUcVQxNlFNbTNPS1Q3eDhsV0ZWY1ozVUpMVlBnd0ZURnQ3TDhfQTl4dGxJRGc1blIzd2YwdmY2aDVZUmJkWnA5a3RQNUtVai15VzU?oc=5",
-   "source": "TIKR.com",
-   "summary": "",
-   "published": "2026-11-21T16:40:51+00:00"
   },
   {
    "category": "web3",
@@ -64,6 +72,14 @@
    "source": "CoinDesk",
    "summary": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure.",
    "published": "2026-11-21T12:30:00+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0RzYnRJVzA5MjhlSWJfODFMNDRMdDl3Zk81UkxlbklPbE8tQ2xMYWdzSElBdlF6eTJaeWRSdm9aa3JkYU5xbUZIUjUtc3VxZzlYUXhCOWplcHBDb1AzcEMzWXd1eTdndHdIVWlrUnVSMExWQnZaakd4Y3JYRkFZeE9POGNKTE5tRlhwTTJnWUs4QVBjM1l6OFpaYmVqNVZWa0ZIUU5R?oc=5",
+   "source": "SecurityWeek",
+   "summary": "",
+   "published": "2026-11-21T12:08:50+00:00"
   },
   {
    "category": "web3",
@@ -176,14 +192,6 @@
    "source": "Decrypt",
    "summary": "Levent Alpöge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic’s IPO has prompted questions about its unusual publication timing.",
    "published": "2026-11-20T21:36:02+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "The Trade Desk’s Cloud Journey: AI-Assisted Optimization to AI Agents",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemUzUEZ2SklzQzg4N3ZjY1pvZTF4TnhhT0t3RHBMbVdRNHd5c3lsMENrYUhQb2YwbHhpZ09hRUhIb1pwallVNy1pdVpvWUw5TTVXNzBLaW1MT3JMQ0s4LTBuOU1fUjNxM2tEQ2czV21iYjJ5NTQ0eHNaMkpOTEM2OUlHZTRDZ09YNnA3WVltc0pEQXdDbDVwdTN0ajJjR2tIWnRlRXJ1TGFKeUQx?oc=5",
-   "source": "Amazon Web Services",
-   "summary": "",
-   "published": "2026-11-20T21:28:00+00:00"
   },
   {
    "category": "ai_workflow",
@@ -413,7 +421,7 @@
    "category": "ai_creative",
    "title": "Best AI Music Video Generators for Suno Artists in 2026: Full Songs, Lip Sync, and Pricing",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVaVVDSkw2Z3hZUHFpbXViWExhSTdPQlRZdHY2Sndyci1USmM3VGp4WFI2aVNycUVpVERTSllqOXlqSVRlMjE5OW9LejBBaEN2ZkZYTTBSa1ByRXdIRkdNQTRHNEE0b1JEb3ZVTHN3MkR5eEVEVWp2MA?oc=5",
-   "source": "Side-Line",
+   "source": "SIDE-LINE",
    "summary": "",
    "published": "2026-11-20T08:53:21+00:00"
   },
@@ -466,6 +474,14 @@
    "published": "2026-11-20T00:00:00+00:00"
   },
   {
+   "category": "ai_general",
+   "title": "Anthropic Rumored to Prep 2 New Claude Models [2026]",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mX2w5TlhGVEdRV0lxY195MWVjakx1UDBDeFdTNWNFSTFSN3IySUVORUc0Q0RkSVY4WG5BVEhCRFQtYWRUcDd4bVJQemNfTmtUcWZhczhzN1pYTDR1eUVWVVV0cDdhU3dwSENXSDJRLTVkdw?oc=5",
+   "source": "shattered.io",
+   "summary": "",
+   "published": "2026-11-19T23:33:41+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "OPINION | Generative AI is not an artistic tool",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVV4d1dYZDd0QWFvZ1oxMzJGZlY1VzBtUUxDZlBOeE00N0lEcXpNSjdvTGF0aWdJVmp0QnNYZHMzblFYTGdma1JnM1g0bWtaU1hxOFk0Z296VzdBTl9QdVJuOVdlV3E3a1FtUEluTGlxLUd4WEdYWVAwVmNzQi1oTmZCYWJlOXp4ZUFxbmw2LWRYV3YzdFl3?oc=5",
@@ -482,12 +498,12 @@
    "published": "2026-11-19T20:43:57+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "Exclusive: AWS Marketplace lets AI agents buy software autonomously",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUFoUlVvS2M3OU5wRlN2T29vSHAtbndjbnhzWTgwZDJVbEdyRXVoNE9qdEFSTUhKTVgzWEgwS181UEg1OU1MQjhyMGFRZFJyYS1panlvNGx1eENZWFVEeWxqUEloOWFVbFNiUy1XZFFRV1VoUVN4ejMwWWE2eWFPNzhqczZ0ejhtRlJ2UGFQV3hVUUdfQ3ZHbkNQMU1Gb3VRNTdj?oc=5",
-   "source": "Fortune",
+   "category": "ai_creative",
+   "title": "Ubisoft has founded a studio dedicated to generative AI in games",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcV9oLU1PcmFQaldfcmJBVTA3am9pS1F3M1N6RnR4M1dkVmJxbUxqV2UzejJRZmh4OEh0WkUzS3lzZ29uWUNEblhrQ0FYNDN5bTJqdEpKQkY0cF9YVDhTR0d0Uzl5X1AwTFdGQ3NXZXVXNk5KV1RGOUwtOGZSV2VwSG9yMjVyQmNiMVZjNWdWcjg3U0xfTG5XNzFiMk1SSlM5REhZNVVhNlRvZw?oc=5",
+   "source": "Video Games Chronicle",
    "summary": "",
-   "published": "2026-11-19T20:00:00+00:00"
+   "published": "2026-11-19T17:26:14+00:00"
   },
   {
    "category": "ai_creative",
@@ -562,14 +578,6 @@
    "published": "2026-11-19T13:00:00+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "BankThink AI agents could threaten banks’ main profit engine",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdDlraVRRc0VrMXk1ekdSRFBsd29YSFVGblhmSEhUMWdWQzhRcHlMdm1uT0QxSnF1eFJ2QTVEa0xOb3BIUDd6U29fZnowNUNKUWN0bnRUZUxMdnA5RFpqMEFTZm52YVRTd2VMWUNhdXNLX3NTX0dUQVhyQXJVRFUwNnFDRklpSHhyWHlQQ3VmcVVHZw?oc=5",
-   "source": "American Banker",
-   "summary": "",
-   "published": "2026-11-19T12:30:00+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "Canva introduces new controls to hide generative AI features",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMzRqZk1scndlZWQ5VTlWR09LRjJMcFppaHdReTFrS1d3ZHhFOGxqOG9Da0NTb29ram9iMjJBemt1My1WTnNnVGNSNVpoZ3ZoWmwyTUxZTmtIOWpoNk9PRFlkZDlwckdzNmoyekIyVTdDNkJyVHJIOFVneDNYeXRqMDczellPeklieHVKd2dDaENBNUZ2OUl3?oc=5",
@@ -616,6 +624,14 @@
    "source": "The Hoya",
    "summary": "",
    "published": "2026-11-19T05:19:16+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "AI Skills for a Changing Workforce: Insights from the 2026 AIxEd Summit",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHJwRF9LYVJ3bVNBMjQ4cG9rNzFfUFVUcnRDcnpuNlNiOXZkZUFqbnV1cUs2T0NHNko0eU5sVHNSaUI5NEJZVDdQN1hVOWpzSGhPZUFZX1dEbFNEV05KWGJRSFl1dFdiMVBuMnVheElTcGNJaWlvSmNJQ1VDa3R0TVU1cFBqaS1ZUFl2TFFoRlpMZzlZVTJOMDZrY1J2Vy1iUVVmRFVuZWxzZ1ZX?oc=5",
+   "source": "Boston University",
+   "summary": "",
+   "published": "2026-11-19T03:50:37+00:00"
   },
   {
    "category": "ai_general",
@@ -672,6 +688,14 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-18T19:54:56+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "From reporting to reasoning: Getting enterprise data ready for AI agents",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ09iMEFPWXloa3hudGY2bmtQMVlLZk9xV1FMZFhuQkJhTzVQZnM3eEZvYWVOMUxCNTlHZE5MUWlIbXFrbXAxalpqbkJyRGZ2ckJ0UjZJYWpWOXhtQVhfZU5Id3NaaFVwcDBiOENrUzBsTDA2QW1mSDJlbGRoSUo3akJJU1o2cV8zZjBxVEZhSGwycmxWb0R1ZGY1UTV3dEN6TGFPNEhTbW9ycEdFWjZlNHhGamMxOVZIamc?oc=5",
+   "source": "Amazon Web Services",
+   "summary": "",
+   "published": "2026-11-18T18:54:08+00:00"
   },
   {
    "category": "ai_workflow",
@@ -754,6 +778,14 @@
    "published": "2026-11-18T12:55:00+00:00"
   },
   {
+   "category": "web3",
+   "title": "Vitalik Buterin Just Gave Ethereum Investors a Wake-Up Call. Here’s Why It Could Be Time to Sell.",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3hfQTYwLUN3a0ozck5qNXM0YldBR2hTalJrekhLdkJCY3FxVWFhWVczME12OF9keGpqbGh1b3dYREVPeTEwbVBGVTR1N1RKTFdaS3RvMV9oeXk3T3FtVXRCZ255eFpXZUhfZTMxTXhJRTBSdkZRQkUzLVRrTlBCMDVPWVM5X095MkZRb2JqUWowSkNOWXFqRHR5bERaY1VQ?oc=5",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "published": "2026-11-18T12:30:02+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "How to Get Trend Alerts in Slack (Exploding Topics + Zapier)",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQQjIwaThaQ2VDT09MWTV6RGowWDdLRWVjNjVtdWJOWDFQX2V5YlhIWjEzNlFmdmdkcGpQZ05tbVlnVUFjdHQtVG85UlBtQzExSEhfdHlLZkNIallCaWpvUg?oc=5",
@@ -779,11 +811,19 @@
   },
   {
    "category": "ai_creative",
-   "title": "AI Music Service Suno Launches Music Video Generation",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUk5FMTEwcjIxX09VdFYwa3U4VkVEMnFfczhPT1VRVHBndmJUR0VqblFpcVlnckc4VndKVjg1OFlmN0lKLUtkMzZSZC1ydXhhakl0Tng4eFlsalNKd0haOXdlX2FIY2tsOWF2VnltZWNwNUVCVjQtT0dLZUJrUk1wdU52TFZIcFJnSFBqZEJIUHNmV3pk?oc=5",
-   "source": "mediasat.info",
+   "title": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzBZQTAyTHdMTVZMbzVUc0l2eG5RT0pBWjhLdUg2bnBiMmtaTHA2UmxqYUpvWXR6RVQzeU50TVNxdU1oX0xORXY4ZXZ3cnZlVTZwYVNTdGVibTUzbVpyT2lWWUhseVVqTmpmMXUyQjNzN3VuZ29SNURZRHUwTkkweXdNaVBuZzExRDkzY1dCbGFsc1ZTdGxfZXp3NlpkN0tk?oc=5",
+   "source": "The Decoder",
    "summary": "",
-   "published": "2026-11-18T09:59:38+00:00"
+   "published": "2026-11-18T10:22:45+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "AI agents will soon surpass us",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanIxaElRUWVkdUlJOEIwTlpEaVhxN1FubldYSUZ1dzlUYTBTRmRsOHlidUx2OGhsWkR3VjNYS3FSdVFwbTFtcm5DOHoxemtIbElXYWt5LWVvbDI0V3dPVmYwRFVvZ1hiQVpvalZmZ0dZdUhXZzlyc1c4ZFAxejBzUFFSTQ?oc=5",
+   "source": "InfoWorld",
+   "summary": "",
+   "published": "2026-11-18T09:05:42+00:00"
   },
   {
    "category": "ai_creative",
@@ -798,14 +838,6 @@
    "title": "What Is Generative AI? How It Works, Examples, Benefits, and Limitations",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kb3Q0WUFma1JtRzBrclp6UU5Bak85QktZRWpOdU9OLXI1RzlGN0luRExNY2dmZm5lSHppMEVXTzNNX3VTMkQ2c3J4UlJsVzFRSWFMMkxBTDMyMUxSX3J5WUFrdjBFZw?oc=5",
    "source": "Coursera",
-   "summary": "",
-   "published": "2026-11-18T08:00:00+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Best AI Model: Terra vs Opus 5.5 vs Argon, 3 Tests [2026]",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWktweXlFRFBIcElCVGowemk2Q2RDWl8xRFNiYWtBbGJ2YVpCLXNKQ1FqNWM4WkFTYjZWNUp2Wk5nY2JVNGFwdUFWZlNteldqSGc3a0k3eUJpaWthZU5aMHdNU2NyRzVUbHhOeDlId1Zfb0t1ck1aNHN1YXlVWlpBRk9QaTdCcnBtN1BwNU9hWjZiYlkxNmc?oc=5",
-   "source": "shattered.io",
    "summary": "",
    "published": "2026-11-18T08:00:00+00:00"
   },
@@ -883,14 +915,6 @@
   },
   {
    "category": "ai_workflow",
-   "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
-   "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
-   "source": "Simon Willison",
-   "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost…",
-   "published": "2026-11-17T16:48:33+00:00"
-  },
-  {
-   "category": "ai_workflow",
    "title": "Finance teams ramp up agentic AI adoption, Zapier survey finds",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdnZnQkQteTV5NnBtQXZfMDVFSkctbl9mUEtSSEN1cksxTEFnM2E0WjItVU85RmNjcUstcjB1MldtMTFRVnExYkt4Y1A1UTg4V3Nzam9DR25SWmFlLXkwTTgzVFg1Q21EXzFrWXRiQnNsSGU4WTRXbzZ1Y1ptc3hHejFldk9WRm5YTDVRblVKVkprcjA?oc=5",
    "source": "CFO Dive",
@@ -907,14 +931,6 @@
   },
   {
    "category": "ai_creative",
-   "title": "Perfect Corp. introduces a brand-new AI Song & Music Video Platform, YouCam Muse, and kicks off the AI Music Video Challenge with Cash Prizes",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlJ5V3FLa00zQUxpRDctejhzUkR0bmRTVndmLU4xUzZHQ0I4S0dJNURKOTdSY3pqb1hzamZ2MG9jR3dmczVyazh4cTVqa1NVZGh0MnY3MFJwbnJEa3RGTHBNTnlXV19UckRrLUhlUDdtVFhPUHExcXpUc2QwZXVVWFo1LVFiOW42VFlUNVJmTW50ZE9yS0hpcTRXSEU?oc=5",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "published": "2026-11-17T13:00:00+00:00"
-  },
-  {
-   "category": "ai_creative",
    "title": "TuneArt AI Music Video Maker Lets Artists Create Music Videos Without a Subscription",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzNzSXRYR1hXRGF4SHNjSFB2SnM2VTcyUnU5TWg1aXdiSm90Z25na2RGQzNJd0k2dFQxWTVxeEtCc05LVTVEY3JRekNxMUR5T0hiM1VOdXI5NGJIbjZ6N2pEZTVKd0xYcWpiNkxwUURwS1B3Z0RVWEc3OG5DRzZreUhvWFNrS182NlY4aTZ4d3BONl9MX2prWkw3ZG15V3N3cXY2TjR5NnVEV1hMUFhJMkFJQQ?oc=5",
    "source": "RouteNote",
@@ -922,20 +938,20 @@
    "published": "2026-11-17T10:12:04+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "40% of organizations struggle to retrace AI agents’ actions",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbXZxMVI3QjlCYVMzQzI1MnJUb3dRVUcyaHl2Q0FCLUtvR2V1QWVuQWpBSk5feWhWWFlSNVpSOVVXVlVRRHBLUEl1REN1RkZSS19LSThYaUt3Z1VBQlZuelJ4VkdVRnR2WXJYTXJ0Q1J0MHlFa3JObGdFdloyWnYwMVR5akw2VGxPY0JRRmpIcU8tdnJVUEpzOQ?oc=5",
-   "source": "Help Net Security",
+   "category": "ai_creative",
+   "title": "‘We feel art is only interesting if it is made by real people, informed by their experiences of life’ — 007 First Light composers say it will be a ‘sad day’ when companies decide to choose AI over…",
+   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNT3BoOTNSb3A5SHBvRHhuSmZNUmRxU2hFT0p3dHhMd3pzeWdBZHFzY1pWUWwzREd0Tl9LNldXQkdEdm9BUmI2RDdWbHhVS3lod0pDYXVJRWZ0VjNxSDRiZXFJMzd5YWdIckJyajJ0bWM3UUswVjFWZUtNU1otZEdnTGJ5eEo2cVVFdFZqMHllejhjenUxUnpDN092UEFoSlplMFMtVDRNMHRZSWtyck1nbjJrUnpDcERYMktjTm1ZZ1NhN2ZvMk90Skp1TkdOSjA2TjUyOWZQMWdTZC1NM296WlJVS0Qya2xTZ2U3TjlXRlc4MWxGSXNmWUxWV1dIbzhKRHBTV1ZZaXRlbkY3QmJFMmp0UXY5Z3k0R1pDNkNVWW9iN25RX29pa3FOOA?oc=5",
+   "source": "TechRadar",
    "summary": "",
-   "published": "2026-11-17T05:30:58+00:00"
+   "published": "2026-11-16T23:00:00+00:00"
   },
   {
-   "category": "web3",
-   "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmszM1lzclB2RFRmdXhEOE54WUJHUUUwNnl5MzVPVXpRS2hIS0t3Xy02dExtRnFUb21aWmNmc3pWTDBYb1ZpVWZMQUdLU01xQndwOEV0THZhWGp4bUZhX19tUnlmNGszYjF3a1ItVGhJRlNrR2ZlTVJ3ZzJZNG01MnNucnRkS0xwN3NnOUZFTTVTLXZ5bzRkVkUzSW4?oc=5",
-   "source": "Yahoo Finance",
+   "category": "ai_workflow",
+   "title": "AI agents promise a life free from friction. The cost could be human judgment.",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXR6dGhSMTlEYmNxLXhveU1KUGQ3ajZlWWI3aERTb25xYjZjcnd3NkVFZ1pfaDVYdHJfNnhXREZZWlRlS25xNTNjUnJsZzM1Nl9sZ1pMZ3hsMDJ5MWVxZXN5VnhrazRRdUlYVGhPNkNPNFRHUFY2Q1M0S1o0YksxekZPLVRuUHltdHEyX0xVZW9leVJtcnJ1ZXZPcnA2OGd4N3NmcHhjc1N5YmJLeU5ITExqbHRQeDJwN3pJYw?oc=5",
+   "source": "Atlantic Council",
    "summary": "",
-   "published": "2026-11-16T20:36:03+00:00"
+   "published": "2026-11-16T19:55:30+00:00"
   },
   {
    "category": "web3",
@@ -952,6 +968,14 @@
    "source": "shattered.io",
    "summary": "",
    "published": "2026-11-16T14:44:35+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "2026 State of Cloud Security Report: Beyond Human Scale - How AI Agents Reshape Cloud Risk",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3BIZG1VbmNFZ2YzNHQwT0RQTFVWSmxqOUduWExkenotdFM1NUNNSjN2NmdwZjZOSTFnbGhTUUNqTXEyMklLaGxyUDZmQW1zQ1RBNUdhakFQd1BRR3NWSy1kVnJGdlo0OU1kQ00yYnQxazlVNjZQSXM2Zi1Lb05icTNad1ZKS3VObzgtWG0zSEtZRWhoOFV0aF9GYVhheWEtRlJEOWpOZzBVNFFsNUh3?oc=5",
+   "source": "Palo Alto Networks",
+   "summary": "",
+   "published": "2026-11-16T12:59:04+00:00"
   },
   {
    "category": "ai_workflow",
@@ -994,36 +1018,12 @@
    "published": "2026-11-16T00:00:00+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mTC1pcW45ak1kSVRFNUxLQ3RBZnktaWNXZm5oWUVTSFNjRnFYR3hEaDQ5MFRHSTF1YXdIUVZKZ3BCQ3RSZVZjcktnb2NSbS1pM0hfMmpxaFBLRWljZFU1a0N4eFFCT1lwUk9TeA?oc=5",
-   "source": "infoq.com",
-   "summary": "",
-   "published": "2026-11-15T20:00:11+00:00"
-  },
-  {
    "category": "ai_general",
    "title": "Anthropic’s giant IPO puts the heat on OpenAI",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTd6eHRac3JHWEQ5TElWUXZZUWRsMHdXckRQbjJ6X3ZvOFUtVHZDcjFBVWVqOE9LVnNPS3NWeDROZUtsRFdEdklzRzctYlpWbWszbElsMU94VWxtUm5OZ1ozdUxWWnVGRlpGM3ozYWxISG5fS1Y5QlB1bVQ0Z09sVGphWmgzMlpKMWduNkZYX0N1b1Br?oc=5",
    "source": "The Economist",
    "summary": "",
    "published": "2026-11-15T19:49:20+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "From geometry to function: towards context-aware generative AI for engineering design",
-   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPeXlhVWl6UTZFQ0FlM0F6bUZOc0tudjlBN0FJZ0w4ZkdmSm5FWTFzMTNHbElVaWRVTTlsWjRYa1N1Z014X0lwT3BMMVh3NlV1b253VmFJSmZaOVlIR2dmdjdiS1RFTkhRRVExTlZjV2RTb3NYOWlNUWs1alpfZlV3TjJwVExtVDROMG9wTHJ6eWZoOUJNb3Ezd2JTTUZwR0p4d1JPY2hMTWNNazduRDlfTVdMb0lQVGlvSjB6bE1CYW1nTnlkY083SDYzdVZwV0w1TDFRU1FxYmZsVEd0bWpNRmJQc2hBRFl6ODFjek5fWWQxenc3LVZuRzVOMmFmc1dOVjFhN3Z1ZF9LVlk1bS1DTExpTXZxenUwYXJSZ29od3RZS0N4?oc=5",
-   "source": "Cambridge University Press & Assessment",
-   "summary": "",
-   "published": "2026-11-15T00:06:27+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "Burbank council bans generative AI art in city’s published content",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbV82WkFWT3QwMk1NampsUW9NcHJNeXNRN3BZT0ctRXF1eUxKVmlEV2djYmIzM01CTVhmamJYSFVVV0lnbzJWYXl3YUtkWnBSYkZHc2hKSWtKVXFBVGZKcXR3YzFidmlJMmloUUdveHJIV1p0eFE2dWxvU3dBY3NBYXZMcFNqNUJEOVQxTTY2YjNjWTI1cERiTVM2TERxcVk?oc=5",
-   "source": "Hey SoCal. Change is our intention.",
-   "summary": "",
-   "published": "2026-11-14T21:27:16+00:00"
   },
   {
    "category": "ai_workflow",

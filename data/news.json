@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-22T11:37:14.662024+00:00",
+ "updated": "2026-11-22T19:48:05.100537+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "More on the pending oversight hearings: State of Crypto",
+   "link": "https://www.coindesk.com/",
+   "source": "CoinDesk",
+   "summary": "New letters show the widening range of Congressional committees that will be probing the presidential administration — and the crypto collateral that may be swept up.",
+   "published": "2026-11-22T19:30:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "The future of onchain FX could start with users, not institutional liquidity",
+   "link": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.",
+   "published": "2026-11-22T14:30:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+   "link": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+   "source": "Decrypt",
+   "summary": "Google’s Willow quantum processor beat the classical ceiling in a four-qubit coordination game, revealing a promising hardware test rather than commercial quantum computing.",
+   "published": "2026-11-22T14:01:02+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+   "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+   "source": "CoinDesk",
+   "summary": "Quantum computers can’t break Bitcoin network’s security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.",
+   "published": "2026-11-22T14:00:00+00:00"
+  },
   {
    "category": "web3",
    "title": "Here’s what happened in crypto today",
@@ -43,7 +75,7 @@
   },
   {
    "category": "ai_creative",
-   "title": "If There’s Generative AI in ‘The Mis-Adventures of Cliff Booth,’ It’s Not the First Time David Fincher’s Used It",
+   "title": "If There’s Generative AI in ‘The Further Mis-Adventures of Cliff Booth,’ It’s Not the First Time David Fincher’s Used It",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM01KZXA1b1QybUVLQXZxUDMxa1MyVFFUQnZjdjVDdUo5bHNsN1RFMVIzRXNQS0YyR1hKa0E5ZUp6V2E5RExOX3JDanBVLTBOc1I5V3VMRm5QLXI1c2JFR09IMDFpaV9GckpxZDIwUnM3aHE1YUFsZG1GVk5ySWdxVjZuSV9XWGtBSWhGZnV6dlpwSGloMXIxc1hqUWNTLTA?oc=5",
    "source": "IndieWire",
    "summary": "",
@@ -104,6 +136,14 @@
    "source": "Decrypt",
    "summary": "Tech stocks are buckling after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
    "published": "2026-11-21T14:01:06+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+   "link": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
+   "source": "CoinDesk",
+   "summary": "OpenAI, Anthropic, and other technology giants are backing standards designed to enable agents to work together without putting any one company in control.",
+   "published": "2026-11-21T14:00:00+00:00"
   },
   {
    "category": "web3",
@@ -354,52 +394,12 @@
    "published": "2026-11-20T15:55:22+00:00"
   },
   {
-   "category": "web3",
-   "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
-   "link": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO.",
-   "published": "2026-11-20T15:52:06+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
-   "link": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
-   "source": "Decrypt",
-   "summary": "Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths.",
-   "published": "2026-11-20T15:42:51+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
-   "link": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
-   "source": "CoinDesk",
-   "summary": "A former Point72 executive says AI could reshape Wall Street's data market, turning once-exclusive information into a source of revenue and financing.",
-   "published": "2026-11-20T14:54:30+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "Qualified Upgrades Its ZoomInfo Integration to the GTM.AI API, Bringing Verified Company and Contact Data to Piper",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkpXX2tnUTRVZVJhYnM0ZHE5c25WQm93TFlkRDh5bzUxa09ISTU5cHlibmxIcUNIdjRmTmtrOFF3OUlpY1dxenZuakVsdmdmWjJTX2JVSTRPZEU3X0pzTjVwazJVcnM3UDJ3QXJUZk9MWHJ6RDJRTzNnRXFNREpPWFo1TUlhdm9qcFBaZUp1RXExaXREZWNJR2VjX3Z0Rmw1MlJPU0xkYXJxVU0?oc=5",
    "source": "Yahoo Finance",
    "summary": "",
    "published": "2026-11-20T14:40:00+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-   "link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
-   "source": "CoinDesk",
-   "summary": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework.",
-   "published": "2026-11-20T14:38:30+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-   "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-   "source": "CoinDesk",
-   "summary": "The bill would ban bets on war, assassinations and military operations amid concerns that traders could profit from inside information, as has already occurred.",
-   "published": "2026-11-20T14:25:57+00:00"
   },
   {
    "category": "web3",
@@ -416,14 +416,6 @@
    "source": "The Defiant",
    "summary": "",
    "published": "2026-11-20T12:55:01+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Signal is Serious About Protecting Your Privacy",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lN3Y2OTltU21GVUZTVDlKc1pjV3VpOUQ1WGowUXItbUxVanJjRWlNRlRGVTEyT0pJUWdoMzlJcFZtSWROT1RadTVQUlBLeTc0aGhCRXBhRFB0M3ZT?oc=5",
-   "source": "Signal Messenger",
-   "summary": "",
-   "published": "2026-11-20T10:30:18+00:00"
   },
   {
    "category": "ai_workflow",
@@ -454,6 +446,14 @@
    "title": "Easily Integrate Exploding Topics With Zapier and n8n",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFQ1Y0RFNGVEpJSDJpLTI1d3R4T2czRmY1ZG5RN0V4OXp5N2VPUjhhX18yY0F1bHFubERpSTNMb3hOeEVMV0V1d0hmcGlBdlpyS1pOMWQwekZBdXB5QWtvdWVKM21LV0ZYN1Vz?oc=5",
    "source": "Exploding Topics",
+   "summary": "",
+   "published": "2026-11-20T08:00:00+00:00"
+  },
+  {
+   "category": "ai_general",
+   "title": "Anthropic | History, Controversies, & Claude AI",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+   "source": "Britannica",
    "summary": "",
    "published": "2026-11-20T08:00:00+00:00"
   },
@@ -498,12 +498,12 @@
    "published": "2026-11-20T00:00:00+00:00"
   },
   {
-   "category": "ai_general",
-   "title": "Anthropic Rumored to Prep 2 New Claude Models [2026]",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mX2w5TlhGVEdRV0lxY195MWVjakx1UDBDeFdTNWNFSTFSN3IySUVORUc0Q0RkSVY4WG5BVEhCRFQtYWRUcDd4bVJQemNfTmtUcWZhczhzN1pYTDR1eUVWVVV0cDdhU3dwSENXSDJRLTVkdw?oc=5",
-   "source": "shattered.io",
+   "category": "ai_workflow",
+   "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbUsyVWJ4NHItdVhYQVpXRVprN1FaQ0JGYjNnZHhyNGtQS09YQ2hfaVY1WEVYd084N1l0RHFDYVdHcldXcmQxdEVESFljN2k2bjJ2XzhQNkltR3dYcHdvMlFDYVB3R1hHSDVFd09vMWdhN1dvTEEwNXloZHh5bWlmX0hfeVFrYzlBSzZDc1VjLTdMYUJxaGFoWTNfNXl1VjJpQl91SHR4WGF2cEJ2c1o5YlFsbE4tZmlCVEZIUnFjamNZNlA1dFIzZHZmR1JTMWUzVmRSYUR4RDhwQTA?oc=5",
+   "source": "Amazon Web Services",
    "summary": "",
-   "published": "2026-11-19T23:33:41+00:00"
+   "published": "2026-11-19T23:02:16+00:00"
   },
   {
    "category": "ai_creative",
@@ -520,14 +520,6 @@
    "source": "Simon Willison",
    "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of…",
    "published": "2026-11-19T20:43:57+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "The AI Music 'Revolution' Is Getting Stranger by the Day",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdFBNeE1mRHdzMWJLN29IOEo4cEw2RXJoZFZpb3EyaHFaVEtkNWVWSU1KZnRQRTltMDVhRWQ4TTRoWEEwWjVTQ1FlQm56Qi1CWE9KVDVUbHppb1hvaURhVlc3RjZvSzEzMlU3eXJJV3lvcmJkSjZxejlTSnBqTEZRMjh1ak1Sd2J6OVhZaFNGUnhjUEE?oc=5",
-   "source": "OkayAfrica",
-   "summary": "",
-   "published": "2026-11-19T17:47:59+00:00"
   },
   {
    "category": "ai_creative",
@@ -568,14 +560,6 @@
    "source": "PetaPixel",
    "summary": "",
    "published": "2026-11-19T14:29:24+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Google’s Gemini 4 Neon extends its rapid run of model releases",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RTFd1OFVNYVZzUGJVeUlMUWJ6V3Y0VHl6VzU2djJJQm1LVXJGUFI5Z2licUF1blRIQUhqV0hmam5uSHRxc3Z5T294UXEwRnFSaFF2RVJTTHRnemNFVjZNNW15WlpaZVhfM0hF?oc=5",
-   "source": "The Rundown AI",
-   "summary": "",
-   "published": "2026-11-19T13:51:49+00:00"
   },
   {
    "category": "ai_workflow",
@@ -643,14 +627,6 @@
   },
   {
    "category": "web3",
-   "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMERzczhFZ1V2ZXgwRWptQWVNV0xPWjdydl9EWGxJbUV2bTJGWXV6M24tcjdETnRSRk91ajBXRDZtSXhmX3hBbi1wSmRwV3Bhc21FZGctVkgwaWZRUE1Pa0pBNjkzMXNKMVQ3LXExVG5icTZlZ3pDcGtjZHFvMUZyVlRueUdLQlcyYTlucElwanF0RXd1bnYtZExaVU1LRE1GNk9BTk45c2J0OXNsUzhQaW1Qbi1JX0FYYnM5ZWQ3NmMxNVoy?oc=5",
-   "source": "CoinDesk",
-   "summary": "",
-   "published": "2026-11-19T11:30:00+00:00"
-  },
-  {
-   "category": "web3",
    "title": "Is Ethereum a Buy Right Now?",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZGVEZsR0NoOHFLd3pKQWtyYlpMZ1pPU1R5MEliYURQakR3cHE0ajlDN0JPWURHTW5EeUFVelVlTnZ2MFp0bXdWeFpWN3dBYmxTUVpIdmFsb0VIS0xKNlFpZ05KMXNFQy05T1lqTWpJcFc4ckdsdXlqbE90Z0NNY042WXlIdjlf?oc=5",
    "source": "Yahoo Finance",
@@ -672,6 +648,14 @@
    "source": "The Hoya",
    "summary": "",
    "published": "2026-11-19T05:19:16+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "AI Skills for a Changing Workforce: Insights from the 2026 AIxEd Summit",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHJwRF9LYVJ3bVNBMjQ4cG9rNzFfUFVUcnRDcnpuNlNiOXZkZUFqbnV1cUs2T0NHNko0eU5sVHNSaUI5NEJZVDdQN1hVOWpzSGhPZUFZX1dEbFNEV05KWGJRSFl1dFdiMVBuMnVheElTcGNJaWlvSmNJQ1VDa3R0TVU1cFBqaS1ZUFl2TFFoRlpMZzlZVTJOMDZrY1J2Vy1iUVVmRFVuZWxzZ1ZX?oc=5",
+   "source": "Boston University",
+   "summary": "",
+   "published": "2026-11-19T03:50:37+00:00"
   },
   {
    "category": "ai_general",
@@ -699,14 +683,6 @@
   },
   {
    "category": "ai_general",
-   "title": "Introducing Gemini 4 Neon",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemJ2dmlaaUw0Vm9IWnV2N3JiaXg4a3BNcVVqZjEtNnlVTnExYzk0d2tzcEZ4SGhqY1MyQ0c5LVpYN2ZKdGJ6d1FTMmhWZ0J0VVJkcGhqOHk1eHB1SFA3M3NLNEdRZEhhbnNzekhRb2E1RnRVSjJFQmNRWC05ckI1NjlybWpvVzJUeWdwaURROFhOcmoySS03UllmRWJJMUk?oc=5",
-   "source": "blog.google",
-   "summary": "",
-   "published": "2026-11-18T21:35:21+00:00"
-  },
-  {
-   "category": "ai_general",
    "title": "OpenAI Ties Frontier Model Releases to Lifecycle Safety Reviews",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYzR6QWxhOXEzdTZtczhuaUpvbE1BQzMxZTBUb0hwU25sTDNCQ19IR29uZjVpVTBDVnN6cU5rTERBMGpXTVJ2TEVWaHNyRmFaTDJsOW1tSmQ4YnJOU2M2a25fd0s1elJXTjB2Y0N5d3JLT2NVMVZiZHpzSUFuenJYREZjNEdEYmsydHZYa3d3?oc=5",
    "source": "Unite.AI",
@@ -728,14 +704,6 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-18T19:54:56+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "From reporting to reasoning: Getting enterprise data ready for AI agents",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ09iMEFPWXloa3hudGY2bmtQMVlLZk9xV1FMZFhuQkJhTzVQZnM3eEZvYWVOMUxCNTlHZE5MUWlIbXFrbXAxalpqbkJyRGZ2ckJ0UjZJYWpWOXhtQVhfZU5Id3NaaFVwcDBiOENrUzBsTDA2QW1mSDJlbGRoSUo3akJJU1o2cV8zZjBxVEZhSGwycmxWb0R1ZGY1UTV3dEN6TGFPNEhTbW9ycEdFWjZlNHhGamMxOVZIamc?oc=5",
-   "source": "Amazon Web Services",
-   "summary": "",
-   "published": "2026-11-18T18:54:08+00:00"
   },
   {
    "category": "ai_workflow",
@@ -786,6 +754,14 @@
    "published": "2026-11-18T15:00:23+00:00"
   },
   {
+   "category": "ai_general",
+   "title": "OpenAI’s GPT-6.2 draws rough early reviews ahead of Anthropic’s IPO",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSjk0bWExTGhFMVRKNVhpWmVTWHlRTnBGcFM0Q3p2WGV6WHFha2dxRUpxbEdjMFhxdG5vbUZrMGstQUN2NjFuR0JYZzVHdlNmZThWVVhtT090a0dIVzhuMFlGcUZGMDl2a3NOVmo0TjRiT1VhYUt5Zk1YaHRGbVhnanFFUQ?oc=5",
+   "source": "The Rundown AI",
+   "summary": "",
+   "published": "2026-11-18T14:45:51+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "The PSF end-of-year fundraiser",
    "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
@@ -826,6 +802,14 @@
    "published": "2026-11-18T10:22:45+00:00"
   },
   {
+   "category": "ai_creative",
+   "title": "AI Music Service Suno Launches Music Video Generation",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUk5FMTEwcjIxX09VdFYwa3U4VkVEMnFfczhPT1VRVHBndmJUR0VqblFpcVlnckc4VndKVjg1OFlmN0lKLUtkMzZSZC1ydXhhakl0Tng4eFlsalNKd0haOXdlX2FIY2tsOWF2VnltZWNwNUVCVjQtT0dLZUJrUk1wdU52TFZIcFJnSFBqZEJIUHNmV3pk?oc=5",
+   "source": "mediasat.info",
+   "summary": "",
+   "published": "2026-11-18T09:59:38+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "AI agents will soon surpass us",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanIxaElRUWVkdUlJOEIwTlpEaVhxN1FubldYSUZ1dzlUYTBTRmRsOHlidUx2OGhsWkR3VjNYS3FSdVFwbTFtcm5DOHoxemtIbElXYWt5LWVvbDI0V3dPVmYwRFVvZ1hiQVpvalZmZ0dZdUhXZzlyc1c4ZFAxejBzUFFSTQ?oc=5",
@@ -850,6 +834,22 @@
    "published": "2026-11-18T08:00:00+00:00"
   },
   {
+   "category": "ai_general",
+   "title": "Best AI Model: Terra vs Opus 5.5 vs Argon, 3 Tests [2026]",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWktweXlFRFBIcElCVGowemk2Q2RDWl8xRFNiYWtBbGJ2YVpCLXNKQ1FqNWM4WkFTYjZWNUp2Wk5nY2JVNGFwdUFWZlNteldqSGc3a0k3eUJpaWthZU5aMHdNU2NyRzVUbHhOeDlId1Zfb0t1ck1aNHN1YXlVWlpBRk9QaTdCcnBtN1BwNU9hWjZiYlkxNmc?oc=5",
+   "source": "shattered.io",
+   "summary": "",
+   "published": "2026-11-18T08:00:00+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "OCC Stablecoin Rule Gives Issuers a 2027 Compliance Clock",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUxIZWdBVm9XNWNzYnBOOU9mWDF2WVhfS0ROdmhsOWJNR3lGRXhKaEkwQzQyNUlpeUNnWFhQbzR0REc4RW5RcUVsNS1UWUZ1b2RaUy1hZUFZREc1ZkhJN21UejdOWXN3WmtieHFad2tMUkwxdUtpcFBWN1A1LXJQbjZRdDI2SENRa1NFNmZOeGZrOGVfQVJr?oc=5",
+   "source": "Troutman Pepper Locke",
+   "summary": "",
+   "published": "2026-11-18T08:00:00+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
    "link": "https://huggingface.co/blog/moe-expert-streaming",
@@ -866,14 +866,6 @@
    "published": "2026-11-18T00:00:00+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "Meet the man behind the viral AI-generated song starring Kirk Cousins",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmgtakZUcVVvODdnaWZTWEc1blU0cVhqLUJwNXlzTkdmSXZtbmZ2N0l2LTFLX2FDY3Z5WGwyYzFPdUlFLVc2c1Y4SWtBTGI4TUEwYnpESFFVbGQzYlhQY0Rhdnc2RkJ3Y19iQjFCY1JTdmJoeHI1dEkwczEzYzVRYnd6S19yOFh1eDNCZnhRUUFpRXV3OU9ZNHpzQkNFeUw0WnZlMFRzZWNjVVZt?oc=5",
-   "source": "Pioneer Press",
-   "summary": "",
-   "published": "2026-11-17T23:32:49+00:00"
-  },
-  {
    "category": "ai_workflow",
    "title": "External sandboxes for coding agents",
    "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
@@ -888,14 +880,6 @@
    "source": "Simon Willison",
    "summary": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API…",
    "published": "2026-11-17T22:38:52+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "'Essentially unusable': OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM0p5RXctRUhTQzMxTEdQYnJxaVozUkFlQmJOSEJrQjVfeEdrdDJBcExkcmhEUGpoZTN0dXo3dVhxajVwWlpWdVAyRzNDUTBEdi1rekFrT0l3VlgxMFVic1c1ZG9fTVpaVEh0UzAtOUdGRmtVSDdHdHpHRzRiWGY3QUVndjItemljNG8wZVJrNWo3azFrWTVHQmtWczhTcDdGblJmbjhiOFEyS0pULWNQSG9MVkNLVzhJTjBFaUtGaE16UFA0d1c2YzMtX3Z4Tkdm?oc=5",
-   "source": "VentureBeat",
-   "summary": "",
-   "published": "2026-11-17T22:33:40+00:00"
   },
   {
    "category": "ai_creative",
@@ -915,6 +899,14 @@
   },
   {
    "category": "ai_general",
+   "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOekhQQ0QwU01kcHNpY2FqUERROWJrSG5obWVmWm1TQmxHRFZBMUlWMkFnUkp4TmhlQ1VHQlFSSm4tNGQ1TmFNX28xSkVCWUtVX3kwLTd4Q0ktVHZOWUhXS1NZVE1jWjkxZDVYenhUTmZYUUM4SUhKRUtkZ3pZa05lZENmTVc5YnNnMEM0UDdaYXhieDFjT1BUcQ?oc=5",
+   "source": "The GitHub Blog",
+   "summary": "",
+   "published": "2026-11-17T20:20:29+00:00"
+  },
+  {
+   "category": "ai_general",
    "title": "OpenAI Unveils New Astra AI Model After Scrapping Prior Release",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDZRbHhnZ2VCVnRmSk1mcDlBeDBocDdRV0xmX2JtT3BleW9JNExid3ZuVlpFXzRWVlFTaVRqb3pIWWJONi02cXlLREN3a3h2eUdIZ3VVLU52OGhiN2FoaEhYRnVVdFg4NnpsMHRTSW5nb0w1TlJUaFhKbVM2cEZLa2FDTksxd2R2ZGlfWXU4b09ibUtjWjZBczFUQUlrVTNFY1o4UTI2WVVWdUlST0Z5NlhHR3Q?oc=5",
    "source": "Bloomberg.com",
@@ -931,6 +923,22 @@
   },
   {
    "category": "ai_creative",
+   "title": "Neural Frames – AI Music Video Generator, Audio-Reactive Visuals & Timeline Editing",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOENkcTFmYUxfZFNIY3VrSmpqV2R5ZUZqaHdxeE54Y2E5UTFWX0ktdXZPYktISE9mVklCbGV0dzE4UHJrci1GbUdwVjZ4MUZRQWhUUDBYRUhDTXBlUFJFQjRqZllqUjhVajBLRnhFT0JwNzdPYzVLNmx1d1VKS21Ebk5mRm5pQl9Id2dibldqZFBRSzRNcDVRUXllYkxmTWZtazB3?oc=5",
+   "source": "Quasa.io",
+   "summary": "",
+   "published": "2026-11-17T15:25:26+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "How to shape platform strategy for humans and AI agents",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZm56eFRQOVh5MGJhR2g3dHl4UHBOOWxTd2ltLV9rUGxXUnkwREVZZlZVdlRlSTFtOFctTFJuTC05NUNlVDQwU2UzcHhlTHYwSEdEcDhCdHV2dDZ4SnRiNFgyMlNRa0ZGUGpsMFoyRnVrek9aNjNGZE03YUJXcmdraTNSN3N5eW8xV2ZEdUpNblJmcEZsNFJueUxWLUVMZw?oc=5",
+   "source": "MIT Sloan",
+   "summary": "",
+   "published": "2026-11-17T15:03:01+00:00"
+  },
+  {
+   "category": "ai_creative",
    "title": "AI Music Generator Suno to Let Users Create Music Videos",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdnpHaGdtSS1QSnNMekFIc3daQzJ5UTljaWZiazhKS2h4WlRnXzM0ck5aM1hWUm9RZERtSlhIbENRV1hvS0Rub3ZMX3RoNXJwVDZ5cUpIS19jNG83T3ZyQWNobW5ELUpFcTNDMHJORjNUZVZfekx4dHAwWUN4WFhZQW12LTFpdGlsR2JsRE9UVGJieVlRVVFacWd6ZVhlcE5FbGJrUWJnOGVmZms?oc=5",
    "source": "Bloomberg.com",
@@ -939,19 +947,19 @@
   },
   {
    "category": "ai_creative",
+   "title": "IWGB Game Workers Union leads manifesto on generative AI use in the industry",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZjNPaC1wb2pWT3B6alBwOHVUUjdjeXp1M3RIQU44OW12bkVFNzZfNHFXNXNmaXZmaURaSUV0djNBdmJmMk9SRzhTVEZCSXhWSlhGX2xHZW5ONzg0ci1Ubzc2VkoxdlNvVjhVU2RPYjVXNDdHc1RMX3JJWmg0VndZOU5TRzRna0pubjkyWUNIME9rZTAxUEFtSWNaQjRSRld1OERXWi0yMEtqZw?oc=5",
+   "source": "GamesIndustry.biz",
+   "summary": "",
+   "published": "2026-11-17T14:28:00+00:00"
+  },
+  {
+   "category": "ai_creative",
    "title": "TuneArt AI Music Video Maker Lets Artists Create Music Videos Without a Subscription",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzNzSXRYR1hXRGF4SHNjSFB2SnM2VTcyUnU5TWg1aXdiSm90Z25na2RGQzNJd0k2dFQxWTVxeEtCc05LVTVEY3JRekNxMUR5T0hiM1VOdXI5NGJIbjZ6N2pEZTVKd0xYcWpiNkxwUURwS1B3Z0RVWEc3OG5DRzZreUhvWFNrS182NlY4aTZ4d3BONl9MX2prWkw3ZG15V3N3cXY2TjR5NnVEV1hMUFhJMkFJQQ?oc=5",
    "source": "RouteNote",
    "summary": "",
    "published": "2026-11-17T10:12:04+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "‘We feel art is only interesting if it is made by real people, informed by their experiences of life’ — 007 First Light composers say it will be a ‘sad day’ when companies decide to choose AI over…",
-   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNT3BoOTNSb3A5SHBvRHhuSmZNUmRxU2hFT0p3dHhMd3pzeWdBZHFzY1pWUWwzREd0Tl9LNldXQkdEdm9BUmI2RDdWbHhVS3lod0pDYXVJRWZ0VjNxSDRiZXFJMzd5YWdIckJyajJ0bWM3UUswVjFWZUtNU1otZEdnTGJ5eEo2cVVFdFZqMHllejhjenUxUnpDN092UEFoSlplMFMtVDRNMHRZSWtyck1nbjJrUnpDcERYMktjTm1ZZ1NhN2ZvMk90Skp1TkdOSjA2TjUyOWZQMWdTZC1NM296WlJVS0Qya2xTZ2U3TjlXRlc4MWxGSXNmWUxWV1dIbzhKRHBTV1ZZaXRlbkY3QmJFMmp0UXY5Z3k0R1pDNkNVWW9iN25RX29pa3FOOA?oc=5",
-   "source": "TechRadar",
-   "summary": "",
-   "published": "2026-11-16T23:00:00+00:00"
   },
   {
    "category": "ai_workflow",
@@ -992,14 +1000,6 @@
    "source": "Programmable Mutter",
    "summary": "",
    "published": "2026-11-16T11:57:49+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "38% of UK media agencies prioritise Claude as ChatGPT loses ground",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdFBudU5yZ2hqRUl3dHh6cFducGE2WXEtZUtQLVUtbTRQdHJNTVhJZHVDUXNDY29VNkpnTW1kbjJiRXNKY2cyMFNiaXBpLTRIS3ctRno4bGV2V0t6ZU8zcktLdmJwTUg3V2VkYzlEZEtMRFVhYUFxV0dKM05CbkxoS0FRWHRDbWN4RnUxeTZFRnRtak5NWGtfZlVIS0dNbzJNNWIzRVNvR0NNd0tfSmtLblZXaGZyU1pK?oc=5",
-   "source": "Performance Marketing World",
-   "summary": "",
-   "published": "2026-11-16T10:19:10+00:00"
   },
   {
    "category": "web3",
@@ -1048,14 +1048,6 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-13T14:05:22+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-   "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-   "source": "Hugging Face",
-   "summary": "",
-   "published": "2026-11-12T19:07:35+00:00"
   }
  ],
  "errors": []

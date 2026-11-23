@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-22T19:48:05.100537+00:00",
+ "updated": "2026-11-23T01:48:43.393177+00:00",
  "items": [
+  {
+   "category": "web3",
+   "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+   "link": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Public Citizen traced 66 of 130 qualifying wallets to exchanges that restrict US users, raising questions over who is attending Trump’s memecoin dinner on Sunday.",
+   "published": "2026-11-23T00:53:49+00:00"
+  },
+  {
+   "category": "web3",
+   "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+   "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "summary": "Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE.",
+   "published": "2026-11-22T22:47:09+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "Select Styling Specimens",
+   "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
+   "source": "Simon Willison",
+   "summary": "Tool: Select Styling Specimens I got frustrated at how HTML boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of…",
+   "published": "2026-11-22T19:45:06+00:00"
+  },
   {
    "category": "web3",
    "title": "More on the pending oversight hearings: State of Crypto",
@@ -8,6 +32,14 @@
    "source": "CoinDesk",
    "summary": "New letters show the widening range of Congressional committees that will be probing the presidential administration — and the crypto collateral that may be swept up.",
    "published": "2026-11-22T19:30:00+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Why I Switched to AI Music for My YouTube Videos",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbndyMVFBMng5TFl0U0liNDcwaE1qaUdMa0hPUVg5Z2VWOHFueGMyRUhzWEZSSVIzWmktbnY1NmRpdktjeURCUkUwSDZranJ3X1cwS29BX1NFRzNjM0dXZG92aVlFZGRja3JmYXJZcFpKY1Zvbm1ha2hna0JZQUJweG5UNUtzNkhZVmJsNEZnQ3ZialdJcnBWN2xvdW1SNGlQVjZQYUxXV0hHVkU?oc=5",
+   "source": "Fstoppers",
+   "summary": "",
+   "published": "2026-11-22T17:15:40+00:00"
   },
   {
    "category": "web3",
@@ -152,14 +184,6 @@
    "source": "CoinDesk",
    "summary": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure.",
    "published": "2026-11-21T12:30:00+00:00"
-  },
-  {
-   "category": "ai_workflow",
-   "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0RzYnRJVzA5MjhlSWJfODFMNDRMdDl3Zk81UkxlbklPbE8tQ2xMYWdzSElBdlF6eTJaeWRSdm9aa3JkYU5xbUZIUjUtc3VxZzlYUXhCOWplcHBDb1AzcEMzWXd1eTdndHdIVWlrUnVSMExWQnZaakd4Y3JYRkFZeE9POGNKTE5tRlhwTTJnWUs4QVBjM1l6OFpaYmVqNVZWa0ZIUU5R?oc=5",
-   "source": "SecurityWeek",
-   "summary": "",
-   "published": "2026-11-21T12:08:50+00:00"
   },
   {
    "category": "web3",
@@ -346,14 +370,6 @@
    "published": "2026-11-20T18:13:52+00:00"
   },
   {
-   "category": "ai_creative",
-   "title": "ShiftUp Claims Stellar Blade Blood Rain is \"Handmade Start To Finish\" After AI Music Video Backlash",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd0lwRXJnU19DNUFsRGtmTHZrM3h1OWQzdnZGNl8xZm1idkpVOHVZUlRmNDVOU09yU3k1NGszY3J0OUpXRW8tN1I3Zk5NclJWT3BVaWNlbXQ0WktNSWhTZDVST1pjN1JoZVdkYWpWRzhldFhaNEFsTnNNT2piNzdpMmQzRmRhZ2h3T1pTclh1QlJRR0ZMSjV4WFNzOUtuakRYc25zTV9GLWZXQnNTMTdUQnYxNVJXeVZ6WmFGNF9oaWU4VHN6c2ZVTHN6bELSAdIBQVVfeXFMT0ZSQlZ4NlktS243cEhBbTRBeFJjSkdvTzVhclppTmp2OHdQNU9BVnpPOG52bnNTWTRjbnczWXN2ZUJES0hYdWhsMU1SZjduTktYeUJCcWpIQlBEc0ZHdFhqdmtCekU5SGtjcThBY05JaTd2NlluSzZyN2plUW53YW0yQzhyU2sxTjh2OU5vNndzYlR0WVBQejdGbjNfNmxvcWQ4UmFZeXhFZTB5dUsxbWtuVE5SRzRrTEt2S0M4QVc3YXZzTFJYWlJXdVFjOGFHbHBR?oc=5",
-   "source": "TechPowerUp",
-   "summary": "",
-   "published": "2026-11-20T17:41:57+00:00"
-  },
-  {
    "category": "web3",
    "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
    "link": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
@@ -362,12 +378,12 @@
    "published": "2026-11-20T17:41:45+00:00"
   },
   {
-   "category": "web3",
-   "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
-   "link": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%.",
-   "published": "2026-11-20T16:55:51+00:00"
+   "category": "ai_general",
+   "title": "Anthropic Rumored to Prep 2 New Claude Models [2026]",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mX2w5TlhGVEdRV0lxY195MWVjakx1UDBDeFdTNWNFSTFSN3IySUVORUc0Q0RkSVY4WG5BVEhCRFQtYWRUcDd4bVJQemNfTmtUcWZhczhzN1pYTDR1eUVWVVV0cDdhU3dwSENXSDJRLTVkdw?oc=5",
+   "source": "shattered.io",
+   "summary": "",
+   "published": "2026-11-20T16:45:33+00:00"
   },
   {
    "category": "web3",
@@ -384,14 +400,6 @@
    "source": "Simon Willison",
    "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more…",
    "published": "2026-11-20T16:30:48+00:00"
-  },
-  {
-   "category": "web3",
-   "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
-   "link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "summary": "The Senate-approved bill would ban prediction market contracts tied to war, assassination and death amid concerns over potential insider trading on military events.",
-   "published": "2026-11-20T15:55:22+00:00"
   },
   {
    "category": "ai_workflow",
@@ -416,6 +424,14 @@
    "source": "The Defiant",
    "summary": "",
    "published": "2026-11-20T12:55:01+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Watch GTA VI Is Likely the Final Masterpiece of the Pre-Generative AI Era. Enjoy It",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUNCZlZHUzltb09zaldKR2pzQ3RFU3VkUDNjN01wVzE0dXBWUzBxd21sTk0yN0tUT0R3UkJ3aEpPZjFVUEJKMnhTcnhZNGVIWDdhVWxtTFdoUVZ6OE5FbE9GYUU4dHhqSGlWZkh3VXhUZ0ppZFFwMklSQWRQQlFWN1k4Tk8wdFZoTVpHRnJUVEYtUDdwQlFubU1oY1BfSFJOdkdjR1ZkWF9YanlsbFE0?oc=5",
+   "source": "WIRED",
+   "summary": "",
+   "published": "2026-11-20T12:48:23+00:00"
   },
   {
    "category": "ai_workflow",
@@ -446,14 +462,6 @@
    "title": "Easily Integrate Exploding Topics With Zapier and n8n",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFQ1Y0RFNGVEpJSDJpLTI1d3R4T2czRmY1ZG5RN0V4OXp5N2VPUjhhX18yY0F1bHFubERpSTNMb3hOeEVMV0V1d0hmcGlBdlpyS1pOMWQwekZBdXB5QWtvdWVKM21LV0ZYN1Vz?oc=5",
    "source": "Exploding Topics",
-   "summary": "",
-   "published": "2026-11-20T08:00:00+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Anthropic | History, Controversies, & Claude AI",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
-   "source": "Britannica",
    "summary": "",
    "published": "2026-11-20T08:00:00+00:00"
   },
@@ -523,11 +531,11 @@
   },
   {
    "category": "ai_creative",
-   "title": "Ubisoft has founded a studio dedicated to generative AI in games",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcV9oLU1PcmFQaldfcmJBVTA3am9pS1F3M1N6RnR4M1dkVmJxbUxqV2UzejJRZmh4OEh0WkUzS3lzZ29uWUNEblhrQ0FYNDN5bTJqdEpKQkY0cF9YVDhTR0d0Uzl5X1AwTFdGQ3NXZXVXNk5KV1RGOUwtOGZSV2VwSG9yMjVyQmNiMVZjNWdWcjg3U0xfTG5XNzFiMk1SSlM5REhZNVVhNlRvZw?oc=5",
-   "source": "Video Games Chronicle",
+   "title": "The AI Music 'Revolution' Is Getting Stranger by the Day",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdFBNeE1mRHdzMWJLN29IOEo4cEw2RXJoZFZpb3EyaHFaVEtkNWVWSU1KZnRQRTltMDVhRWQ4TTRoWEEwWjVTQ1FlQm56Qi1CWE9KVDVUbHppb1hvaURhVlc3RjZvSzEzMlU3eXJJV3lvcmJkSjZxejlTSnBqTEZRMjh1ak1Sd2J6OVhZaFNGUnhjUEE?oc=5",
+   "source": "OkayAfrica",
    "summary": "",
-   "published": "2026-11-19T17:26:14+00:00"
+   "published": "2026-11-19T17:47:59+00:00"
   },
   {
    "category": "ai_creative",
@@ -544,6 +552,14 @@
    "source": "World Economic Forum",
    "summary": "",
    "published": "2026-11-19T16:48:35+00:00"
+  },
+  {
+   "category": "ai_workflow",
+   "title": "Build Tool-Calling Parsers in Rust with AI Agents | NVIDIA Technical Blog",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVEtXUHZ5VUNialNvT1R5aFN3ZExuM3huZlZzSEgyRDc1Q0JHWGVlR3pPTmJ2eEpQamN0TG5LTVpQMmktNDdVT1BwVDRrQmFmeE54TXVNYWhudExfQ2tBQXhEaVRQMjduYzFoczZmQjFhSkNpVWd2aWNXNUs0VkhVUHBGMlpuaE84aWFuZg?oc=5",
+   "source": "NVIDIA Developer",
+   "summary": "",
+   "published": "2026-11-19T16:36:15+00:00"
   },
   {
    "category": "web3",
@@ -642,6 +658,14 @@
    "published": "2026-11-19T08:00:00+00:00"
   },
   {
+   "category": "ai_general",
+   "title": "What Is Anthropic?",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHOWtkbkhKSl9zSll1T3Nwd2tyV1RxUWM2czhkWmQzQW51eDVnSHN2eFVZUmpPZ0E3RFVsOHJad1RzTVN5QXdZalotWU96aFk?oc=5",
+   "source": "Built In",
+   "summary": "",
+   "published": "2026-11-19T08:00:00+00:00"
+  },
+  {
    "category": "ai_creative",
    "title": "Support Small Artists, Avoid AI Music",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMRldRRmR1eGlyRGVYT3JrX2U3TG55Vk9hektwcENTb1NTeF9LWUhkNTg5UGxqNmJRUG5DUy1zUDJaUkZLdWZwLUI4SVJfM3dCRVk5clRpVnZrWW94cDRvSW5kdU1BY2JrX1BLVHcyTUFwUUk?oc=5",
@@ -730,6 +754,14 @@
    "published": "2026-11-18T18:03:15+00:00"
   },
   {
+   "category": "ai_general",
+   "title": "OpenAI Releases GPT-6.2 Astra and GPT-6.2 Sol",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5OGhpMTltamRYZFlFODgzXzhKMERsdHJ4cDhUeFJoUXhnOGk5cldRMXVDYVZteS1yQkhIX1NDWDBjaVlBZWEzRVE1cF8tV1c0Rzg5c0xqMnRHTkxTX2RkaE56T1lhTUww?oc=5",
+   "source": "CASRAI",
+   "summary": "",
+   "published": "2026-11-18T17:30:07+00:00"
+  },
+  {
    "category": "ai_workflow",
    "title": "datasette-arrows 0.1a0",
    "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
@@ -776,14 +808,6 @@
    "source": "Consumer Finance Monitor",
    "summary": "",
    "published": "2026-11-18T14:18:54+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "Suno Moves From AI Music Into Video, Adopts Chinese MiniMax Model for Music Video Generation Feature",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qN2FZQ2JVelZIRW5Vd2tOQzM1YXpqaHZBQlJWSEM4MzBEektVQTJiY0E1SkxVcGxWdlRTall3ZjRCUUVueEduWkVqaTV3N2ptdXFMX3FzVmUwRFB1c3VfaGdvQ0JvZUNpQzZXUS1tMlhpZVdrS1E?oc=5",
-   "source": "BigGo Finance",
-   "summary": "",
-   "published": "2026-11-18T12:55:00+00:00"
   },
   {
    "category": "ai_creative",
@@ -834,14 +858,6 @@
    "published": "2026-11-18T08:00:00+00:00"
   },
   {
-   "category": "ai_general",
-   "title": "Best AI Model: Terra vs Opus 5.5 vs Argon, 3 Tests [2026]",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWktweXlFRFBIcElCVGowemk2Q2RDWl8xRFNiYWtBbGJ2YVpCLXNKQ1FqNWM4WkFTYjZWNUp2Wk5nY2JVNGFwdUFWZlNteldqSGc3a0k3eUJpaWthZU5aMHdNU2NyRzVUbHhOeDlId1Zfb0t1ck1aNHN1YXlVWlpBRk9QaTdCcnBtN1BwNU9hWjZiYlkxNmc?oc=5",
-   "source": "shattered.io",
-   "summary": "",
-   "published": "2026-11-18T08:00:00+00:00"
-  },
-  {
    "category": "web3",
    "title": "OCC Stablecoin Rule Gives Issuers a 2027 Compliance Clock",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUxIZWdBVm9XNWNzYnBOOU9mWDF2WVhfS0ROdmhsOWJNR3lGRXhKaEkwQzQyNUlpeUNnWFhQbzR0REc4RW5RcUVsNS1UWUZ1b2RaUy1hZUFZREc1ZkhJN21UejdOWXN3WmtieHFad2tMUkwxdUtpcFBWN1A1LXJQbjZRdDI2SENRa1NFNmZOeGZrOGVfQVJr?oc=5",
@@ -874,22 +890,6 @@
    "published": "2026-11-17T22:52:29+00:00"
   },
   {
-   "category": "ai_workflow",
-   "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-   "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-   "source": "Simon Willison",
-   "summary": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API…",
-   "published": "2026-11-17T22:38:52+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "Suno Moves Into AI Filmmaking With New Product ‘Visuals’",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzN0WjBQaTFxRXRabEcyd0RibEVlMU9jLUt0ck1VZDhERjVNTzJvcW5UemRkNnZ6dE1ra215VkQyQ1B6bkJvenN0NHlzVFdJaVMwelNNNU5rZXN4NFhUcm42VDFRWmtkT2ZrUkdXVlJsYjl3VWJUTmRsMFRiZUNYd24zaFA0Sjk5?oc=5",
-   "source": "Billboard",
-   "summary": "",
-   "published": "2026-11-17T22:03:34+00:00"
-  },
-  {
    "category": "ai_creative",
    "title": "Suno launches AI music video tool built on model from MiniMax – the Chinese AI firm being sued by Disney and other Hollywood studios",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUlZDVGtRcmIxb0c5b0llVEFVUFB2ajVnVmowTjNuMGF2WWlkUXdKdTA3TUlpNldvTzEtVUt3YUY3RUFLRDl2RHJmSk96V3hCZkRBX2QyR2dVcGlsT1UzTHRIX2E5RGJSdmh2b2EtYl9kdktqeDU2clluUFAxbzhZVFFqNWRnekY1ZUx2YXJiNklNWkctNVRsTHllMnNJdWUzbEZkSGRWNmg2d2FPNm5sN1JUbWZSNkJPaHV4WkhBQUgyVzdIRzhPNlZJeDlMbzc4RGN3aGd1VmJRXzNaTkRneGVRT1NWVWYzTzNsRlN3d29aRkJuQi1sMTFpT2NZMXM?oc=5",
@@ -904,6 +904,14 @@
    "source": "The GitHub Blog",
    "summary": "",
    "published": "2026-11-17T20:20:29+00:00"
+  },
+  {
+   "category": "ai_creative",
+   "title": "Suno Moves Into AI Filmmaking With New Product ‘Visuals’",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzN0WjBQaTFxRXRabEcyd0RibEVlMU9jLUt0ck1VZDhERjVNTzJvcW5UemRkNnZ6dE1ra215VkQyQ1B6bkJvenN0NHlzVFdJaVMwelNNNU5rZXN4NFhUcm42VDFRWmtkT2ZrUkdXVlJsYjl3VWJUTmRsMFRiZUNYd24zaFA0Sjk5?oc=5",
+   "source": "Billboard",
+   "summary": "",
+   "published": "2026-11-17T19:18:11+00:00"
   },
   {
    "category": "ai_general",
@@ -939,6 +947,14 @@
   },
   {
    "category": "ai_creative",
+   "title": "AI Startup Fermat Secures $8M to Streamline Fashion Tech Packs",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSFN6ZDZXbk5uNlZ5WThRd2o5UHNBNzU2WGlwQ01iejNrZGZ5VGcyUDlhWmZPMXFCVGYxSzBvcWpQUHJiZFJCMG43NXZWeEgtY1FsSFRhUFpndFgyQUlGMXVOd0dSWWRCTnNsZzVLTHh1OUR5SGRwTHZfNGdxRE9aU0hheFd4aGhzc0xJQVZZcU5GZmlyVUQtdzJnWmJ2TUhmdjdJ?oc=5",
+   "source": "WWD",
+   "summary": "",
+   "published": "2026-11-17T15:01:59+00:00"
+  },
+  {
+   "category": "ai_creative",
    "title": "AI Music Generator Suno to Let Users Create Music Videos",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdnpHaGdtSS1QSnNMekFIc3daQzJ5UTljaWZiazhKS2h4WlRnXzM0ck5aM1hWUm9RZERtSlhIbENRV1hvS0Rub3ZMX3RoNXJwVDZ5cUpIS19jNG83T3ZyQWNobW5ELUpFcTNDMHJORjNUZVZfekx4dHAwWUN4WFhZQW12LTFpdGlsR2JsRE9UVGJieVlRVVFacWd6ZVhlcE5FbGJrUWJnOGVmZms?oc=5",
    "source": "Bloomberg.com",
@@ -947,19 +963,11 @@
   },
   {
    "category": "ai_creative",
-   "title": "IWGB Game Workers Union leads manifesto on generative AI use in the industry",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZjNPaC1wb2pWT3B6alBwOHVUUjdjeXp1M3RIQU44OW12bkVFNzZfNHFXNXNmaXZmaURaSUV0djNBdmJmMk9SRzhTVEZCSXhWSlhGX2xHZW5ONzg0ci1Ubzc2VkoxdlNvVjhVU2RPYjVXNDdHc1RMX3JJWmg0VndZOU5TRzRna0pubjkyWUNIME9rZTAxUEFtSWNaQjRSRld1OERXWi0yMEtqZw?oc=5",
-   "source": "GamesIndustry.biz",
+   "title": "Perfect Corp. introduces a brand-new AI Song & Music Video Platform, YouCam Muse, and kicks off the AI Music Video Challenge with Cash Prizes",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlJ5V3FLa00zQUxpRDctejhzUkR0bmRTVndmLU4xUzZHQ0I4S0dJNURKOTdSY3pqb1hzamZ2MG9jR3dmczVyazh4cTVqa1NVZGh0MnY3MFJwbnJEa3RGTHBNTnlXV19UckRrLUhlUDdtVFhPUHExcXpUc2QwZXVVWFo1LVFiOW42VFlUNVJmTW50ZE9yS0hpcTRXSEU?oc=5",
+   "source": "Yahoo Finance",
    "summary": "",
-   "published": "2026-11-17T14:28:00+00:00"
-  },
-  {
-   "category": "ai_creative",
-   "title": "TuneArt AI Music Video Maker Lets Artists Create Music Videos Without a Subscription",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzNzSXRYR1hXRGF4SHNjSFB2SnM2VTcyUnU5TWg1aXdiSm90Z25na2RGQzNJd0k2dFQxWTVxeEtCc05LVTVEY3JRekNxMUR5T0hiM1VOdXI5NGJIbjZ6N2pEZTVKd0xYcWpiNkxwUURwS1B3Z0RVWEc3OG5DRzZreUhvWFNrS182NlY4aTZ4d3BONl9MX2prWkw3ZG15V3N3cXY2TjR5NnVEV1hMUFhJMkFJQQ?oc=5",
-   "source": "RouteNote",
-   "summary": "",
-   "published": "2026-11-17T10:12:04+00:00"
+   "published": "2026-11-17T13:00:00+00:00"
   },
   {
    "category": "ai_workflow",
@@ -1016,14 +1024,6 @@
    "source": "Hugging Face",
    "summary": "",
    "published": "2026-11-16T00:00:00+00:00"
-  },
-  {
-   "category": "ai_general",
-   "title": "Anthropic’s giant IPO puts the heat on OpenAI",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTd6eHRac3JHWEQ5TElWUXZZUWRsMHdXckRQbjJ6X3ZvOFUtVHZDcjFBVWVqOE9LVnNPS3NWeDROZUtsRFdEdklzRzctYlpWbWszbElsMU94VWxtUm5OZ1ozdUxWWnVGRlpGM3ozYWxISG5fS1Y5QlB1bVQ0Z09sVGphWmgzMlpKMWduNkZYX0N1b1Br?oc=5",
-   "source": "The Economist",
-   "summary": "",
-   "published": "2026-11-15T19:49:20+00:00"
   },
   {
    "category": "ai_workflow",
